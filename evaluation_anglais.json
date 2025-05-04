@@ -1,0 +1,225 @@
+{
+  "titre": "Anglais - 4 Mai 2025",
+  "questions": [
+    {
+      "question": "Which expression is correct to begin a description?",
+      "options": [
+        "There has a picture",
+        "There is a picture showing",
+        "It is look like a photo",
+        "It have people"
+      ],
+      "correct": 1,
+      "explanation": "We usually start with 'There is a picture showing…' to describe what we see."
+    },
+    {
+      "question": "What tense is most commonly used to describe what is happening in a picture?",
+      "options": [
+        "Simple past",
+        "Present simple",
+        "Present continuous",
+        "Future"
+      ],
+      "correct": 2,
+      "explanation": "The present continuous is used to describe ongoing actions visible in the image (e.g. 'The man is running')."
+    },
+    {
+      "question": "What does 'in the foreground' mean?",
+      "options": [
+        "At the top of the image",
+        "In the center of the image",
+        "At the bottom or front of the image",
+        "Far in the background"
+      ],
+      "correct": 2,
+      "explanation": "'In the foreground' means in the front part of the image, closer to the viewer."
+    },
+    {
+      "question": "Which preposition is best in the sentence: 'There is a boy ___ the left'?",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "correct": 0,
+      "explanation": "We say 'on the left' when describing positions in a picture."
+    },
+    {
+      "question": "What is the opposite of 'in the foreground'?",
+      "options": [
+        "In the middle",
+        "On the right",
+        "In the background",
+        "At the top"
+      ],
+      "correct": 2,
+      "explanation": "'In the background' refers to what is behind or far in the image."
+    },
+    {
+      "question": "Complete the sentence: 'The girl is ___ a red dress.'",
+      "options": [
+        "wear",
+        "wearing",
+        "wore",
+        "wears"
+      ],
+      "correct": 1,
+      "explanation": "We use the present continuous 'is wearing' for current visible actions."
+    },
+    {
+      "question": "Which of the following is NOT an expression used to describe an image?",
+      "options": [
+        "In the top left corner",
+        "At the background",
+        "On the right",
+        "In the center"
+      ],
+      "correct": 1,
+      "explanation": "We say 'in the background', not 'at the background'."
+    },
+    {
+      "question": "What kind of photo is described by 'a candid photo'?",
+      "options": [
+        "A posed studio photo",
+        "A photo of food",
+        "A photo taken without preparation",
+        "A photo edited with filters"
+      ],
+      "correct": 2,
+      "explanation": "'Candid' refers to a natural, spontaneous photo, not staged or posed."
+    },
+    {
+      "question": "What is 'a caption'?",
+      "options": [
+        "A type of camera",
+        "A short text describing a picture",
+        "A title of a movie",
+        "The top of the picture"
+      ],
+      "correct": 1,
+      "explanation": "A caption is a brief description under or next to a photo explaining what it shows."
+    },
+    {
+      "question": "In the sentence 'The man is standing next to the dog', what does 'next to' mean?",
+      "options": [
+        "Far away from",
+        "Behind",
+        "Close to or beside",
+        "In front of"
+      ],
+      "correct": 2,
+      "explanation": "'Next to' means close to or beside someone or something."
+    },
+    {
+      "question": "Which question would you ask to analyze an image’s message?",
+      "options": [
+        "How many people are there?",
+        "Is the dog barking?",
+        "What is the photographer trying to say?",
+        "Is it daytime or night?"
+      ],
+      "correct": 2,
+      "explanation": "Analyzing involves interpreting meaning: asking what the artist or photographer wants to express."
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "options": [
+        "There are three children who playing.",
+        "There is a man who is cooking.",
+        "The woman cook dinner.",
+        "They is watching TV."
+      ],
+      "correct": 1,
+      "explanation": "Grammatically, only 'There is a man who is cooking' is correct."
+    },
+    {
+      "question": "What is the correct order for describing an image?",
+      "options": [
+        "Message → Foreground → Background → Elements",
+        "Elements → Background → Style → Colors",
+        "General → Foreground → Background → Details",
+        "Details → Colors → Composition → Mood"
+      ],
+      "correct": 2,
+      "explanation": "We typically start general and zoom into details."
+    },
+    {
+      "question": "Which word is closest in meaning to 'mood' when talking about a photo?",
+      "options": [
+        "Emotion",
+        "Focus",
+        "Flash",
+        "Angle"
+      ],
+      "correct": 0,
+      "explanation": "The 'mood' is the feeling or emotion the image expresses (e.g., sadness, joy)."
+    },
+    {
+      "question": "If an image shows people protesting, what might be its purpose?",
+      "options": [
+        "To promote fashion",
+        "To show political expression",
+        "To advertise food",
+        "To sell cars"
+      ],
+      "correct": 1,
+      "explanation": "Protests are often used in images to express political or social messages."
+    },
+    {
+      "question": "Which of the following best describes a black-and-white image?",
+      "options": [
+        "It is old-fashioned and has no color",
+        "It is blurry and hard to see",
+        "It is a cartoon",
+        "It uses only red tones"
+      ],
+      "correct": 0,
+      "explanation": "A black-and-white photo lacks color and often conveys a nostalgic or dramatic tone."
+    },
+    {
+      "question": "What’s the best way to say 'Il y a un garçon qui court' in English?",
+      "options": [
+        "There has a boy who runs",
+        "There is a boy running",
+        "It is a boy running",
+        "There is run boy"
+      ],
+      "correct": 1,
+      "explanation": "Correct grammar and tense: 'There is a boy running'."
+    },
+    {
+      "question": "What is the photographer’s 'point of view'?",
+      "options": [
+        "The place where the photo was taken",
+        "The opinion of the person in the photo",
+        "The camera settings",
+        "The background details"
+      ],
+      "correct": 0,
+      "explanation": "‘Point of view’ refers to the angle or position chosen by the photographer to capture the scene."
+    },
+    {
+      "question": "What does 'blurry' mean in photography?",
+      "options": [
+        "Too bright",
+        "Not clear or sharp",
+        "Black and white",
+        "Far away"
+      ],
+      "correct": 1,
+      "explanation": "'Blurry' describes an image that is not clear or in focus."
+    },
+    {
+      "question": "Which expression can be used to conclude a photo description?",
+      "options": [
+        "To summarize, the photo shows...",
+        "At the beginning, I think...",
+        "While the dog is barking...",
+        "It is seeing a tree"
+      ],
+      "correct": 0,
+      "explanation": "'To summarize...' is a proper way to wrap up an analysis or description."
+    }
+  ]
+}

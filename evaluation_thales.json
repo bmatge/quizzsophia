@@ -1,0 +1,225 @@
+{
+  "titre": "Thalès - 4 Mai 2025",
+  "questions": [
+    {
+      "question": "Quel est le principal énoncé du théorème de Thalès ?",
+      "options": [
+        "Dans un triangle isocèle, les angles de base sont égaux.",
+        "Si deux droites sont parallèles, alors les côtés correspondants des triangles qu'elles délimitent sont proportionnels.",
+        "Le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés.",
+        "Un angle inscrit dans un demi-cercle est droit."
+      ],
+      "correct": 1,
+      "explanation": "Le théorème de Thalès permet d’affirmer que si deux droites sont parallèles et coupées par deux sécantes, alors les longueurs correspondantes sont proportionnelles."
+    },
+    {
+      "question": "Thalès s'applique dans un triangle si :",
+      "options": [
+        "Les côtés opposés sont égaux.",
+        "Les droites sont perpendiculaires.",
+        "Deux droites sont parallèles et coupées par deux sécantes.",
+        "Il y a un angle droit."
+      ],
+      "correct": 2,
+      "explanation": "La configuration du théorème exige deux droites parallèles coupées par deux sécantes."
+    },
+    {
+      "question": "Dans le théorème de Thalès, quelles grandeurs sont comparées ?",
+      "options": [
+        "Les longueurs de côtés opposés",
+        "Les aires des triangles",
+        "Les longueurs de segments sur les mêmes droites",
+        "Les angles des triangles"
+      ],
+      "correct": 2,
+      "explanation": "Le théorème repose sur la proportionnalité des longueurs sur les mêmes droites."
+    },
+    {
+      "question": "Le théorème de Thalès est principalement utilisé pour :",
+      "options": [
+        "Calculer des angles dans un cercle",
+        "Prouver qu’un triangle est rectangle",
+        "Calculer des longueurs inconnues",
+        "Tracer des cercles"
+      ],
+      "correct": 2,
+      "explanation": "Il permet de déterminer des longueurs manquantes grâce à des rapports proportionnels."
+    },
+    {
+      "question": "Dans une configuration de Thalès, si AB = 6 cm, AC = 9 cm, AD = 2 cm, alors AE = ?",
+      "options": [
+        "3 cm",
+        "4 cm",
+        "5 cm",
+        "6 cm"
+      ],
+      "correct": 0,
+      "explanation": "AD/AB = AE/AC donc AE = AC × AD / AB = 9×2/6 = 3 cm."
+    },
+    {
+      "question": "La réciproque du théorème de Thalès permet de :",
+      "options": [
+        "Calculer une longueur",
+        "Démontrer que deux droites sont parallèles",
+        "Construire un triangle",
+        "Déterminer un angle"
+      ],
+      "correct": 1,
+      "explanation": "La réciproque est utilisée pour démontrer que deux droites sont parallèles à partir de la proportionnalité des longueurs."
+    },
+    {
+      "question": "Thalès ne s’applique pas si :",
+      "options": [
+        "Deux triangles ont un côté commun",
+        "Les droites censées être parallèles ne le sont pas",
+        "Les longueurs sont entières",
+        "On connaît tous les côtés"
+      ],
+      "correct": 1,
+      "explanation": "Sans droites parallèles, la configuration de Thalès n’est pas valide."
+    },
+    {
+      "question": "Quelle égalité représente correctement l'application du théorème de Thalès ?",
+      "options": [
+        "AB / DE = BC / EF",
+        "AB / AD = AC / AE",
+        "AB + AC = AD + AE",
+        "AB × AD = AC × AE"
+      ],
+      "correct": 1,
+      "explanation": "La bonne égalité est : AB/AD = AC/AE, car les segments sont alignés sur deux droites sécantes coupées par des parallèles."
+    },
+    {
+      "question": "Quel est un usage courant du théorème dans la vie réelle ?",
+      "options": [
+        "Mesurer la hauteur d’un arbre avec son ombre",
+        "Calculer l’âge d’un objet antique",
+        "Prévoir une épidémie",
+        "Convertir des températures"
+      ],
+      "correct": 0,
+      "explanation": "La mesure d’ombres permet une application pratique du théorème de Thalès en géométrie des ombres."
+    },
+    {
+      "question": "Quelle condition est essentielle pour appliquer Thalès ?",
+      "options": [
+        "Un angle droit",
+        "Deux triangles rectangles",
+        "Deux droites parallèles",
+        "Un cercle inscrit"
+      ],
+      "correct": 2,
+      "explanation": "Les deux droites doivent être parallèles pour que le théorème soit applicable."
+    },
+    {
+      "question": "Dans une configuration de Thalès, si les droites ne sont pas parallèles :",
+      "options": [
+        "La proportionnalité est conservée",
+        "Le théorème ne s’applique pas",
+        "Les triangles sont semblables",
+        "La somme des angles change"
+      ],
+      "correct": 1,
+      "explanation": "L’absence de parallélisme invalide la condition principale du théorème."
+    },
+    {
+      "question": "Dans un triangle ABC, si DE est parallèle à BC, alors :",
+      "options": [
+        "AD / AB = AE / AC",
+        "AD / DE = AB / AC",
+        "AB = AC",
+        "AD / AE = AB / AC"
+      ],
+      "correct": 0,
+      "explanation": "Lorsque DE est parallèle à BC, la proportionnalité AD/AB = AE/AC est vraie."
+    },
+    {
+      "question": "Thalès permet également de :",
+      "options": [
+        "Vérifier une proportion",
+        "Trouver des tangentes",
+        "Multiplier des vecteurs",
+        "Construire un cercle"
+      ],
+      "correct": 0,
+      "explanation": "On peut s’en servir pour vérifier si des rapports de longueurs sont compatibles avec un parallélisme."
+    },
+    {
+      "question": "Dans une figure de Thalès, si AB = 8 cm, AD = 2 cm, AC = 12 cm, quelle est la valeur de AE ?",
+      "options": [
+        "2 cm",
+        "3 cm",
+        "4 cm",
+        "6 cm"
+      ],
+      "correct": 1,
+      "explanation": "AE = AC × AD / AB = 12×2/8 = 3 cm."
+    },
+    {
+      "question": "Pourquoi parle-t-on souvent de 'configuration de Thalès' ?",
+      "options": [
+        "Pour désigner les triangles rectangles",
+        "Pour signaler l’usage d’un cercle",
+        "Pour décrire une figure avec deux sécantes et deux parallèles",
+        "Parce que Thalès a découvert le théorème en Égypte"
+      ],
+      "correct": 2,
+      "explanation": "On appelle ainsi les figures typiques où Thalès s’applique, avec deux droites coupées par deux sécantes."
+    },
+    {
+      "question": "Quel théorème est souvent confondu avec celui de Thalès ?",
+      "options": [
+        "Pythagore",
+        "Euclide",
+        "Archimède",
+        "Descartes"
+      ],
+      "correct": 0,
+      "explanation": "Pythagore, qui traite des longueurs dans les triangles rectangles, est souvent mélangé avec Thalès."
+    },
+    {
+      "question": "La proportionnalité dans Thalès s’applique à :",
+      "options": [
+        "Des angles opposés",
+        "Des côtés opposés",
+        "Des segments sur des droites parallèles",
+        "Des segments quelconques"
+      ],
+      "correct": 2,
+      "explanation": "Les longueurs doivent être alignées sur deux droites parallèles pour que la proportionnalité soit valable."
+    },
+    {
+      "question": "Quelle est la nature des triangles obtenus dans une configuration de Thalès ?",
+      "options": [
+        "Isocèles",
+        "Semblables",
+        "Rectangles",
+        "Équilatéraux"
+      ],
+      "correct": 1,
+      "explanation": "Les triangles formés sont semblables, car leurs côtés sont proportionnels et leurs angles égaux."
+    },
+    {
+      "question": "Quel outil géométrique est indispensable pour vérifier une configuration de Thalès ?",
+      "options": [
+        "Un compas",
+        "Une équerre",
+        "Une règle graduée",
+        "Un rapporteur"
+      ],
+      "correct": 2,
+      "explanation": "On utilise une règle pour mesurer et vérifier les longueurs proportionnelles."
+    },
+    {
+      "question": "Pourquoi Thalès est-il un théorème fondamental ?",
+      "options": [
+        "Il permet de mesurer des longueurs indirectement",
+        "Il calcule des angles dans les cercles",
+        "Il donne les aires des figures",
+        "Il mesure des vitesses"
+      ],
+      "correct": 0,
+      "explanation": "Il permet de résoudre des problèmes de géométrie pratique en mesurant à distance via des proportions."
+    }
+  ]
+}

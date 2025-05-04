@@ -1,0 +1,225 @@
+{
+  "titre": "Toine & Autres - 4 Mai 2025",
+  "questions": [
+    {
+      "question": "Dans 'La Parure', pourquoi Mathilde Loisel emprunte-t-elle un collier ?",
+      "options": [
+        "Pour paraître plus riche lors d'un bal",
+        "Parce qu'elle a perdu le sien",
+        "Pour le vendre et rembourser une dette",
+        "Pour impressionner son mari jaloux"
+      ],
+      "correct": 0,
+      "explanation": "Mathilde rêve d'une vie luxueuse et emprunte le collier pour briller lors d'une soirée mondaine organisée par le ministère où travaille son mari."
+    },
+    {
+      "question": "Quel est le principal handicap du personnage 'Toine' dans la nouvelle éponyme ?",
+      "options": [
+        "Il est alcoolique et paresseux",
+        "Il est paralysé des jambes suite à une attaque",
+        "Il est devenu aveugle après un accident",
+        "Il souffre d'une maladie mentale"
+      ],
+      "correct": 1,
+      "explanation": "Toine est cloué au lit par une paralysie soudaine, ce qui le rend dépendant et modifie radicalement la dynamique avec sa femme et ses amis."
+    },
+    {
+      "question": "Dans 'Le Lit 29', quelle maladie contracte le capitaine Épivent auprès d'Irma ?",
+      "options": [
+        "La tuberculose",
+        "La grippe espagnole",
+        "La syphilis",
+        "Le choléra"
+      ],
+      "correct": 2,
+      "explanation": "La syphilis, maladie vénérienne, symbolise ici la conséquence tragique d’un moment de plaisir éphémère."
+    },
+    {
+      "question": "Dans 'Aux champs', pourquoi une famille vend-elle son enfant ?",
+      "options": [
+        "Parce qu’il est malade",
+        "Par amour pour leur autre fils",
+        "Pour sortir de la pauvreté",
+        "À cause d’une vengeance"
+      ],
+      "correct": 2,
+      "explanation": "La pauvreté pousse les parents à accepter l’offre d’une bourgeoise de prendre un de leurs fils contre de l’argent."
+    },
+    {
+      "question": "Dans 'La Parure', quelle est la chute de l’histoire ?",
+      "options": [
+        "Le collier était en toc",
+        "Mathilde retrouve le collier perdu",
+        "Le collier est finalement rendu",
+        "La soirée est annulée"
+      ],
+      "correct": 0,
+      "explanation": "Après dix ans de misère pour rembourser le collier, Mathilde apprend qu’il était faux."
+    },
+    {
+      "question": "Dans 'Le Papa de Simon', pourquoi les enfants se moquent-ils de Simon ?",
+      "options": [
+        "Parce qu’il est pauvre",
+        "Parce qu’il est orphelin",
+        "Parce qu’il n’a pas de père connu",
+        "Parce qu’il bégaye"
+      ],
+      "correct": 2,
+      "explanation": "Le récit met en lumière la cruauté des enfants face à Simon, rejeté pour ne pas avoir de père officiel."
+    },
+    {
+      "question": "Comment se termine 'Le Papa de Simon' ?",
+      "options": [
+        "Philippe adopte Simon",
+        "Simon quitte l’école",
+        "La mère de Simon se marie avec Philippe",
+        "Le père revient"
+      ],
+      "correct": 0,
+      "explanation": "Philippe devient une figure paternelle pour Simon et le défend, restaurant sa dignité."
+    },
+    {
+      "question": "Quel est le style d’écriture de Maupassant dans ces contes ?",
+      "options": [
+        "Lyrique et poétique",
+        "Fantastique et symbolique",
+        "Simple, réaliste et ironique",
+        "Philosophique et abstrait"
+      ],
+      "correct": 2,
+      "explanation": "Maupassant emploie un style direct, descriptif et empreint d’ironie pour dépeindre la société."
+    },
+    {
+      "question": "Quel thème est récurrent dans ces nouvelles ?",
+      "options": [
+        "L'amour romantique",
+        "L’ascension sociale par le travail",
+        "La condition sociale et l’injustice",
+        "L’aventure et le voyage"
+      ],
+      "correct": 2,
+      "explanation": "Maupassant explore la misère, les inégalités sociales et la cruauté ordinaire."
+    },
+    {
+      "question": "Que critique Maupassant à travers 'La Parure' ?",
+      "options": [
+        "La mode parisienne",
+        "La guerre",
+        "Le rêve bourgeois et les apparences",
+        "L’école républicaine"
+      ],
+      "correct": 2,
+      "explanation": "L’histoire illustre les illusions sociales et les conséquences désastreuses du paraître."
+    },
+    {
+      "question": "Dans 'Toine', que fait sa femme pour tirer profit de sa paralysie ?",
+      "options": [
+        "Elle lui demande de tricoter",
+        "Elle l’envoie à l’hospice",
+        "Elle le fait garder les bébés",
+        "Elle le fait mendier"
+      ],
+      "correct": 2,
+      "explanation": "Elle exploite son immobilité pour le charger de surveiller les bébés pendant qu’elle travaille."
+    },
+    {
+      "question": "Dans 'Aux champs', comment réagit l’enfant élevé par les bourgeois à l’âge adulte ?",
+      "options": [
+        "Il revient plein de reconnaissance",
+        "Il déteste ses parents biologiques",
+        "Il ignore ses parents biologiques",
+        "Il les aide financièrement"
+      ],
+      "correct": 2,
+      "explanation": "L’enfant, élevé dans le confort, nie toute attache avec sa famille d’origine."
+    },
+    {
+      "question": "Que symbolise le collier dans 'La Parure' ?",
+      "options": [
+        "La beauté",
+        "Le luxe et l’illusion sociale",
+        "La loyauté",
+        "Le mariage"
+      ],
+      "correct": 1,
+      "explanation": "Objet de vanité, il incarne le piège du paraître et les illusions sociales de Mathilde."
+    },
+    {
+      "question": "Dans 'Le Lit 29', où se termine l’histoire ?",
+      "options": [
+        "Au tribunal",
+        "À l’hôpital",
+        "Chez la mère d’Irma",
+        "Dans un cimetière militaire"
+      ],
+      "correct": 1,
+      "explanation": "L’histoire se clôt à l’hôpital, où le capitaine retrouve Irma, elle aussi atteinte de syphilis."
+    },
+    {
+      "question": "Que reproche-t-on à Maupassant dans certaines critiques de l’époque ?",
+      "options": [
+        "D’être trop romantique",
+        "D’utiliser un style trop simple",
+        "De décrire la réalité crue de la vie",
+        "De soutenir les valeurs religieuses"
+      ],
+      "correct": 2,
+      "explanation": "Son réalisme dérangeait certains lecteurs par sa franchise sur la misère et les injustices."
+    },
+    {
+      "question": "Pourquoi 'Toine' est-il aussi un personnage comique malgré sa condition ?",
+      "options": [
+        "Il raconte des blagues",
+        "Il est sarcastique et rusé",
+        "Il est vêtu de manière ridicule",
+        "Il parle en vers"
+      ],
+      "correct": 1,
+      "explanation": "Son humour grinçant et son franc-parler rendent ses répliques drôles malgré la situation dramatique."
+    },
+    {
+      "question": "Dans 'Le Papa de Simon', que représente Philippe pour l’enfant ?",
+      "options": [
+        "Un oncle",
+        "Un ami de la famille",
+        "Une figure de père protecteur",
+        "Un ennemi de sa mère"
+      ],
+      "correct": 2,
+      "explanation": "Philippe incarne la figure bienveillante et virile qui redonne espoir à Simon."
+    },
+    {
+      "question": "Quelle qualité Maupassant donne-t-il souvent à ses narrateurs ?",
+      "options": [
+        "Une voix omnisciente externe",
+        "Un point de vue enfantin",
+        "Une implication émotionnelle forte",
+        "Un regard neutre et observateur"
+      ],
+      "correct": 3,
+      "explanation": "Le narrateur reste souvent extérieur et factuel, renforçant l’effet réaliste du récit."
+    },
+    {
+      "question": "Quel effet produit la chute dans les nouvelles de Maupassant ?",
+      "options": [
+        "Une résolution heureuse",
+        "Une surprise ou un malaise",
+        "Une réponse morale",
+        "Une ouverture à la suite"
+      ],
+      "correct": 1,
+      "explanation": "La chute est souvent brutale, ironique ou dramatique, créant un effet de choc ou de réflexion."
+    },
+    {
+      "question": "Quel est le registre dominant dans ces contes ?",
+      "options": [
+        "Épique",
+        "Pathétique et réaliste",
+        "Fantastique",
+        "Poétique"
+      ],
+      "correct": 1,
+      "explanation": "Le pathétique sert à susciter l’émotion et le réalisme à dénoncer la condition sociale des personnages."
+    }
+  ]
+}
