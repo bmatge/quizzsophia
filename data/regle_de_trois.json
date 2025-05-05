@@ -1,0 +1,140 @@
+{
+  "titre": "Utilisation de la règle de trois – Niveau 4e",
+  "questions": [
+    {
+      "question": "Si 3 stylos coûtent 6 €, combien coûtent 5 stylos au même tarif ?",
+      "options": ["9 €", "10 €", "12 €", "15 €"],
+      "correct": 1,
+      "explanation": "6 ÷ 3 = 2 € par stylo → 5 × 2 = 10 €."
+    },
+    {
+      "question": "Un robinet remplit une piscine en 12 heures. Combien de temps faudra-t-il à 3 robinets identiques pour remplir la même piscine ?",
+      "options": ["4 h", "6 h", "9 h", "36 h"],
+      "correct": 0,
+      "explanation": "C’est une situation de proportion inverse : 12 ÷ 3 = 4 heures."
+    },
+    {
+      "question": "Si 4 kg de pommes coûtent 8 €, combien coûte 1,5 kg ?",
+      "options": ["2 €", "3 €", "4 €", "5 €"],
+      "correct": 2,
+      "explanation": "8 ÷ 4 = 2 €/kg → 1.5 × 2 = 3 €."
+    },
+    {
+      "question": "La règle de trois sert à :",
+      "options": [
+        "Comparer des volumes",
+        "Faire des divisions",
+        "Résoudre des situations de proportionnalité",
+        "Mesurer une distance"
+      ],
+      "correct": 2,
+      "explanation": "Elle permet de résoudre des problèmes où deux grandeurs sont proportionnelles."
+    },
+    {
+      "question": "Une voiture parcourt 300 km en 3 heures. Combien parcourt-elle en 5 heures à vitesse constante ?",
+      "options": ["400 km", "450 km", "500 km", "600 km"],
+      "correct": 1,
+      "explanation": "300 ÷ 3 = 100 km/h → 5 × 100 = 500 km."
+    },
+    {
+      "question": "Si 7 articles coûtent 35 €, combien coûte 1 article ?",
+      "options": ["3 €", "4 €", "5 €", "6 €"],
+      "correct": 2,
+      "explanation": "35 ÷ 7 = 5 € par article."
+    },
+    {
+      "question": "Quel est le principe de la règle de trois ?",
+      "options": [
+        "Calculer un périmètre",
+        "Multiplier deux grandeurs",
+        "Trouver une quatrième proportionnelle",
+        "Faire une moyenne"
+      ],
+      "correct": 2,
+      "explanation": "Elle sert à déterminer une quatrième valeur proportionnelle à trois autres."
+    },
+    {
+      "question": "Une machine produit 120 pièces en 6 h. Combien en produit-elle en 10 h ?",
+      "options": ["150", "180", "200", "220"],
+      "correct": 1,
+      "explanation": "120 ÷ 6 = 20 pièces/h → 20 × 10 = 200 pièces."
+    },
+    {
+      "question": "Si 8 personnes consomment 16 litres d’eau en une journée, combien en consomment 5 personnes ?",
+      "options": ["10 L", "8 L", "6 L", "5 L"],
+      "correct": 0,
+      "explanation": "16 ÷ 8 = 2 L/personne → 5 × 2 = 10 L."
+    },
+    {
+      "question": "Une recette pour 4 personnes utilise 200 g de riz. Combien faut-il de riz pour 10 personnes ?",
+      "options": ["400 g", "500 g", "600 g", "700 g"],
+      "correct": 1,
+      "explanation": "200 ÷ 4 = 50 g/personne → 50 × 10 = 500 g."
+    },
+    {
+      "question": "Si 12 cahiers coûtent 24 €, combien coûtent 9 cahiers ?",
+      "options": ["16 €", "18 €", "20 €", "22 €"],
+      "correct": 1,
+      "explanation": "24 ÷ 12 = 2 €/cahier → 9 × 2 = 18 €."
+    },
+    {
+      "question": "Un ouvrier met 10 jours à terminer un mur. Combien de jours mettront 2 ouvriers ensemble ?",
+      "options": ["20 j", "10 j", "5 j", "2 j"],
+      "correct": 2,
+      "explanation": "C’est une proportion inverse : 10 ÷ 2 = 5 jours."
+    },
+    {
+      "question": "Une voiture consomme 8 L pour 100 km. Combien consommera-t-elle pour 250 km ?",
+      "options": ["16 L", "18 L", "20 L", "22 L"],
+      "correct": 2,
+      "explanation": "8 ÷ 100 = 0.08 L/km → 0.08 × 250 = 20 L."
+    },
+    {
+      "question": "Si 5 kg de pommes coûtent 7,50 €, combien coûtent 2 kg ?",
+      "options": ["3 €", "2,50 €", "4 €", "5 €"],
+      "correct": 0,
+      "explanation": "7,50 ÷ 5 = 1,50 €/kg → 2 × 1,50 = 3 €."
+    },
+    {
+      "question": "On veut réduire une recette de 6 à 4 personnes. Si elle nécessite 300 g de farine, combien en faut-il ?",
+      "options": ["150 g", "200 g", "250 g", "280 g"],
+      "correct": 1,
+      "explanation": "300 ÷ 6 = 50 g/personne → 50 × 4 = 200 g."
+    },
+    {
+      "question": "Une vidéo dure 2 minutes et pèse 40 Mo. Combien pèseront 10 minutes ?",
+      "options": ["100 Mo", "150 Mo", "200 Mo", "250 Mo"],
+      "correct": 2,
+      "explanation": "40 ÷ 2 = 20 Mo/minute → 20 × 10 = 200 Mo."
+    },
+    {
+      "question": "Si 3 ouvriers posent 90 tuiles en une heure, combien en poseront 5 ouvriers ?",
+      "options": ["150", "120", "110", "100"],
+      "correct": 0,
+      "explanation": "90 ÷ 3 = 30 tuiles/ouvrier → 30 × 5 = 150."
+    },
+    {
+      "question": "Le produit en croix revient à faire :",
+      "options": [
+        "Une addition de diagonale",
+        "Une multiplication des extrêmes",
+        "Une division directe",
+        "Une soustraction des termes"
+      ],
+      "correct": 1,
+      "explanation": "On multiplie en croix et divise ensuite pour trouver la quatrième proportionnelle."
+    },
+    {
+      "question": "Un salarié gagne 1200 € pour 30 h de travail. Combien pour 40 h ?",
+      "options": ["1400 €", "1500 €", "1600 €", "1800 €"],
+      "correct": 2,
+      "explanation": "1200 ÷ 30 = 40 €/h → 40 × 40 = 1600 €."
+    },
+    {
+      "question": "Une carte est à l’échelle 1:50 000. Une distance de 2 cm représente :",
+      "options": ["100 m", "1 km", "2 km", "10 km"],
+      "correct": 2,
+      "explanation": "2 cm × 50 000 = 100 000 cm = 1 000 m = 1 km. Donc 2 cm → 2 km."
+    }
+  ]
+}

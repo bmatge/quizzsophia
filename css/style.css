@@ -1,0 +1,300 @@
+/* ==========================================================================
+   == Styles pour l'Application Quiz - Thème Rose ==
+   ========================================================================== */
+
+/* --- Variables de couleur (optionnel mais pratique) --- */
+:root {
+    --rose-fonce-principal: #C71585; /* MediumVioletRed - Pour les actions principales, titres */
+    --rose-fonce-hover: #FF1493;     /* DeepPink - Pour les survols des éléments foncés */
+    --rose-moyen-accent: #FF69B4;    /* HotPink - Pour certains accents ou survols */
+    --rose-pale-fond: #FFF0F5;      /* LavenderBlush - Pour les fonds légers (listes, etc.) */
+    --rose-pale-bordure: #FFB6C1;   /* LightPink - Pour les bordures ou fonds plus présents */
+    --texte-sur-rose-fonce: #ffffff; /* Blanc */
+    --texte-sur-rose-pale: #333333; /* Gris foncé pour lisibilité */
+    --texte-principal: #333333;
+    --couleur-succes: #28a745;      /* Vert standard pour succès */
+    --couleur-erreur: #dc3545;      /* Rouge standard pour erreur */
+    --couleur-warning: #ffc107;     /* Orange/Jaune standard pour avertissement */
+    --fond-succes: #e9f7ef;
+    --fond-erreur: #fce8e6;
+    --fond-warning: #fff8e1;
+    --fond-general: #fdf6f9;        /* Fond très pâle, légèrement rosé */
+    --fond-conteneur: #ffffff;     /* Blanc pour les conteneurs principaux */
+}
+
+/* --- Styles Généraux --- */
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: var(--fond-general); /* Fond très pâle */
+    color: var(--texte-principal);
+}
+
+header, main, footer {
+    max-width: 800px;
+    margin: 1em auto;
+    padding: 1.5em;
+    background-color: var(--fond-conteneur);
+    box-shadow: 0 2px 10px rgba(199, 21, 133, 0.1); /* Ombre légèrement rosée */
+    border-radius: 8px; /* Coins arrondis */
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid var(--rose-fonce-principal); /* Ligne rose foncé */
+    padding-bottom: 1em;
+}
+
+header h1 {
+    color: var(--rose-fonce-principal);
+    margin: 0;
+}
+
+nav button {
+    margin-left: 10px;
+    padding: 8px 15px;
+    cursor: pointer;
+    background-color: var(--rose-fonce-principal);
+    color: var(--texte-sur-rose-fonce);
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.2s ease;
+}
+nav button:hover {
+     background-color: var(--rose-fonce-hover);
+}
+
+/* --- Système de Pages --- */
+.page {
+    display: none; /* Masqué par défaut */
+    padding: 20px 0; /* Moins de padding interne si header/main en ont déjà */
+    /* border-top: 1px solid #eee; */ /* Peut-être pas nécessaire avec le padding de main */
+    margin-top: 1em;
+}
+
+.page.active {
+    display: block; /* Afficher la page active */
+}
+
+h2 {
+    color: var(--rose-fonce-principal);
+    margin-top: 0;
+    border-bottom: 1px dashed var(--rose-pale-bordure);
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+
+
+/* --- Styles des Listes (Accueil & Historique) --- */
+#liste-quiz li, #liste-historique li {
+    list-style: none;
+    margin-bottom: 12px;
+    padding: 12px 18px;
+    background-color: var(--rose-pale-fond); /* Fond rose très pâle */
+    border: 1px solid var(--rose-pale-bordure);
+    border-left: 4px solid var(--rose-moyen-accent); /* Bordure latérale rose moyen */
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.2s ease;
+}
+
+#liste-quiz li:hover, #liste-historique li:hover {
+    background-color: var(--rose-pale-bordure); /* Fond un peu plus soutenu au survol */
+}
+
+#liste-quiz button {
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color: var(--rose-fonce-principal);
+    color: var(--texte-sur-rose-fonce);
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+#liste-quiz button:hover {
+     background-color: var(--rose-fonce-hover);
+}
+
+
+/* --- Styles du Questionnaire --- */
+.question-bloc {
+    margin-bottom: 25px;
+    padding: 20px;
+    background-color: #fff; /* Garder un fond blanc pour la clarté de la question */
+    border: 1px solid var(--rose-pale-bordure); /* Bordure rose pâle */
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.question-bloc p { /* Le texte de la question */
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: var(--texte-principal);
+}
+
+.options-container label {
+    display: block;
+    margin-bottom: 8px;
+    padding: 8px 12px;
+    border-radius: 4px;
+    background-color: var(--rose-pale-fond);
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    color: var(--texte-sur-rose-pale);
+}
+
+.options-container label:hover {
+    background-color: var(--rose-pale-bordure);
+}
+
+.options-container input[type="radio"] {
+    margin-right: 10px;
+    /* On peut essayer de styler un peu plus la radio si supporté */
+    accent-color: var(--rose-moyen-accent); /* Change la couleur du point si le navigateur supporte */
+}
+
+
+/* --- Styles de la Correction --- */
+#score {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 25px;
+    text-align: center;
+    color: var(--rose-fonce-principal); /* Score en rose foncé */
+}
+
+.correction-item {
+    margin-bottom: 15px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    border-left-width: 5px; /* Bordure latérale plus épaisse */
+}
+
+/* Utiliser les couleurs standard pour Correct/Incorrect/Non répondu pour la clarté */
+.correction-item.correct {
+    border-left-color: var(--couleur-succes);
+    background-color: var(--fond-succes);
+}
+
+.correction-item.incorrect {
+    border-left-color: var(--couleur-erreur);
+    background-color: var(--fond-erreur);
+}
+
+.correction-item.unanswered {
+    border-left-color: var(--couleur-warning);
+    background-color: var(--fond-warning);
+}
+
+.correction-item p { /* Texte dans la correction */
+    margin: 5px 0;
+}
+.correction-item ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.correction-item li {
+    margin-bottom: 5px;
+}
+
+.correction-item .explanation {
+    font-style: italic;
+    color: #555;
+    margin-top: 12px;
+    font-size: 0.95em;
+    border-top: 1px dashed var(--rose-pale-bordure); /* Ligne de séparation rose pâle */
+    padding-top: 8px;
+}
+.correction-item .explanation strong {
+    font-style: normal;
+}
+
+
+/* --- Styles des Boutons Généraux & Spécifiques --- */
+button { /* Style de base pour les boutons non spécifiques */
+    padding: 10px 18px;
+    cursor: pointer;
+    background-color: var(--rose-moyen-accent); /* Rose moyen par défaut */
+    color: var(--texte-sur-rose-fonce);
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+button:hover {
+     background-color: var(--rose-fonce-hover); /* Rose plus foncé au survol */
+     transform: translateY(-1px); /* Léger effet de soulèvement */
+}
+button:active {
+    transform: translateY(0px); /* Annule l'effet au clic */
+}
+
+/* Bouton de validation principal */
+#btn-valider-quiz[type="submit"] {
+    background-color: var(--rose-fonce-principal); /* Rose foncé primaire */
+    display: block; /* Prendre toute la largeur */
+    width: 100%;
+    margin-top: 20px; /* Plus d'espace avant de valider */
+    font-size: 1.1em;
+    font-weight: bold;
+}
+#btn-valider-quiz[type="submit"]:hover {
+    background-color: var(--rose-fonce-hover);
+}
+
+/* Bouton Revoir dans l'historique */
+.btn-review {
+    padding: 4px 10px;
+    font-size: 0.9em;
+    background-color: var(--fond-conteneur); /* Fond blanc */
+    color: var(--rose-fonce-principal); /* Texte rose */
+    border: 1px solid var(--rose-pale-bordure); /* Bordure rose pâle */
+    margin-left: 15px;
+    white-space: nowrap;
+}
+.btn-review:hover {
+    background-color: var(--rose-pale-fond);
+    border-color: var(--rose-moyen-accent);
+    color: var(--rose-fonce-hover);
+     transform: translateY(0); /* Pas d'effet de soulèvement pour ce petit bouton */
+}
+
+/* Bouton Effacer Historique */
+#btn-effacer-historique {
+    background-color: var(--couleur-erreur); /* Garder rouge pour action dangereuse */
+}
+#btn-effacer-historique:hover {
+     background-color: #c82333; /* Rouge plus foncé */
+}
+
+/* Boutons de retour */
+#btn-retour-accueil-correction,
+#btn-retour-accueil-historique {
+     background-color: #6c757d; /* Gris neutre pour retour */
+}
+#btn-retour-accueil-correction:hover,
+#btn-retour-accueil-historique:hover {
+     background-color: #5a6268; /* Gris plus foncé */
+}
+
+
+/* --- Footer --- */
+footer {
+    text-align: center;
+    margin-top: 2em;
+    font-size: 0.9em;
+    color: #777;
+    background: none; /* Pas de fond pour le footer */
+    box-shadow: none;
+    padding-top: 0;
+}

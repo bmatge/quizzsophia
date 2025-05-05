@@ -1,0 +1,175 @@
+{
+  "titre": "Toine - 4 mai - v2",
+  "questions": [
+    {
+      "question": "Quel est le prénom du personnage principal dans 'Toine' ?",
+      "options": ["Antoine", "Étienne", "Toine", "Jules"],
+      "correct": 0,
+      "explanation": "Toine est le diminutif d’Antoine, personnage principal du récit."
+    },
+    {
+      "question": "Quel est le lien entre Toine et la narratrice ?",
+      "options": ["Il est son mari", "Il est son ami d’enfance", "Il est un paysan du village", "Il est son frère"],
+      "correct": 2,
+      "explanation": "La narratrice n’est pas identifiée clairement, mais Toine est un habitant connu du village."
+    },
+    {
+      "question": "Pourquoi Toine est-il immobilisé ?",
+      "options": ["Une chute de cheval", "Une attaque cérébrale", "Une maladie des jambes", "Un accident de charrette"],
+      "correct": 1,
+      "explanation": "Toine a fait une attaque qui l’a laissé paralysé."
+    },
+    {
+      "question": "Où se déroule principalement l’histoire ?",
+      "options": ["À l’hôpital", "À la ville", "Dans une ferme", "Dans un cabaret"],
+      "correct": 3,
+      "explanation": "Toine tient un cabaret, et c’est là qu’il est alité pendant tout le récit."
+    },
+    {
+      "question": "Quel est le principal trait de caractère de Toine ?",
+      "options": ["Méchant", "Avare", "Bavard et bon vivant", "Autoritaire"],
+      "correct": 2,
+      "explanation": "Toine est connu pour sa joie de vivre et son côté bon vivant."
+    },
+    {
+      "question": "Que lui reproche sa femme après son accident ?",
+      "options": ["D’être devenu inutile", "D’avoir bu toute sa vie", "De lui coûter trop cher", "D’avoir ruiné la ferme"],
+      "correct": 1,
+      "explanation": "Elle lui reproche sa vie d’ivrogne, insinuant que c’est à cause de cela qu’il est paralysé."
+    },
+    {
+      "question": "Quelle tâche sa femme lui confie-t-elle une fois qu’il est immobilisé ?",
+      "options": ["Surveiller les champs", "Écrire les comptes", "Garder les enfants", "Cuisiner"],
+      "correct": 2,
+      "explanation": "Sa femme dépose les enfants à côté de lui pour qu’il les garde pendant qu’elle travaille."
+    },
+    {
+      "question": "Combien d’enfants sa femme lui confie-t-elle au total ?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2,
+      "explanation": "Elle lui confie progressivement quatre enfants à garder."
+    },
+    {
+      "question": "Quelle est la réaction de Toine à cette situation ?",
+      "options": ["Il pleure", "Il accepte avec humour", "Il refuse", "Il crie sur sa femme"],
+      "correct": 1,
+      "explanation": "Toine garde son humour malgré la situation absurde et humiliante."
+    },
+    {
+      "question": "Quelle image ironique revient plusieurs fois dans le texte ?",
+      "options": [
+        "Toine nourrissant les enfants comme des cochons",
+        "Toine fumant avec les enfants sur le dos",
+        "Toine allaitant les bébés",
+        "Toine dans un fauteuil doré"
+      ],
+      "correct": 2,
+      "explanation": "Maupassant décrit ironiquement Toine comme une sorte de nourrice malgré lui."
+    },
+    {
+      "question": "Quel est le rôle du médecin dans la nouvelle ?",
+      "options": [
+        "Il tente de soigner Toine",
+        "Il s’amuse de la situation",
+        "Il punit la femme de Toine",
+        "Il emmène Toine à l’hospice"
+      ],
+      "correct": 1,
+      "explanation": "Le médecin, tout comme les voisins, trouve la situation cocasse."
+    },
+    {
+      "question": "Quel genre littéraire correspond à 'Toine' ?",
+      "options": ["Roman historique", "Nouvelle réaliste", "Poème en prose", "Conte philosophique"],
+      "correct": 1,
+      "explanation": "'Toine' est une nouvelle réaliste, décrivant la vie rurale avec humour et ironie."
+    },
+    {
+      "question": "Quelle critique sociale peut-on lire entre les lignes ?",
+      "options": [
+        "La misère des campagnes",
+        "L’alcoolisme et la domination féminine",
+        "L’éducation des enfants",
+        "La pauvreté ouvrière"
+      ],
+      "correct": 1,
+      "explanation": "Maupassant aborde à la fois l’alcoolisme masculin et le rôle ingrat des femmes dans la société."
+    },
+    {
+      "question": "Quelle est l’attitude de la femme de Toine ?",
+      "options": [
+        "Soumise mais fidèle",
+        "Autoritaire et rancunière",
+        "Indifférente et muette",
+        "Douce et aimante"
+      ],
+      "correct": 1,
+      "explanation": "Elle le traite durement, presque comme une revanche."
+    },
+    {
+      "question": "Pourquoi peut-on dire que la fin de la nouvelle est ironique ?",
+      "options": [
+        "Toine meurt subitement",
+        "Il décide de devenir moine",
+        "Il devient une nounou malgré lui",
+        "Sa femme lui offre une médaille"
+      ],
+      "correct": 2,
+      "explanation": "Le contraste entre sa vie passée de bon vivant et sa nouvelle condition ridicule crée l’ironie."
+    },
+    {
+      "question": "Comment le personnage de Toine est-il perçu par les autres ?",
+      "options": [
+        "Comme un homme respectable",
+        "Comme un héros du village",
+        "Comme un ivrogne sympathique",
+        "Comme un criminel repenti"
+      ],
+      "correct": 2,
+      "explanation": "Il est perçu comme un homme joyeux, fêtard, mais pas méchant."
+    },
+    {
+      "question": "Quel est l’effet principal du style de Maupassant dans cette nouvelle ?",
+      "options": [
+        "Créer un suspense intense",
+        "Faire rire tout en dénonçant",
+        "Inspirer la pitié",
+        "Développer une intrigue policière"
+      ],
+      "correct": 1,
+      "explanation": "Il emploie un style simple et ironique pour faire rire tout en critiquant certains travers sociaux."
+    },
+    {
+      "question": "Quel rôle jouent les clients du cabaret dans l’histoire ?",
+      "options": [
+        "Ils l’aident à se lever",
+        "Ils organisent une fête",
+        "Ils viennent se moquer",
+        "Ils le soutiennent moralement"
+      ],
+      "correct": 3,
+      "explanation": "Ils viennent le voir, lui parlent, et entretiennent une forme de lien social malgré son état."
+    },
+    {
+      "question": "Que symbolisent les enfants dans le récit ?",
+      "options": [
+        "L’innocence",
+        "La revanche de la femme",
+        "La solidarité",
+        "Le châtiment de Toine"
+      ],
+      "correct": 3,
+      "explanation": "Le fait de les confier à Toine symbolise une forme de punition indirecte."
+    },
+    {
+      "question": "Que montre cette nouvelle sur la condition des hommes et des femmes ?",
+      "options": [
+        "Les hommes sont soumis",
+        "Les femmes sont dépendantes",
+        "Les rôles peuvent s’inverser",
+        "Il faut rester célibataire"
+      ],
+      "correct": 2,
+      "explanation": "Toine, figure d’autorité virile, se retrouve dans un rôle traditionnellement féminin : celui de garde d’enfants."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "titre": "Calcul littéral et Thalès – Niveau 4e",
+  "questions": [
+    {
+      "question": "Dans une égalité de Thalès : AB/x = AC/y. Que vaut x ?",
+      "options": [
+        "x = AB × AC",
+        "x = y × AB / AC",
+        "x = AC / (y × AB)",
+        "x = AB / y"
+      ],
+      "correct": 1,
+      "explanation": "On isole x en faisant un produit en croix : x = y × AB / AC."
+    },
+    {
+      "question": "Quel est le développement de (3x + 2)(x – 5) ?",
+      "options": [
+        "3x² – 15 + 2x – 10",
+        "3x² – 15x + 2x – 10",
+        "3x² – 13x – 10",
+        "3x² + 13x – 10"
+      ],
+      "correct": 2,
+      "explanation": "On développe en appliquant la distributivité : 3x² – 15x + 2x – 10 = 3x² – 13x – 10."
+    },
+    {
+      "question": "Simplifie l'expression : 2x + 3x – x",
+      "options": ["4x", "3x", "5x", "6x"],
+      "correct": 0,
+      "explanation": "2x + 3x – x = (2 + 3 – 1)x = 4x."
+    },
+    {
+      "question": "Quelle propriété est utilisée dans le calcul : a × (b + c) = ab + ac ?",
+      "options": [
+        "Associativité",
+        "Commutativité",
+        "Distributivité",
+        "Symétrie"
+      ],
+      "correct": 2,
+      "explanation": "C’est la propriété distributive de la multiplication sur l’addition."
+    },
+    {
+      "question": "Dans une configuration de Thalès, on a AB = x, AC = 2x. Quelle est la valeur de AB / AC ?",
+      "options": ["x / 2x", "2x / x", "x – 2x", "x² / 2"],
+      "correct": 0,
+      "explanation": "AB / AC = x / 2x = 1/2."
+    },
+    {
+      "question": "Factorise l'expression : 5x + 15",
+      "options": ["5(x + 3)", "x(5 + 3)", "5x(1 + 3)", "5(x – 3)"],
+      "correct": 0,
+      "explanation": "On met 5 en facteur : 5x + 15 = 5(x + 3)."
+    },
+    {
+      "question": "On donne x/4 = 3/8. Quelle est la valeur de x ?",
+      "options": ["6", "1.5", "2", "3"],
+      "correct": 0,
+      "explanation": "Produit en croix : x = (3 × 4)/8 = 12/8 = 1.5."
+    },
+    {
+      "question": "Développe l'expression : (x + 4)(x – 2)",
+      "options": ["x² + 2x – 8", "x² + 4x – 2x – 8", "x² + 2x + 8", "x² + 2x – 6"],
+      "correct": 1,
+      "explanation": "On développe : x² – 2x + 4x – 8 = x² + 2x – 8."
+    },
+    {
+      "question": "Simplifie l'expression : 3a + 4b – 2a + b",
+      "options": ["a + 5b", "5a + 5b", "3a + 5b", "a + 4b"],
+      "correct": 0,
+      "explanation": "3a – 2a = a, 4b + b = 5b donc a + 5b."
+    },
+    {
+      "question": "Factorise l'expression : x² + 2x",
+      "options": ["x(x + 2)", "2(x + x)", "x(2x)", "x²(1 + 2)"],
+      "correct": 0,
+      "explanation": "On met x en facteur commun : x(x + 2)."
+    },
+    {
+      "question": "Dans une figure de Thalès, si AB = 3x et AC = 6x, quel est le rapport AB / AC ?",
+      "options": ["1/3", "3/6", "1/2", "x/2x"],
+      "correct": 2,
+      "explanation": "AB / AC = 3x / 6x = 1/2."
+    },
+    {
+      "question": "Quel est le produit développé de (x – 3)(x + 3) ?",
+      "options": ["x² – 9", "x² + 9", "2x² – 6", "x² – 6x + 9"],
+      "correct": 0,
+      "explanation": "Identité remarquable : (x – 3)(x + 3) = x² – 9."
+    },
+    {
+      "question": "On a : AB = x + 2, AD = x. Que vaut AB / AD ?",
+      "options": ["(x + 2)/x", "x/(x + 2)", "x – 2", "2x"],
+      "correct": 0,
+      "explanation": "AB / AD = (x + 2) / x."
+    },
+    {
+      "question": "Résous : 2(x + 1) = 4",
+      "options": ["x = 1", "x = 2", "x = 0", "x = 3"],
+      "correct": 0,
+      "explanation": "2(x + 1) = 4 → x + 1 = 2 → x = 1."
+    },
+    {
+      "question": "Développe et réduis : (2x – 1)(x + 3)",
+      "options": ["2x² + 5x – 3", "2x² + 6x – x – 3", "2x² + 5x – 3", "2x² + 5x + 3"],
+      "correct": 2,
+      "explanation": "Développement : 2x² + 6x – x – 3 = 2x² + 5x – 3."
+    },
+    {
+      "question": "Quel est le carré de (x + 5) ?",
+      "options": ["x² + 25", "x² + 10x + 25", "x² + 5", "x² – 10x + 25"],
+      "correct": 1,
+      "explanation": "Identité remarquable : (x + 5)² = x² + 10x + 25."
+    },
+    {
+      "question": "On a : AB = 2x, AC = 5x. Quel est le rapport AC / AB ?",
+      "options": ["5/2", "2/5", "x/5", "x/2"],
+      "correct": 0,
+      "explanation": "AC / AB = 5x / 2x = 5/2."
+    },
+    {
+      "question": "Factorise : 6x² – 9x",
+      "options": ["3x(2x – 3)", "3(2x – 3x)", "6x(x – 1.5)", "3x²(2 – 3)"],
+      "correct": 0,
+      "explanation": "On met 3x en facteur commun : 3x(2x – 3)."
+    },
+    {
+      "question": "Quel est le résultat de : (x – 1)(x – 4) ?",
+      "options": ["x² – 5x + 4", "x² – 5x – 4", "x² – 3x – 4", "x² + 5x + 4"],
+      "correct": 0,
+      "explanation": "Développement : x² – 4x – x + 4 = x² – 5x + 4."
+    },
+    {
+      "question": "Si AB = x + 2 et AC = 2x + 1, quelle est l'expression de AB / AC ?",
+      "options": ["(x + 2) / (2x + 1)", "(2x + 1) / (x + 2)", "x / x", "x + 3"],
+      "correct": 0,
+      "explanation": "Il s'agit d'une écriture de quotient littéral AB / AC = (x + 2)/(2x + 1)."
+    }
+  ]
+}

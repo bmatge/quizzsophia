@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application de Quiz Rose</title>
+    <link rel="stylesheet" href="css/style.css"> <!-- Assure-toi que ce chemin est correct -->
+</head>
+<body>
+
+    <header>
+        <h1>Les quiz a papa 🩷</h1>
+        <nav>
+            <button id="btn-accueil">Accueil</button>
+            <button id="btn-historique">Historique</button>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Section Accueil -->
+        <section id="accueil" class="page active">
+            <h2>Choisis un quiz :</h2>
+            <ul id="liste-quiz">
+                <li>Chargement des quiz...</li>
+            </ul>
+        </section>
+
+        <!-- Section Questionnaire -->
+        <section id="questionnaire" class="page">
+            <h2 id="quiz-titre">Titre du Quiz</h2>
+            <form id="quiz-form">
+                <!-- Questions chargées par JS -->
+            </form>
+             <!-- Bouton Valider HORS formulaire -->
+            <button id="btn-valider-quiz" type="button">Valider mes réponses</button>
+        </section>
+
+        <!-- Section Correction -->
+        <section id="correction" class="page">
+             <!-- *** NOUVEAU : Conteneur avec SVG Coeur *** -->
+            <div id="result-visualization">
+                 <svg id="heart-progress-svg" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <defs>
+    <path id="heart-silhouette"
+      d="M50,80 
+         C20,65 10,40 25,25 
+         C35,15 50,20 50,30 
+         C50,20 65,15 75,25 
+         C90,40 80,65 50,80 Z" />
+                    <clipPath id="progress-clipper">
+                      <rect id="progress-clip-rect" x="0" y="100" width="100" height="0" />
+                    </clipPath>
+                  </defs>
+                  <use xlink:href="#heart-silhouette" fill="var(--rose-pale-fond)" stroke="none"/>
+                  <use xlink:href="#heart-silhouette" fill="var(--rose-fonce-principal)" stroke="none" clip-path="url(#progress-clipper)"/>
+                  <use xlink:href="#heart-silhouette" fill="none" stroke="black" stroke-width="2"/>
+                </svg>
+            </div>
+            <!-- Fin Conteneur SVG -->
+
+            <h2 id="correction-title">Résultats</h2>
+            <p id="score">Score : ? / ? (?%)</p>
+            <div id="correction-details">
+                <!-- Détails des réponses -->
+            </div>
+            <button id="btn-retour-accueil-correction">Retour à l'accueil</button>
+        </section>
+
+        <!-- Section Historique -->
+        <section id="historique" class="page">
+            <h2>Historique des tentatives</h2>
+            <ul id="liste-historique">
+                <!-- Liste historique -->
+            </ul>
+             <button id="btn-effacer-historique" style="display: none;">Effacer l'historique</button>
+             <button id="btn-retour-accueil-historique">Retour à l'accueil</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2023 Ton Nom ou Organisation - Application Quiz</p>
+    </footer>
+
+    <script src="js/app.js"></script> <!-- Assure-toi que ce chemin est correct -->
+</body>
+</html>
