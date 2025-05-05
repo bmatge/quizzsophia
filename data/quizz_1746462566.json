@@ -1,0 +1,225 @@
+{
+  "titre": "Conjugaison des verbes au futur simple - DATE",
+  "questions": [
+    {
+      "question": "Quelle est la terminaison des verbes au futur simple pour la première personne du singulier?",
+      "options": [
+        "-ai",
+        "-ais",
+        "-a",
+        "-ait"
+      ],
+      "correct": 0,
+      "explanation": "La terminaison pour la première personne du singulier au futur simple est '-ai'."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe 'chanter' au futur simple pour 'nous'?",
+      "options": [
+        "nous chanteront",
+        "nous chanterons",
+        "nous chantons",
+        "nous chantions"
+      ],
+      "correct": 1,
+      "explanation": "La bonne terminaison pour 'nous' au futur simple est '-ons', donc 'nous chanterons'."
+    },
+    {
+      "question": "Quelle phrase est correcte: 'ils finiront' ou 'ils finirent'?",
+      "options": [
+        "'ils finirent'",
+        "'ils finiront'",
+        "Aucune n'est correcte",
+        "Les deux sont correctes"
+      ],
+      "correct": 1,
+      "explanation": "'Ils finiront' est au futur simple. 'Ils finirent' est au passé simple."
+    },
+    {
+      "question": "Pourquoi le verbe 'apprendre' se conjugue-t-il sans le 'e' final au futur?",
+      "options": [
+        "Parce que c'est un verbe irrégulier",
+        "Parce qu'il appartient au 1er groupe",
+        "Parce que sa terminaison ne nécessite pas le 'e'",
+        "Parce que c'est une exception"
+      ],
+      "correct": 2,
+      "explanation": "Pour les verbes en -dre au futur, on enlève le 'e' avant d’ajouter les terminaisons."
+    },
+    {
+      "question": "Quelle est la terminaison des verbes au futur simple pour 'vous'?",
+      "options": [
+        "-is",
+        "-iez",
+        "-ez",
+        "-e"
+      ],
+      "correct": 2,
+      "explanation": "La terminaison pour 'vous' au futur simple est '-ez'."
+    },
+    {
+      "question": "Comment écrit-on 'avoir' au futur simple pour 'il'?",
+      "options": [
+        "il aurai",
+        "il aura",
+        "il aient",
+        "il avais"
+      ],
+      "correct": 1,
+      "explanation": "'Il aura' est la bonne conjugaison au futur simple."
+    },
+    {
+      "question": "Quel est l'infinitif du verbe pour 'il prendra'?",
+      "options": [
+        "prendre",
+        "prendr",
+        "prenaître",
+        "prend"
+      ],
+      "correct": 0,
+      "explanation": "L'infinitif est 'prendre'; on enlève le 'e' pour conjuguer au futur."
+    },
+    {
+      "question": "Quelle est la terminaison des verbes au futur simple pour 'ils/elles'?",
+      "options": [
+        "-ont",
+        "-ent",
+        "-ont",
+        "-irent"
+      ],
+      "correct": 0,
+      "explanation": "La terminaison pour 'ils/elles' au futur simple est '-ont'."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe 'finir' pour 'tu' au futur simple?",
+      "options": [
+        "tu finiras",
+        "tu fini",
+        "tu finiras",
+        "tu finir"
+      ],
+      "correct": 2,
+      "explanation": "La bonne terminaison pour 'tu' au futur simple est '-as', donc 'tu finiras'."
+    },
+    {
+      "question": "Comment conjugue-t-on 'être' au futur simple pour 'nous'?",
+      "options": [
+        "nous étudierons",
+        "nous serons",
+        "nous sommes",
+        "nous serions"
+      ],
+      "correct": 1,
+      "explanation": "'Nous serons' est la bonne conjugaison de 'être' au futur simple."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe 'jouer' au futur simple pour 'il'?",
+      "options": [
+        "il jouerai",
+        "il jouera",
+        "il joue",
+        "il jouerais"
+      ],
+      "correct": 1,
+      "explanation": "La bonne terminaison pour 'il' au futur simple est '-a', donc 'il jouera'."
+    },
+    {
+      "question": "Quel est l'infinitif du verbe pour 'elle comprendra'?",
+      "options": [
+        "comprendre",
+        "comprend",
+        "compris",
+        "comprendrez"
+      ],
+      "correct": 0,
+      "explanation": "L'infinitif du verbe est 'comprendre'; on enlève le 'e' pour conjuguer au futur."
+    },
+    {
+      "question": "Quel est l'infinitif du verbe pour 'nous finirons'?",
+      "options": [
+        "finir",
+        "fin",
+        "finissez",
+        "finis"
+      ],
+      "correct": 0,
+      "explanation": "Le verbe à l'infinitif est 'finir', ce qui est typique des verbes du 2ème groupe."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe 'être' au futur simple pour 'ils'?",
+      "options": [
+        "ils sont",
+        "ils étaient",
+        "ils seront",
+        "ils étaiera"
+      ],
+      "correct": 2,
+      "explanation": "'Ils seront' est la bonne conjugaison au futur simple pour le verbe 'être'."
+    },
+    {
+      "question": "Quelle est la forme correcte du verbe 'vouloir' au futur simple pour 'tu'?",
+      "options": [
+        "tu voudras",
+        "tu vois",
+        "tu veuille",
+        "tu voudrais"
+      ],
+      "correct": 0,
+      "explanation": "'Tu voudras' est la bonne conjugaison au futur simple."
+    },
+    {
+      "question": "Comment écrit-on 'aller' au futur simple pour 'je'?",
+      "options": [
+        "j'irai",
+        "je vais",
+        "je irai",
+        "j'irai"
+      ],
+      "correct": 3,
+      "explanation": "'J'irai' est la bonne conjugaison au futur simple."
+    },
+    {
+      "question": "Quelle est la terminaison des verbes au futur simple pour 'je'?",
+      "options": [
+        "-ai",
+        "-ais",
+        "-a",
+        "-ait"
+      ],
+      "correct": 0,
+      "explanation": "La terminaison correcte pour 'je' au futur simple est '-ai'."
+    },
+    {
+      "question": "Quelle est la conjugaison correcte de 'pouvoir' pour 'il' au futur simple?",
+      "options": [
+        "il pouvra",
+        "il pourra",
+        "il peut",
+        "il pourrais"
+      ],
+      "correct": 1,
+      "explanation": "'Il pourra' est la conjugaison correcte au futur simple."
+    },
+    {
+      "question": "Comment conjugue-t-on 'faire' au futur simple pour 'nous'?",
+      "options": [
+        "nous faisions",
+        "nous ferons",
+        "nous faissons",
+        "nous ferions"
+      ],
+      "correct": 1,
+      "explanation": "'Nous ferons' est la conjugaison correcte de 'faire' au futur simple."
+    },
+    {
+      "question": "Quel est l'infinitif du verbe pour 'vous chanterez'?",
+      "options": [
+        "chanter",
+        "chants",
+        "chanteur",
+        "chant"
+      ],
+      "correct": 0,
+      "explanation": "L'infinitif du verbe est 'chanter', caractéristique des verbes du 1er groupe."
+    }
+  ]
+}
