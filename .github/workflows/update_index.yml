@@ -81,9 +81,13 @@ jobs:
     needs: update-index
     runs-on: ubuntu-latest
 
-    steps:
+deploy:
+  needs: update-index
+  runs-on: ubuntu-latest
+
+  steps:
     - name: Trigger Render Deployment
-      uses: render-examples/deploy-action@v1
+      uses: johnbeynon/render-deploy-action@v0.0.8
       with:
         serviceId: ${{ secrets.RENDER_SERVICE_ID }}
         apiKey: ${{ secrets.RENDER_API_KEY }}
