@@ -17,8 +17,10 @@ jobs:
       contents: write
       
     steps:
-    - name: Checkout repo
+    - name: Checkout repo with full history
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
       
     - name: Set up Node.js
       uses: actions/setup-node@v3
@@ -38,8 +40,8 @@ jobs:
         echo "Diff entre ${{ github.event.before }} et ${{ github.sha }}"
         git diff --name-only ${{ github.event.before }} ${{ github.sha }}
         
-        NEW_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'data/*.json' | grep -v index.json || true)
-    
+        NEW_FILES=$(ls data/*.json | grep -v index.json || true)    
+        
         echo "Nouveaux fichiers détectés : $NEW_FILES"
     
         for file in $NEW_FILES; do
