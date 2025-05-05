@@ -77,10 +77,6 @@ jobs:
         git diff --cached --quiet || git commit -m "Mise à jour automatique de l'index des quiz"
         git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
 
-  deploy:
-    needs: update-index
-    runs-on: ubuntu-latest
-
 deploy:
   needs: update-index
   runs-on: ubuntu-latest
