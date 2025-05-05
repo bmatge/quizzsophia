@@ -280,6 +280,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // ✅ Convertir userAnswers (string) en tableau si nécessaire
             historyJson.forEach(entry => {
                 if (typeof entry.userAnswers === 'string') {
+                    console.log("Tentative parsing de userAnswers :", entry.userAnswers);
                     try {
                         entry.userAnswers = JSON.parse(entry.userAnswers);
                     } catch (e) {
