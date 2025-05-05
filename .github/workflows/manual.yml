@@ -13,10 +13,13 @@ jobs:
   update-index:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+      
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3
-
+      
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
@@ -24,7 +27,12 @@ jobs:
 
     - name: Install jq (pour manipuler du JSON)
       run: sudo apt-get install jq
-
+      
+    - name: Vérification token et repo
+      run: |
+        echo "Repo : ${{ github.repository }}"
+        echo "Token présent : ${{ secrets.GH_PAT != '' }}"
+        
     - name: Run index update script
       run: |
         NEW_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'data/*.json' | grep -v index.json || true)
