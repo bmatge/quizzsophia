@@ -1,0 +1,225 @@
+{
+  "titre": "Présent Perfect en Anglais - 4ème Niveau",
+  "questions": [
+    {
+      "question": "Quel est l'auxiliaire utilisé pour former le présent perfect ?",
+      "options": [
+        "am",
+        "have",
+        "do",
+        "will"
+      ],
+      "correct": 1,
+      "explanation": "L'auxiliaire utilisé pour former le présent perfect est 'have' ou 'has' selon la personne."
+    },
+    {
+      "question": "Complétez la phrase : She _____ (to eat) her breakfast already.",
+      "options": [
+        "eats",
+        "ate",
+        "has eaten",
+        "is eating"
+      ],
+      "correct": 2,
+      "explanation": "Le présent perfect de 'eat' est 'has eaten'."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'go' ?",
+      "options": [
+        "went",
+        "gone",
+        "goes",
+        "going"
+      ],
+      "correct": 1,
+      "explanation": "Le participe passé de 'go' est 'gone'."
+    },
+    {
+      "question": "Choisissez la forme correcte : They _____ (not finish) their homework yet.",
+      "options": [
+        "have finished",
+        "has finished",
+        "haven't finished",
+        "haden't finished"
+      ],
+      "correct": 2,
+      "explanation": "L'auxiliaire 'have' avec 'not' forme la négation dans le présent perfect : 'haven't finished'."
+    },
+    {
+      "question": "Complétez la phrase : I _____ (to never see) such a beautiful place.",
+      "options": [
+        "has never seen",
+        "have never seen",
+        "did never see",
+        "never saw"
+      ],
+      "correct": 1,
+      "explanation": "On utilise 'have never seen' pour exprimer une expérience dans le présent perfect."
+    },
+    {
+      "question": "Quel verbe est au présent perfect : He has played football.",
+      "options": [
+        "has",
+        "played",
+        "football",
+        "He"
+      ],
+      "correct": 1,
+      "explanation": "'Played' est le verbe conjugué au présent perfect."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'write' ?",
+      "options": [
+        "wrote",
+        "writed",
+        "writing",
+        "written"
+      ],
+      "correct": 3,
+      "explanation": "Le participe passé du verbe 'write' est 'written'."
+    },
+    {
+      "question": "Choisissez la phrase correcte :",
+      "options": [
+        "She have just cooked dinner.",
+        "She has just cooked dinner.",
+        "She has just cook dinner.",
+        "She have just cook dinner."
+      ],
+      "correct": 1,
+      "explanation": "La bonne conjugaison pour 'she' est 'has cooked'."
+    },
+    {
+      "question": "Trouver l'erreur dans la phrase : They has gone to the cinema.",
+      "options": [
+        "They",
+        "has",
+        "gone",
+        "cinema"
+      ],
+      "correct": 1,
+      "explanation": "Avec 'They', on utilise 'have' et non 'has'."
+    },
+    {
+      "question": "Comment se forme le présent perfect avec le verbe 'be' au pluriel?",
+      "options": [
+        "has been",
+        "have been",
+        "will be",
+        "are being"
+      ],
+      "correct": 1,
+      "explanation": "Avec un sujet pluriel, on utilise 'have been'."
+    },
+    {
+      "question": "Complétez : I _____ (to live) here for ten years.",
+      "options": [
+        "lived",
+        "live",
+        "have lived",
+        "am living"
+      ],
+      "correct": 2,
+      "explanation": "'Have lived' montre une action qui a commencé dans le passé et continue jusqu'à maintenant."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'take' ?",
+      "options": [
+        "took",
+        "taken",
+        "taking",
+        "takes"
+      ],
+      "correct": 1,
+      "explanation": "Le participe passé de 'take' est 'taken'."
+    },
+    {
+      "question": "Quelle phrase est correcte ?",
+      "options": [
+        "I have ate lunch.",
+        "I have eaten lunch.",
+        "I have eat lunch.",
+        "I have eating lunch."
+      ],
+      "correct": 1,
+      "explanation": "Le verbe 'eat' au présent perfect est 'have eaten'."
+    },
+    {
+      "question": "Complétez : We _____ (to not be) to the new restaurant yet.",
+      "options": [
+        "have not been",
+        "had not been",
+        "has not been",
+        "were not"
+      ],
+      "correct": 0,
+      "explanation": "Pour dire que quelque chose n'a pas encore été fait, on utilise 'have not been'."
+    },
+    {
+      "question": "Quelle phrase utilise le présent perfect ?",
+      "options": [
+        "They went to the park.",
+        "They have gone to the park.",
+        "They go to the park.",
+        "They are going to the park."
+      ],
+      "correct": 1,
+      "explanation": "La phrase au présent perfect est 'They have gone'."
+    },
+    {
+      "question": "Quand utilise-t-on le présent perfect ?",
+      "options": [
+        "Pour décrire une action future",
+        "Pour décrire une action terminée dans le passé",
+        "Pour exprimer une action continue dans le passé",
+        "Pour parler d'une action passée dans une situation présente"
+      ],
+      "correct": 3,
+      "explanation": "Le présent perfect est utilisé pour lier des actions passées aux situations présentes."
+    },
+    {
+      "question": "Complétez : He _____ (to break) his leg 3 times.",
+      "options": [
+        "have broken",
+        "has broken",
+        "breaks",
+        "broke"
+      ],
+      "correct": 1,
+      "explanation": "'Has broken' est utilisé ici pour indiquer une expérience de vie."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'see' ?",
+      "options": [
+        "saw",
+        "seen",
+        "sees",
+        "seeing"
+      ],
+      "correct": 1,
+      "explanation": "Le participe passé de 'see' est 'seen'."
+    },
+    {
+      "question": "Complétez : We _____ (to visit) London recently.",
+      "options": [
+        "have visited",
+        "visited",
+        "are visiting",
+        "visit"
+      ],
+      "correct": 0,
+      "explanation": "On utilise 'have visited' pour une action récente ayant un impact sur le présent."
+    },
+    {
+      "question": "Quel est le bon ordre pour faire une question au présent perfect ?",
+      "options": [
+        "Have/Has + S + PP",
+        "S + Have/Has + PP",
+        "PP + S + Have/Has",
+        "S + PP + Have/Has"
+      ],
+      "correct": 0,
+      "explanation": "Pour poser une question, on commence par 'Have/Has', puis le sujet, suivi du participe passé."
+    }
+  ]
+}
