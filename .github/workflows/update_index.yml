@@ -87,7 +87,7 @@ deploy:
 
   steps:
     - name: Trigger Render Deployment
-      uses: johnbeynon/render-deploy-action@v0.0.8
+      uses: johnbeynon/render-deploy-action
       with:
         serviceId: ${{ secrets.RENDER_SERVICE_ID }}
         apiKey: ${{ secrets.RENDER_API_KEY }}
