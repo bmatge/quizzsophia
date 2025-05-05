@@ -255,7 +255,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const historyData = { titre, score, total, fichier, userAnswers: answers };
         console.log("Envoi sauvegarde historique:", historyData);
         try {
-            const response = await fetch('api/save_history.php', {
+            const response = await fetch('/api/save_history.php', {
                 method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(historyData)
             });
             const resultText = await response.text();
@@ -340,7 +340,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!confirm("Effacer définitivement tout l'historique ?")) return;
         console.log("Tentative effacement historique serveur...");
         try {
-            const response = await fetch('api/clear_history.php', { method: 'POST' });
+            const response = await fetch('/api/clear_history.php', { method: 'POST' });
             const resultText = await response.text();
             let result = null; try { result = JSON.parse(resultText); } catch (e) { throw new Error(`Réponse serveur invalide: ${resultText}`); }
             if (!response.ok || result.status !== 'success') throw new Error(result.message || `Erreur HTTP ${response.status}`);
