@@ -31,7 +31,7 @@ $entry = [
     'userAnswers' => json_encode($data['userAnswers'], JSON_UNESCAPED_UNICODE)
 ];
 
-$googleScriptUrl = 'https://script.google.com/macros/s/AKfycbx0Acnj8t8fTbIyfVUyvS85I01l10tdDLJTnvn2KbRWUATS5om4egYmKNn-z8eAczqY/exec';
+$googleScriptUrl = 'https://script.google.com/macros/s/AKfycbzbMkXHGARUHwx3vS4Zdmi8LD_A6ful2A7v0EiQWuJ_IXAzmJOFmixV5UzKu_iwKZ0Y/exec';
 
 $ch = curl_init($googleScriptUrl);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
