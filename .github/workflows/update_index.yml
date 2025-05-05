@@ -71,3 +71,22 @@ jobs:
         git add data/index.json
         git diff --cached --quiet || git commit -m "Mise à jour automatique de l'index des quiz"
         git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
+
+name: Deploy to Render
+
+on:
+  push:
+    branches:
+      - main  # Ou autre branche à surveiller
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Trigger Render Deployment
+      uses: render-examples/deploy-action@v1
+      with:
+        serviceId: ${{ secrets.RENDER_SERVICE_ID }}
+        apiKey: ${{ secrets.RENDER_API_KEY }}
+
