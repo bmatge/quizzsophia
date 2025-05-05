@@ -272,7 +272,7 @@ document.addEventListener('DOMContentLoaded', () => {
         listeHistoriqueUl.innerHTML = '<li>Chargement...</li>';
         loadedHistoryData = [];
         try {
-            const response = await fetch('https://script.google.com/macros/s/AKfycbx0Acnj8t8fTbIyfVUyvS85I01l10tdDLJTnvn2KbRWUATS5om4egYmKNn-z8eAczqY/exec');
+            const response = await fetch('https://script.google.com/macros/s/AKfycbzbMkXHGARUHwx3vS4Zdmi8LD_A6ful2A7v0EiQWuJ_IXAzmJOFmixV5UzKu_iwKZ0Y/exec');
             if (!response.ok) throw new Error(`HTTP ${response.status}`);
             const historyJson = await response.json();
             if (!Array.isArray(historyJson)) throw new Error("Format JSON invalide.");
