@@ -276,6 +276,19 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!response.ok) throw new Error(`HTTP ${response.status}`);
             const historyJson = await response.json();
             if (!Array.isArray(historyJson)) throw new Error("Format JSON invalide.");
+    
+            // ✅ Convertir userAnswers (string) en tableau si nécessaire
+            historyJson.forEach(entry => {
+                if (typeof entry.userAnswers === 'string') {
+                    try {
+                        entry.userAnswers = JSON.parse(entry.userAnswers);
+                    } catch (e) {
+                        console.warn("Échec du parsing JSON de userAnswers:", entry.userAnswers);
+                        entry.userAnswers = {};
+                    }
+                }
+            });
+    
             loadedHistoryData = historyJson;
             console.log("Historique chargé:", loadedHistoryData);
             displayHistory(loadedHistoryData);
@@ -284,6 +297,7 @@ document.addEventListener('DOMContentLoaded', () => {
             listeHistoriqueUl.innerHTML = `<li>Erreur chargement historique (${error.message}).</li>`;
         }
     }
+
 
     function displayHistory(history) { /* ... (Code inchangé) ... */
         listeHistoriqueUl.innerHTML = '';
