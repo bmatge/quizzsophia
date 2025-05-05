@@ -8,3 +8,6 @@ RUN a2enmod rewrite
 
 # Configuration par défaut
 EXPOSE 80
+
+#Autoriser l'écriture du répertoire data
+RUN mkdir -p /var/www/html/data && chmod 777 /var/www/html/data
