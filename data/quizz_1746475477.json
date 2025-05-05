@@ -1,0 +1,225 @@
+{
+  "titre": "Théorème de Thalès et sa réciproque - DATE",
+  "questions": [
+    {
+      "question": "Si deux droites sont parallèles, alors le théorème de Thalès peut s'appliquer pour deux segments correspondants situés entre elles. Vrai ou Faux?",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Seulement si les segments sont égaux",
+        "Seulement si les triangles sont rectangles"
+      ],
+      "correct": 0,
+      "explanation": "Le théorème de Thalès s'applique lorsque les segments sont entre deux droites parallèles."
+    },
+    {
+      "question": "Dans le triangle ABC, DE est une droite parallèle à BC. On sait que AD/DB = 2,5 et que DE = 10 cm. Quelle est la longueur de BC?",
+      "options": [
+        "25 cm",
+        "15 cm",
+        "20 cm",
+        "Ve cm"
+      ],
+      "correct": 0,
+      "explanation": "En utilisant le théorème de Thalès, AD/DB = DE/BC. Si AD/DB=2,5, donc BC=2,5*10cm=25cm."
+    },
+    {
+      "question": "Quelle est la condition nécessaire pour appliquer la réciproque du théorème de Thalès?",
+      "options": [
+        "Les triangles doivent être rectangles",
+        "Les triangles doivent partager un angle",
+        "Les rapports des côtés correspondants doivent être égaux",
+        "Il n'existe pas de condition nécessaire"
+      ],
+      "correct": 2,
+      "explanation": "La réciproque du théorème de Thalès s'applique si les rapports des côtés correspondants sont égaux."
+    },
+    {
+      "question": "Dans le triangle DEF, GH est parallèle à EF et coupe DE et DF respectivement en G et H. Si DG/GE = GH/HF, que peut-on conclure?",
+      "options": [
+        "GH est égal à EF",
+        "DE est la hauteur du triangle",
+        "GH est parallèle à EF",
+        "Le triangle n'est pas valide"
+      ],
+      "correct": 2,
+      "explanation": "La condition donnée montre un cas de la réciproque de Thalès prouvant que GH est parallèle à EF."
+    },
+    {
+      "question": "On connaît BC = 6 cm, B'C' = 9 cm, et (BC) // (B'C'). Que peut-on dire du rapport AB/AB'?",
+      "options": [
+        "AB/AB' = 2/3",
+        "AB/AB' = 3/2",
+        "AB/AB' = 1",
+        "Impossible de conclure"
+      ],
+      "correct": 1,
+      "explanation": "En appliquant le théorème de Thalès, BC/B'C' = AB/AB'. Donc AB/AB' = 6/9 = 2/3, ce qui est incorrect. Correct est 9/6 = 3/2."
+    },
+    {
+      "question": "Dans le triangle LMN, si les droites OP // MN et que LO/OM = OP/PN = L/3, retrouver L.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "9"
+      ],
+      "correct": 0,
+      "explanation": "La proportion donnée est LO/OM = OP/PN = L/3, donc L = 2 pour que les proportions se maintiennent dans le théorème de Thalès."
+    },
+    {
+      "question": "Deux droites sont parallèles et coupées par une transversale. Les segments qu'elles créent sur la transversale ont des longueurs de 5 et 15 cm. Quelles longueurs de segments entre les parallèles respecteront la proportion du théorème de Thalès?",
+      "options": [
+        "10 et 30 cm",
+        "5 et 15 cm",
+        "3 et 9 cm",
+        "15 et 45 cm"
+      ],
+      "correct": 2,
+      "explanation": "Les segments doivent respecter la proportion 1/3 pour maintenir le rapport 5/15, donc 3/9 est correct."
+    },
+    {
+      "question": "Un triangle est intercepté par une parallèle à l'un de ses côtés. Quel est l'effet sur l'aire des sous-triangles?",
+      "options": [
+        "Les aires sont égales",
+        "Les aires sont proportionnelles aux segments sur l'autre côté",
+        "Les aires sont le double",
+        "Les aires n'ont pas de relation"
+      ],
+      "correct": 1,
+      "explanation": "Les aires sont proportionnelles aux portions des segments interceptés en raison des parallèles."
+    },
+    {
+      "question": "Quelle propriété spéciale a le théorème de Thalès dans un triangle isocèle?",
+      "options": [
+        "Aucun, il ne s'applique pas",
+        "Les segments de même proportion sont égaux",
+        "La base et les côtés sont proportionnels",
+        "Il divise la base également"
+      ],
+      "correct": 3,
+      "explanation": "Dans un triangle isocèle, un segment parallèle à la base divisera la base en deux segments égaux."
+    },
+    {
+      "question": "Dans un triangle équilatéral, une parallèle à un côté coupe les deux autres côtés en proportions égales. Que peut-on en conclure?",
+      "options": [
+        "Elle est équilatérale",
+        "Elle est isocèle",
+        "Elle crée des segments de mêmes longueurs partout",
+        "Elle n'a aucun effet particulier"
+      ],
+      "correct": 2,
+      "explanation": "Dans un triangle équilatéral, les proportions égales signifient que tous les segments créés sont de même longueur, respectant le théorème de Thalès."
+    },
+    {
+      "question": "Dans un triangle rectangle, AC est hypotenuse. Une parallèle à AC fournit une proportion sur les côtés adjacents. Quelle est cette proportion?",
+      "options": [
+        "La même que l’angle de 90 degrés",
+        "La moitié de la somme des côtés",
+        "Proportional aux autre deux côtés",
+        "Pas nécessairement spécifique"
+      ],
+      "correct": 2,
+      "explanation": "La proportion se base sur les deux autres côtés car le théorème de Thalès garantit des proportions relatives entre les côtés."
+    },
+    {
+      "question": "Dans un schéma avec intersection de deux parallèles par une transversale, les segments formés ont-ils une quelconque relation?",
+      "options": [
+        "Ils sont proportions mais pas nécessairement spécifiques",
+        "Ils peuvent créer un quadrilatère spécifique",
+        "Ils forment une suite géométrique",
+        "Ils sont égaux"
+      ],
+      "correct": 0,
+      "explanation": "Les segments sont proportionnels grâce aux parallèles mais n'ont pas de restriction géométrique stricte, sauf à respecter le théorème de Thalès."
+    },
+    {
+      "question": "Dans un triangle ABC, DE est parallèle à AB, coupant AC en D et BC en E. Si AC = 8 cm, AD = 2 cm, quelle est la longueur de CE?",
+      "options": [
+        "4 cm",
+        "2 cm",
+        "6 cm",
+        "8 cm"
+      ],
+      "correct": 2,
+      "explanation": "Utilisant le théorème de Thalès: AD/AC = DE/AB = 2/8, CE par conséquent est 2/8 de la longueur totale."
+    },
+    {
+      "question": "Dans un problème géométrique, le théorème de Thalès vous permet de:",
+      "options": [
+        "Calculer les angles",
+        "Calculer des distances",
+        "Trouver des proportions égales",
+        "Définir si deux triangles sont semblables"
+      ],
+      "correct": 1,
+      "explanation": "Le théorème de Thalès est principalement utilisé pour calculer des distances à travers des proportions."
+    },
+    {
+      "question": "Pourquoi le théorème de Thalès est-il important dans la géométrie planaire?",
+      "options": [
+        "Il permet de créer des figures complexes",
+        "Il définit les angles sans calcul",
+        "Il aide à trouver des distances dans les figures impliquant des parallèles",
+        "Il prouve que tous les triangles sont équivalents"
+      ],
+      "correct": 2,
+      "explanation": "Le théorème de Thalès permet de déterminer des longueurs sans mesures directes, par proportions dans les parallèles."
+    },
+    {
+      "question": "Quelle est la conséquence d'une droite coupant deux côtés d'un triangle et parallèle au troisième côté?",
+      "options": [
+        "Elle crée des triangles semblables",
+        "Elle divise les angles de la même manière",
+        "Elle crée un losange",
+        "Elle ne respecte pas de proportions spécifiques"
+      ],
+      "correct": 0,
+      "explanation": "Une droite parallèle au troisième côté d'un triangle divise les côtés proportionnellement, ce qui implique une similitude entre les triangles formés."
+    },
+    {
+      "question": "Un segment joignant deux milieux des côtés d’un triangle est-il toujours parallèle au troisième côté?",
+      "options": [
+        "Oui",
+        "Non",
+        "Seulement si l'angle adjacent est droit",
+        "Seulement si le triangle est isocèle"
+      ],
+      "correct": 0,
+      "explanation": "C'est une propriété des triangles; le segment joignant les milieux est toujours parallèle au troisième côté, souvent appelée le théorème des milieux."
+    },
+    {
+      "question": "En utilisant le théorème de Thalès, si BD/FE = 1/2 alors DE : CE = ?",
+      "options": [
+        "1 : 1",
+        "1 : 2",
+        "2 : 1",
+        "Impossible à déterminer"
+      ],
+      "correct": 2,
+      "explanation": "Si BD/FE = 1/2, cela indique qu'il y a une division proportionnelle des côtés impliquant une proportion DE:CE de 2:1."
+    },
+    {
+      "question": "Dans un triangle, une médiatrice",
+      "options": [
+        "Est perpendiculaire par son milieu",
+        "Crée deux segments égaux",
+        "N'a pas d'impact sur les angles",
+        "Divise l'angle principal par 2"
+      ],
+      "correct": 0,
+      "explanation": "Une médiatrice coupe un segment en son milieu et le fait perpendiculairement."
+    },
+    {
+      "question": "Le théorème de Thalès s'applique principalement à:",
+      "options": [
+        "Des triangles égaux uniquement",
+        "Des figures similaires uniquement",
+        "Des segments parallèles",
+        "Tout type de figure"
+      ],
+      "correct": 2,
+      "explanation": "Le théorème de Thalès concerne les segments dans des configurations impliquant des parallèles et des proportions spécifiques."
+    }
+  ]
+}
