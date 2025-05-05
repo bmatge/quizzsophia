@@ -266,21 +266,17 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error("Erreur sauvegarde historique:", error);
         }
      }
-
-    async function loadAndDisplayHistory() { /* ... (Code inchangé) ... */
-        console.log("Chargement historique...");
+    
+    async function loadAndDisplayHistory() {
+        console.log("Chargement historique depuis Google Sheets...");
         listeHistoriqueUl.innerHTML = '<li>Chargement...</li>';
         loadedHistoryData = [];
         try {
-            const response = await fetch('data/history.json?nocache=' + Date.now());
-            if (!response.ok) {
-                if (response.status === 404) { console.log("history.json non trouvé."); loadedHistoryData = []; }
-                else throw new Error(`HTTP ${response.status}`);
-            } else {
-                const historyJson = await response.json();
-                if (!Array.isArray(historyJson)) throw new Error("Format history.json invalide.");
-                loadedHistoryData = historyJson;
-            }
+            const response = await fetch('https://script.google.com/macros/s/AKfycbx0Acnj8t8fTbIyfVUyvS85I01l10tdDLJTnvn2KbRWUATS5om4egYmKNn-z8eAczqY/exec');
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const historyJson = await response.json();
+            if (!Array.isArray(historyJson)) throw new Error("Format JSON invalide.");
+            loadedHistoryData = historyJson;
             console.log("Historique chargé:", loadedHistoryData);
             displayHistory(loadedHistoryData);
         } catch (error) {
