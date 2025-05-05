@@ -26,5 +26,9 @@
   {
     "titre": "Evaluation figures de style – 5 mai 2025",
     "fichier": "evaluation_figures_style.json"
+  },
+  {
+    "titre": "Calcul littéral et Thalès – Niveau 4e",
+    "fichier": "evaluation_calcul_litteral.json"
   }
 ]
