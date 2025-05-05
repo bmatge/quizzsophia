@@ -35,12 +35,19 @@ jobs:
         
     - name: Run index update script
       run: |
+        echo "Diff entre ${{ github.event.before }} et ${{ github.sha }}"
+        git diff --name-only ${{ github.event.before }} ${{ github.sha }}
+        
         NEW_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'data/*.json' | grep -v index.json || true)
-
+    
+        echo "Nouveaux fichiers détectés : $NEW_FILES"
+    
         for file in $NEW_FILES; do
+          echo "Traitement de $file"
           TITLE=$(jq -r .titre "$file")
+          echo "Titre : $TITLE"
           BASENAME=$(basename "$file")
-
+    
           if ! jq -e --arg f "$BASENAME" '.[] | select(.fichier == $f)' data/index.json > /dev/null; then
             echo "Ajout de $file ($TITLE) à index.json"
             TMP=$(mktemp)
