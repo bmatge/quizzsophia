@@ -3,7 +3,7 @@ name: Update Quiz Index
 on:
   push:
     branches:
-      - main  # ou votre branche
+      - main
     paths:
       - 'data/*.json'
 
@@ -14,14 +14,14 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
-      
+      contents: write  # nécessaire pour autoriser le push via token
+
     steps:
     - name: Checkout repo with full history
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0
-      
+        fetch-depth: 0  # pour que git diff fonctionne
+
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
@@ -29,27 +29,31 @@ jobs:
 
     - name: Install jq (pour manipuler du JSON)
       run: sudo apt-get install jq
-      
+
     - name: Vérification token et repo
       run: |
         echo "Repo : ${{ github.repository }}"
         echo "Token présent : ${{ secrets.GH_PAT != '' }}"
-        
+
     - name: Run index update script
       run: |
         echo "Diff entre ${{ github.event.before }} et ${{ github.sha }}"
         git diff --name-only ${{ github.event.before }} ${{ github.sha }}
-        
-        NEW_FILES=$(ls data/*.json | grep -v index.json || true)    
-        
+
+        NEW_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'data/*.json' | grep -v index.json || true)
+
         echo "Nouveaux fichiers détectés : $NEW_FILES"
-    
+
         for file in $NEW_FILES; do
           echo "Traitement de $file"
-          TITLE=$(jq -r .titre "$file")
-          echo "Titre : $TITLE"
+          TITLE=$(jq -e -r .titre "$file" 2>/dev/null || echo "")
+          if [ -z "$TITLE" ]; then
+            echo "⚠️  Le fichier $file ne contient pas de champ .titre. Ignoré."
+            continue
+          fi
+
           BASENAME=$(basename "$file")
-    
+
           if ! jq -e --arg f "$BASENAME" '.[] | select(.fichier == $f)' data/index.json > /dev/null; then
             echo "Ajout de $file ($TITLE) à index.json"
             TMP=$(mktemp)
@@ -66,6 +70,4 @@ jobs:
         git config user.email "github-actions@github.com"
         git add data/index.json
         git diff --cached --quiet || git commit -m "Mise à jour automatique de l'index des quiz"
-        git remote -v
-        git status
         git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
