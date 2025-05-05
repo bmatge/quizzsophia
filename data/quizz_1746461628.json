@@ -1,0 +1,225 @@
+{
+  "titre": "Quiz Géographie - Circulation Douce - CM2",
+  "questions": [
+    {
+      "question": "Quel est un mode de circulation douce?",
+      "options": [
+        "Utiliser une voiture",
+        "Marcher à pied",
+        "Conduire une moto",
+        "Prendre un avion"
+      ],
+      "correct": 1,
+      "explanation": "La marche à pied est un mode de circulation douce car elle repose uniquement sur la force musculaire humaine."
+    },
+    {
+      "question": "Quel est le but principal de promouvoir les modes de circulation douce en ville?",
+      "options": [
+        "Réduire le bruit",
+        "Réduire la pollution",
+        "Accélérer le trafic",
+        "Créer des embouteillages"
+      ],
+      "correct": 1,
+      "explanation": "Les modes de circulation douce aident à réduire la pollution en ville en diminuant l'utilisation des véhicules motorisés."
+    },
+    {
+      "question": "Quel aménagement urbain favorise la marche et le vélo?",
+      "options": [
+        "Zones résidentielles",
+        "Zones piétonnes et pistes cyclables",
+        "Centres commerciaux",
+        "Zones industrielles"
+      ],
+      "correct": 1,
+      "explanation": "Les zones piétonnes et les pistes cyclables sont conçues pour favoriser la marche et le vélo en toute sécurité."
+    },
+    {
+      "question": "Quelles mesures peuvent limiter la circulation des voitures en centre-ville?",
+      "options": [
+        "Augmenter la vitesse",
+        "Élargir les routes",
+        "Limiter l'accès et réduire la vitesse",
+        "Ajouter plus de feux tricolores"
+      ],
+      "correct": 2,
+      "explanation": "Limiter l'accès et réduire la vitesse des voitures en centre-ville permet de réduire le trafic motorisé et d'encourager la circulation douce."
+    },
+    {
+      "question": "Quel transport en commun est encouragé pour réduire la pollution?",
+      "options": [
+        "Les voitures individuelles",
+        "Les bus, métros et tramways",
+        "Les motos",
+        "Les taxis"
+      ],
+      "correct": 1,
+      "explanation": "Les bus, métros et tramways transportent plus de personnes avec une empreinte écologique moindre comparée aux voitures."
+    },
+    {
+      "question": "Quelle est une infrastructure utilisée dans certaines villes pour faciliter le transport non-polluant?",
+      "options": [
+        "Bateaux bus et téléphériques",
+        "Gares de trains",
+        "Stations-service",
+        "Aéroports"
+      ],
+      "correct": 0,
+      "explanation": "Les bateaux bus et téléphériques sont intégrés dans certaines villes pour fournir des solutions de transport non-polluants."
+    },
+    {
+      "question": "Comment appelle-t-on la circulation qui se base sur la force musculaire humaine?",
+      "options": [
+        "Circulation urbaine",
+        "Circulation automobile",
+        "Circulation douce",
+        "Circulation rapide"
+      ],
+      "correct": 2,
+      "explanation": "La circulation douce se réfère aux modes de déplacement qui utilisent uniquement la force musculaire humaine."
+    },
+    {
+      "question": "Quel est un exemple de transport en commun qui aide à réduire la pollution?",
+      "options": [
+        "Les voitures électriques",
+        "Le métro",
+        "Les scooters",
+        "Les motos"
+      ],
+      "correct": 1,
+      "explanation": "Le métro est un moyen de transport en commun qui peut transporter beaucoup de personnes et donc réduire le nombre de voitures sur la route."
+    },
+    {
+      "question": "Pourquoi les élus développent-ils des pistes cyclables?",
+      "options": [
+        "Pour augmenter le trafic routier",
+        "Pour réduire la vitesse des voitures",
+        "Pour promouvoir la circulation douce",
+        "Pour augmenter les impôts"
+      ],
+      "correct": 2,
+      "explanation": "Les pistes cyclables sont développées pour promouvoir la circulation douce comme le vélo, ce qui aide à réduire la pollution."
+    },
+    {
+      "question": "Quel terme décrit les modes de déplacement ne nécessitant pas de carburant?",
+      "options": [
+        "Circulation douce",
+        "Circulation rapide",
+        "Ecomobilité",
+        "Stationnement régulé"
+      ],
+      "correct": 0,
+      "explanation": "Circulation douce décrit les modes de déplacement qui ne reposent que sur la force musculaire humaine et donc ne nécessitent pas de carburant."
+    },
+    {
+      "question": "Quels sont les avantages des zones piétonnes en centre-ville?",
+      "options": [
+        "Elles augmentent les embouteillages",
+        "Elles réduisent la pollution de l'air",
+        "Elles augmentent la pollution sonore",
+        "Elles augmentent la vitesse des véhicules"
+      ],
+      "correct": 1,
+      "explanation": "Les zones piétonnes réduisent la circulation des véhicules motorisés et donc la pollution de l'air."
+    },
+    {
+      "question": "Quel impact peuvent avoir les transports en commun sur l'environnement en ville?",
+      "options": [
+        "Aucun impact",
+        "Augmentation de la pollution",
+        "Réduction de la pollution",
+        "Augmentation des embouteillages"
+      ],
+      "correct": 2,
+      "explanation": "Les transports en commun peuvent transporter de nombreuses personnes en même temps, réduisant ainsi le nombre de véhicules individuels en circulation et donc la pollution."
+    },
+    {
+      "question": "Quel mode de transport est utilisé en ville pour franchir des obstacles naturels comme des rivières?",
+      "options": [
+        "Voitures",
+        "Autobus",
+        "Bateaux bus",
+        "Vélos"
+      ],
+      "correct": 2,
+      "explanation": "Les bateaux bus peuvent être utilisés pour traverser des rivières, fournissant une alternative non-polluante aux ponts routiers."
+    },
+    {
+      "question": "Que signifie le terme \"mobilité durable\"?",
+      "options": [
+        "Utilisation des voitures à grande vitesse",
+        "Augmentation des routes",
+        "Développement de transport efficace et respectueux de l'environnement",
+        "Augmentation de la consommation de carburant"
+      ],
+      "correct": 2,
+      "explanation": "La mobilité durable vise à développer des infrastructures de transport qui répondent aux besoins actuels tout en étant respectueuses de l'environnement."
+    },
+    {
+      "question": "Quel dispositif aérien peut être utilisé comme transport en commun urbain?",
+      "options": [
+        "Avions",
+        "Montgolfières",
+        "Téléphériques",
+        "Drones"
+      ],
+      "correct": 2,
+      "explanation": "Les téléphériques sont parfois utilisés dans les villes pour surmonter les obstacles géographiques et sont une forme de transport en commun."
+    },
+    {
+      "question": "Pourquoi les transports en commun sont-ils souvent encouragés dans les milieux urbains?",
+      "options": [
+        "Ils augmentent la circulation automobile",
+        "Ils sont plus coûteux",
+        "Ils réduisent la pollution et les embouteillages",
+        "Ils occupent beaucoup d'espace"
+      ],
+      "correct": 2,
+      "explanation": "Les transports en commun réduisent le nombre de véhicules individuels sur les routes, diminuant ainsi la pollution et les embouteillages."
+    },
+    {
+      "question": "Comment les élus réduisent-ils le nombre de voitures en centre-ville?",
+      "options": [
+        "En construisant plus de routes",
+        "En augmentant le prix du carburant",
+        "En limitant l'accès des voitures",
+        "En distribuant des voitures gratuites"
+      ],
+      "correct": 2,
+      "explanation": "Limiter l'accès des voitures dans les centres-villes réduit leur nombre, favorisant la circulation douce et les transports en commun."
+    },
+    {
+      "question": "Quelle est une mesure qui peut encourager l'utilisation du vélo en ville?",
+      "options": [
+        "Créer plus de parkings",
+        "Ajout de pistes cyclables",
+        "Réduire le nombre de vélos disponibles",
+        "Augmenter la vitesse des voitures"
+      ],
+      "correct": 1,
+      "explanation": "L'ajout de pistes cyclables encourage l'utilisation du vélo en offrant un trajet sûr et aménagé pour les cyclistes."
+    },
+    {
+      "question": "Quel est un bénéfice de la marche à pied en ville?",
+      "options": [
+        "Augmente les embouteillages",
+        "Réduit la santé",
+        "Réduit la pollution de l'air",
+        "Augmente le bruit"
+      ],
+      "correct": 2,
+      "explanation": "La marche à pied ne produit pas de pollution de l'air et contribue ainsi à la réduction de la pollution urbaine."
+    },
+    {
+      "question": "Quel moyen de transport permet d'éviter les embouteillages en ville?",
+      "options": [
+        "Avions",
+        "Trains à grande vitesse",
+        "Métro",
+        "Voitures rapides"
+      ],
+      "correct": 2,
+      "explanation": "Le métro permet de voyager rapidement sous terre, évitant les embouteillages en surface."
+    }
+  ]
+}
