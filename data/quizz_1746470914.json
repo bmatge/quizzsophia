@@ -1,0 +1,229 @@
+Je vais générer un quiz de 20 questions pour un niveau 4ème, axé sur le calcul littéral, avec des questions pertinentes relatives au théorème de Thalès. Voici le quiz au format JSON demandé :
+
+```json
+{
+  "titre": "Quizz sur le Calcul Littéral - Niveau 4ème",
+  "questions": [
+    {
+      "question": "Si a = 3 et b = 4, Calculer a + b.",
+      "options": [
+        "7",
+        "12",
+        "1",
+        "0"
+      ],
+      "correct": 0,
+      "explanation": "3 + 4 = 7."
+    },
+    {
+      "question": "Simplifier l'expression : 2x + 3x.",
+      "options": [
+        "5",
+        "5x",
+        "6x",
+        "x"
+      ],
+      "correct": 1,
+      "explanation": "2x + 3x = 5x."
+    },
+    {
+      "question": "Résoudre l'équation : 2x = 10.",
+      "options": [
+        "x = 10",
+        "x = 5",
+        "x = 20",
+        "x = 0"
+      ],
+      "correct": 1,
+      "explanation": "Divisant les deux côtés par 2 donne x = 5."
+    },
+    {
+      "question": "Factoriser l'expression : x² + 5x.",
+      "options": [
+        "x(x + 5)",
+        "(x + 5)(x - 5)",
+        "x² + 5",
+        "5x"
+      ],
+      "correct": 0,
+      "explanation": "En mettant x en facteur, on obtient x(x + 5)."
+    },
+    {
+      "question": "Quel est le coefficient de x dans 4x + 7?",
+      "options": [
+        "4",
+        "7",
+        "1",
+        "11"
+      ],
+      "correct": 0,
+      "explanation": "Le coefficient de x est le nombre qui le précède, ici 4."
+    },
+    {
+      "question": "Simplifier : 3a - 4a.",
+      "options": [
+        "-1a",
+        "1a",
+        "-a",
+        "7a"
+      ],
+      "correct": 2,
+      "explanation": "3a - 4a = -a."
+    },
+    {
+      "question": "Que vaut le produit de x et x² ?",
+      "options": [
+        "x²",
+        "x³",
+        "x",
+        "x⁴"
+      ],
+      "correct": 1,
+      "explanation": "x * x² = x^(1+2) = x³."
+    },
+    {
+      "question": "Résoudre l'équation : 3(x + 4) = 12",
+      "options": [
+        "x = 4",
+        "x = 0",
+        "x = -4",
+        "x = 2"
+      ],
+      "correct": 3,
+      "explanation": "Distribuer et résoudre donne x = 0."
+    },
+    {
+      "question": "Théorème de Thalès : Dans un triangle, si DE // BC, AD/DB = ?",
+      "options": [
+        "AE/BC",
+        "AB/AC",
+        "AC/AB",
+        "AD/DB"
+      ],
+      "correct": 1,
+      "explanation": "D'après Thalès, AD/DB = AE/BC."
+    },
+    {
+      "question": "Théorème de Thalès : Si DE // BC, alors l'égalité qui est vraie est :",
+      "options": [
+        "AD/DB = AC/BC",
+        "AB/AC = AE/AB",
+        "AD/DB = AE/AC",
+        "AC/AB = AE/BC"
+      ],
+      "correct": 0,
+      "explanation": "AD/DB = AC/BC par Thalès."
+    },
+    {
+      "question": "Simplifier : x(2x + 3)",
+      "options": [
+        "2x + 3",
+        "x² + 3x",
+        "2x² + 3x",
+        "6x²"
+      ],
+      "correct": 2,
+      "explanation": "Distribuer x : x*2x + x*3 = 2x² + 3x."
+    },
+    {
+      "question": "Quel est le résultat de (3x)(4x) ?",
+      "options": [
+        "12x²",
+        "7x",
+        "12x",
+        "12x³"
+      ],
+      "correct": 0,
+      "explanation": "3x * 4x = 12x²."
+    },
+    {
+      "question": "Factoriser 12x² + 8x.",
+      "options": [
+        "4x(3x + 2)",
+        "12x(x + 2)",
+        "4x(3 + 2)",
+        "x(12x + 8)"
+      ],
+      "correct": 0,
+      "explanation": "12x² + 8x = 4x(3x + 2)."
+    },
+    {
+      "question": "Exprimer la somme en un seul terme : 10x + x.",
+      "options": [
+        "11",
+        "11x",
+        "10xx",
+        "x"
+      ],
+      "correct": 1,
+      "explanation": "10x + x = 11x."
+    },
+    {
+      "question": "Simplifier l'expression : (x + 2)(x - 2)",
+      "options": [
+        "x² - 4",
+        "x² + 4",
+        "x² - 2x",
+        "x² + 2"
+      ],
+      "correct": 0,
+      "explanation": "(x + 2)(x - 2) est une différence de carrés : x² - 4."
+    },
+    {
+      "question": "En appliquant Thalès, si DE // BC : AD/DB = 3 et AC = 12 cm alors que vaut AB?",
+      "options": [
+        "12 cm",
+        "36 cm",
+        "16 cm",
+        "24 cm"
+      ],
+      "correct": 1,
+      "explanation": "AD/DB = 3 implique que AB = 3*AC/4 = 12*3/4 = 36 cm."
+    },
+    {
+      "question": "Simplifier : 2(3x - 4) - x",
+      "options": [
+        "6x - 4",
+        "6x - 8 - x",
+        "5x - 8",
+        "x + 8"
+      ],
+      "correct": 2,
+      "explanation": "Distribuer puis simplifier : 6x - 8 - x = 5x - 8."
+    },
+    {
+      "question": "Quel est le résultat de (2a)(3b)?",
+      "options": [
+        "5ab",
+        "6ab",
+        "6a²b",
+        "6ab²"
+      ],
+      "correct": 1,
+      "explanation": "Le produit des coefficients 2 et 3 et des variables a, b est 6ab."
+    },
+    {
+      "question": "Si a = 2, b = 3, calculer l'expression : ab + b².",
+      "options": [
+        "15",
+        "13",
+        "5",
+        "12"
+      ],
+      "correct": 0,
+      "explanation": "2*3 + 3² = 6 + 9 = 15."
+    },
+    {
+      "question": "Simplifier l'expression : x² - 2x + x.",
+      "options": [
+        "x² - x",
+        "x²",
+        "x",
+        "x² - 3x"
+      ],
+      "correct": 0,
+      "explanation": "x² - 2x + x = x² - x."
+    }
+  ]
+}
+```
