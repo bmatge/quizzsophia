@@ -22,5 +22,9 @@
   {
     "titre": "Evaluation Pythagore – 5 mai 2025",
     "fichier": "evaluation_pythagore.json"
+  },
+  {
+    "titre": "Evaluation figures de style – 5 mai 2025",
+    "fichier": "evaluation_figures_style.json"
   }
 ]
