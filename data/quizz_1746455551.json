@@ -1,0 +1,225 @@
+{
+  "titre": "Propriétés de la Matière - 12/10/2023",
+  "questions": [
+    {
+      "question": "Quelle est la définition correcte de la densité d'un matériau ?",
+      "options": [
+        "C'est la masse d'un matériau par rapport à son volume.",
+        "C'est le poids d'un matériau.",
+        "C'est le volume d'un matériau.",
+        "C'est la température à laquelle un matériau fond."
+      ],
+      "correct": 0,
+      "explanation": "La densité est définie comme la masse d'un matériau pour un volume donné."
+    },
+    {
+      "question": "Quelle propriété de la matière décrit sa capacité à être transformée en fils ou en feuilles minces ?",
+      "options": [
+        "Malléabilité",
+        "Densité",
+        "Solubilité",
+        "Conductivité"
+      ],
+      "correct": 0,
+      "explanation": "La malléabilité se réfère à la capacité d'une substance à être déformée sous forme de feuilles minces."
+    },
+    {
+      "question": "Quel est le point de fusion de l'eau en degrés Celsius ?",
+      "options": [
+        "0°C",
+        "100°C",
+        "32°C",
+        "273°C"
+      ],
+      "correct": 0,
+      "explanation": "L'eau gèle à 0°C, ce qui correspond à son point de fusion."
+    },
+    {
+      "question": "Laquelle des options suivantes n'est pas une propriété physique de la matière ?",
+      "options": [
+        "Couleur",
+        "Densité",
+        "Réactivité chimique",
+        "Conductivité thermique"
+      ],
+      "correct": 2,
+      "explanation": "La réactivité chimique est une propriété chimique, pas physique."
+    },
+    {
+      "question": "Quel instrument est principalement utilisé pour mesurer la masse d'un objet ?",
+      "options": [
+        "Une balance",
+        "Un thermomètre",
+        "Un cylindre gradué",
+        "Un baromètre"
+      ],
+      "correct": 0,
+      "explanation": "La balance est utilisée pour mesurer la masse d'un objet."
+    },
+    {
+      "question": "Comment appelle-t-on le changement d'état de liquide à gaz ?",
+      "options": [
+        "Condensation",
+        "Sublimation",
+        "Évaporation",
+        "Solidification"
+      ],
+      "correct": 2,
+      "explanation": "L'évaporation est le processus de transformation d'un liquide en gaz."
+    },
+    {
+      "question": "Quelle est l'unité principale de volume dans le système international (SI) ?",
+      "options": [
+        "Mètre",
+        "Litre",
+        "Mètre cube",
+        "Gramme"
+      ],
+      "correct": 2,
+      "explanation": "L'unité principale de volume dans le système international est le mètre cube."
+    },
+    {
+      "question": "Quel processus décrit la transformation d'un solide directement en gaz ?",
+      "options": [
+        "Évaporation",
+        "Fusion",
+        "Sublimation",
+        "Solidification"
+      ],
+      "correct": 2,
+      "explanation": "La sublimation est lorsque un solide passe directement à l'état gazeux."
+    },
+    {
+      "question": "Quelle est l'unité de mesure de la masse dans le système international ?",
+      "options": [
+        "Kilogramme",
+        "Litre",
+        "Centimètre",
+        "Newton"
+      ],
+      "correct": 0,
+      "explanation": "La masse est mesurée en kilogrammes dans le système international."
+    },
+    {
+      "question": "Quelle propriété de la matière décrit sa capacité à conduire l'électricité ?",
+      "options": [
+        "Conductivité électrique",
+        "Densité",
+        "Viscosité",
+        "Volume"
+      ],
+      "correct": 0,
+      "explanation": "La conductivité électrique est la capacité d’un matériau à transmettre l'électricité."
+    },
+    {
+      "question": "Comment appelle-t-on le passage d’un gaz à un liquide ?",
+      "options": [
+        "Vaporisation",
+        "Fusion",
+        "Solidification",
+        "Condensation"
+      ],
+      "correct": 3,
+      "explanation": "La condensation est le processus par lequel un gaz se transforme en liquide."
+    },
+    {
+      "question": "Quel outil est utilisé pour mesurer le volume d'un liquide ?",
+      "options": [
+        "Cylindre gradué",
+        "Balance",
+        "Bécher",
+        "Règle"
+      ],
+      "correct": 0,
+      "explanation": "Un cylindre gradué est utilisé pour mesurer le volume de liquides avec précision."
+    },
+    {
+      "question": "Quel élément a une masse volumique plus élevée, l'or ou l'eau ?",
+      "options": [
+        "Or",
+        "Eau",
+        "Elles sont identiques",
+        "Cela dépend de la température"
+      ],
+      "correct": 0,
+      "explanation": "L'or a une masse volumique beaucoup plus élevée que l'eau."
+    },
+    {
+      "question": "Quel terme décrit la capacité d'une substance à être dissoute dans un solvant ?",
+      "options": [
+        "Solubilité",
+        "Conductivité",
+        "Densité",
+        "Viscosité"
+      ],
+      "correct": 0,
+      "explanation": "La solubilité se réfère à la capacité d'une substance à se dissoudre dans un solvant."
+    },
+    {
+      "question": "Quel est le principal solvant utilisé dans la plupart des expériences de chimie ?",
+      "options": [
+        "Eau",
+        "Alcool",
+        "Acétone",
+        "Éther"
+      ],
+      "correct": 0,
+      "explanation": "L'eau est le principal solvant utilisé en chimie en raison de sa capacité de dissolution."
+    },
+    {
+      "question": "Combien de phases différentes de la matière existe-t-il principalement ?",
+      "options": [
+        "Deux",
+        "Trois",
+        "Quatre",
+        "Cinq"
+      ],
+      "correct": 2,
+      "explanation": "Il existe principalement quatre phases de la matière : solide, liquide, gaz et plasma."
+    },
+    {
+      "question": "Quel changement d'état se produit lorsque l'eau gèle ?",
+      "options": [
+        "Sublimation",
+        "Fusion",
+        "Condensation",
+        "Solidification"
+      ],
+      "correct": 3,
+      "explanation": "La solidification se produit lorsque l'eau passe de l'état liquide à l'état solide."
+    },
+    {
+      "question": "Comment appelle-t-on le processus de transformation d'un liquide en solide ?",
+      "options": [
+        "Solidification",
+        "Condensation",
+        "Sublimation",
+        "Vaporisation"
+      ],
+      "correct": 0,
+      "explanation": "La solidification est le passage d'un liquide à un solide."
+    },
+    {
+      "question": "Quelle est l'unité de température utilisée dans le système international ?",
+      "options": [
+        "Celsius",
+        "Fahrenheit",
+        "Kelvin",
+        "Rankine"
+      ],
+      "correct": 2,
+      "explanation": "La température est mesurée en Kelvin (K) dans le système international d'unités."
+    },
+    {
+      "question": "Quel est le volume occupé par un cube de 1 mètre de côté ?",
+      "options": [
+        "1 mètre cube",
+        "1 litre",
+        "10 mètres cubes",
+        "1000 litres"
+      ],
+      "correct": 0,
+      "explanation": "Un cube de 1 mètre de côté occupe un volume de 1 mètre cube."
+    }
+  ]
+}
