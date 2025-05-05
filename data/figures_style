@@ -1,0 +1,125 @@
+{
+  "titre": "Les figures de style – 5 mai 2025",
+  "questions": [
+    {
+      "question": "Quelle est la figure de style dans : « Il pleure dans mon cœur comme il pleut sur la ville » ?",
+      "options": ["Comparaison", "Métaphore", "Personnification", "Allitération"],
+      "correct": 0,
+      "explanation": "La comparaison est introduite par 'comme'."
+    },
+    {
+      "question": "Quelle figure de style consiste à exagérer une idée ?",
+      "options": ["Litote", "Hyperbole", "Euphémisme", "Antithèse"],
+      "correct": 1,
+      "explanation": "L'hyperbole est une exagération volontaire pour impressionner."
+    },
+    {
+      "question": "« Ce silence était assourdissant » est un exemple de :",
+      "options": ["Antiphrase", "Oxymore", "Litote", "Comparaison"],
+      "correct": 1,
+      "explanation": "L'oxymore associe deux mots contraires dans un même groupe nominal."
+    },
+    {
+      "question": "Quelle figure remplace un mot par un autre lié par un rapport logique (contenu/contenant, cause/effet...) ?",
+      "options": ["Métonymie", "Périphrase", "Métaphore", "Chiasme"],
+      "correct": 0,
+      "explanation": "Exemple : « Boire un verre » → on remplace le contenu par le contenant."
+    },
+    {
+      "question": "Quelle est la figure dans : « Le vent hurlait dans la nuit » ?",
+      "options": ["Allitération", "Personnification", "Hyperbole", "Anaphore"],
+      "correct": 1,
+      "explanation": "Le vent est doté d’un comportement humain (hurler)."
+    },
+    {
+      "question": "« La mer est un miroir » est un exemple de :",
+      "options": ["Comparaison", "Hyperbole", "Métaphore", "Périphrase"],
+      "correct": 2,
+      "explanation": "La métaphore établit une équivalence directe sans outil de comparaison."
+    },
+    {
+      "question": "Quelle figure utilise un mot pour dire le contraire de ce que l’on pense, souvent de manière ironique ?",
+      "options": ["Antiphrase", "Litote", "Antithèse", "Oxymore"],
+      "correct": 0,
+      "explanation": "Exemple : « Bravo, tu as encore raté ! » → antiphrase ironique."
+    },
+    {
+      "question": "Dans : « C’est un petit génie, ce garçon ! », on trouve :",
+      "options": ["Hyperbole", "Litote", "Métaphore", "Métonymie"],
+      "correct": 0,
+      "explanation": "L’exagération du compliment est une hyperbole."
+    },
+    {
+      "question": "« Je ne te hais point » est une :",
+      "options": ["Antithèse", "Litote", "Périphrase", "Comparaison"],
+      "correct": 1,
+      "explanation": "La litote atténue une idée pour mieux la faire ressortir (ici : je t’aime)."
+    },
+    {
+      "question": "Quel est l'effet principal d'une anaphore ?",
+      "options": ["Créer une opposition", "Exagérer", "Insister", "Surprendre"],
+      "correct": 2,
+      "explanation": "L’anaphore est la répétition d’un mot en début de phrase pour mettre en valeur."
+    },
+    {
+      "question": "« Ce n’est pas mauvais » pour dire que c’est bon est une :",
+      "options": ["Antiphrase", "Litote", "Métaphore", "Hyperbole"],
+      "correct": 1,
+      "explanation": "C’est une litote : on dit moins pour suggérer plus."
+    },
+    {
+      "question": "Dans : « Le ciel pleure », le ciel est :",
+      "options": ["Humain", "Un élément naturel", "Personnifié", "Métonymique"],
+      "correct": 2,
+      "explanation": "Il est personnifié (pleurer = action humaine)."
+    },
+    {
+      "question": "Quelle figure de style est un développement au lieu d’un mot simple ?",
+      "options": ["Métonymie", "Périphrase", "Comparaison", "Chiasme"],
+      "correct": 1,
+      "explanation": "Exemple : « Le roi des animaux » pour « le lion »."
+    },
+    {
+      "question": "Quelle figure repose sur la répétition d’un même son consonne ?",
+      "options": ["Assonance", "Allitération", "Paronomase", "Anacoluthe"],
+      "correct": 1,
+      "explanation": "L’allitération concerne les sons consonantiques (ex : 'Pour qui sont ces serpents...')."
+    },
+    {
+      "question": "« L’innocent au front pur » est une périphrase pour :",
+      "options": ["Un criminel", "Un ange", "Un enfant", "Un héros"],
+      "correct": 2,
+      "explanation": "C’est une périphrase poétique pour dire « un enfant »."
+    },
+    {
+      "question": "Quelle figure oppose deux idées dans une même phrase ?",
+      "options": ["Anaphore", "Antithèse", "Périphrase", "Oxymore"],
+      "correct": 1,
+      "explanation": "Exemple : « Je vis, je meurs » → opposition claire = antithèse."
+    },
+    {
+      "question": "Quelle est la figure de style dans : « Cette obscure clarté » ?",
+      "options": ["Antithèse", "Oxymore", "Comparaison", "Allégorie"],
+      "correct": 1,
+      "explanation": "L’oxymore unit deux mots contradictoires dans le même groupe nominal."
+    },
+    {
+      "question": "Dans : « La maison dort », on observe une :",
+      "options": ["Comparaison", "Personnification", "Hyperbole", "Antiphrase"],
+      "correct": 1,
+      "explanation": "Un objet inanimé est présenté comme capable d’une action humaine (dormir)."
+    },
+    {
+      "question": "« Le temps, ce voleur silencieux » est un exemple de :",
+      "options": ["Métaphore", "Comparaison", "Antithèse", "Métonymie"],
+      "correct": 0,
+      "explanation": "C’est une métaphore : le temps est assimilé à un voleur."
+    },
+    {
+      "question": "Quelle figure de style repose sur la répétition d’un mot en début de phrase ?",
+      "options": ["Anaphore", "Assonance", "Allitération", "Périphrase"],
+      "correct": 0,
+      "explanation": "L’anaphore est une répétition en début de phrase ou de vers (ex : « J’accuse… »)."
+    }
+  ]
+}
