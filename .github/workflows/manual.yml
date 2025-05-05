@@ -1,0 +1,50 @@
+name: Update Quiz Index
+
+on:
+  push:
+    branches:
+      - main  # ou la branche de votre choix
+    paths:
+      - 'data/*.json'
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install jq (pour manipuler du JSON)
+      run: sudo apt-get install jq
+
+    - name: Run index update script
+      run: |
+        NEW_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- 'data/*.json' | grep -v index.json || true)
+
+        for file in $NEW_FILES; do
+          TITLE=$(jq -r .titre "$file")
+          BASENAME=$(basename "$file")
+
+          if ! jq -e --arg f "$BASENAME" '.[] | select(.fichier == $f)' data/index.json > /dev/null; then
+            echo "Ajout de $file ($TITLE) à index.json"
+            TMP=$(mktemp)
+            jq --arg t "$TITLE" --arg f "$BASENAME" '. += [{"titre": $t, "fichier": $f}]' data/index.json > "$TMP"
+            mv "$TMP" data/index.json
+          else
+            echo "$file est déjà dans index.json"
+          fi
+        done
+
+    - name: Commit and push if index changed
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add data/index.json
+        git diff --cached --quiet || git commit -m "Mise à jour automatique de l'index des quiz"
+        git push
