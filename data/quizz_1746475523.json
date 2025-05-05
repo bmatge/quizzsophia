@@ -1,0 +1,121 @@
+Je vais essayer de générer les questions en me basant sur mes connaissances préalables sur les contes de Maupassant, en particulier "Toine" et d'autres contes populaires. Voici le format du quiz demandé :
+
+```json
+{
+  "titre": "QUIZ SUR TOINE ET AUTRES CONTES DE MAUPASSANT - OCTOBRE 2023",
+  "questions": [
+    {
+      "question": "Dans le conte 'Toine', quel est le principal souci de la mère de Toine ?",
+      "options": [
+        "Elle veut qu'il se marie",
+        "Elle veut qu'il perde du poids",
+        "Elle veut qu'il arrête de boire",
+        "Elle veut qu'il trouve un emploi"
+      ],
+      "correct": 2,
+      "explanation": "Dans 'Toine', la mère est préoccupée par la tendance de son fils à boire trop d'alcool."
+    },
+    {
+      "question": "Quel rôle Toine joue-t-il dans son village natal ?",
+      "options": [
+        "Un homme d'affaires prospère",
+        "Le maire du village",
+        "Un aubergiste apprécié",
+        "Le prête du village"
+      ],
+      "correct": 2,
+      "explanation": "Toine est un aubergiste, et son auberge est un lieu très fréquenté par les habitants du village."
+    },
+    {
+      "question": "Dans le conte 'La Parure', pourquoi Mathilde Loisel emprunte-t-elle un collier ?",
+      "options": [
+        "Pour impressionner ses amis au théâtre",
+        "Pour une réception chez le ministre",
+        "Pour son mariage",
+        "Pour son anniversaire"
+      ],
+      "correct": 1,
+      "explanation": "Mathilde emprunte le collier pour une réception chez le ministre, car elle veut paraître plus riche qu'elle ne l'est en réalité."
+    },
+    {
+      "question": "Combien de temps faut-il aux Loisel pour rembourser la dette du collier dans 'La Parure' ?",
+      "options": [
+        "5 ans",
+        "10 ans",
+        "20 ans",
+        "15 ans"
+      ],
+      "correct": 3,
+      "explanation": "Il leur faut 10 ans pour rembourser la dette du faux collier."
+    },
+    {
+      "question": "Dans 'Le Horla', quelle est la principale peur du narrateur ?",
+      "options": [
+        "Une invasion étrangère",
+        "La pauvreté",
+        "Un être invisible qui le hante",
+        "La solitude"
+      ],
+      "correct": 2,
+      "explanation": "Le narrateur est terrifié par un être invisible, appelé le Horla, qui semble influencer son esprit et sa vie."
+    },
+    {
+      "question": "Comment le narrateur du 'Horla' tente-t-il de se débarrasser de la créature ?",
+      "options": [
+        "En consultant un psychologue",
+        "En s'enfuyant à la campagne",
+        "En se jetant à l'eau",
+        "En incendiant sa maison"
+      ],
+      "correct": 3,
+      "explanation": "Le narrateur met le feu à sa maison dans une tentative désespérée de tuer le Horla."
+    },
+    {
+      "question": "Dans 'Boucle d'Or', pourquoi les ours retournent-ils chez eux précipitamment ?",
+      "options": [
+        "Ils ont entendu un bruit suspect",
+        "Ils ont oublié quelque chose",
+        "Ils sont en retard pour une réunion",
+        "Ils détestent le parc"
+      ],
+      "correct": 0,
+      "explanation": "Les ours rentrent chez eux après avoir entendu un bruit suspect, indiquant l'intrusion de Boucle d'Or."
+    },
+    {
+      "question": "Dans quel contexte se déroule le conte 'La Main' ?",
+      "options": [
+        "Dans une grande ville",
+        "Dans un village reculé",
+        "Dans une campagne anglaise",
+        "Dans un désert"
+      ],
+      "correct": 2,
+      "explanation": "Le conte 'La Main' se déroule dans la campagne anglaise, créant une atmosphère mystérieuse."
+    },
+    {
+      "question": "Qu'est-ce qui rend le conte 'Deux amis' poignant ?",
+      "options": [
+        "Un amour non réciproque",
+        "Une trahison d'amitié",
+        "Un acte de courage durant la guerre",
+        "Une quête désespérée de richesse"
+      ],
+      "correct": 2,
+      "explanation": "'Deux amis' est poignant en raison du courage et de la loyauté des personnages dans le contexte tragique de la guerre."
+    },
+    {
+      "question": "Quel est le sujet central du conte 'Le Vieux' ?",
+      "options": [
+        "La sagesse de l'âge",
+        "La solitude dans la vieillesse",
+        "Les conflits familiaux",
+        "L'héritage des ancêtres"
+      ],
+      "correct": 1,
+      "explanation": "Le conte 'Le Vieux' traite de la solitude et des défis éprouvés par les personnes âgées dans la société."
+    }
+  ]
+}
+```
+
+En espérant que ces questions correspondent à vos attentes !
