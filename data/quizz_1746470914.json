@@ -1,6 +1,3 @@
-Je vais générer un quiz de 20 questions pour un niveau 4ème, axé sur le calcul littéral, avec des questions pertinentes relatives au théorème de Thalès. Voici le quiz au format JSON demandé :
-
-```json
 {
   "titre": "Quizz sur le Calcul Littéral - Niveau 4ème",
   "questions": [
@@ -226,4 +223,3 @@ Je vais générer un quiz de 20 questions pour un niveau 4ème, axé sur le calc
     }
   ]
 }
-```
