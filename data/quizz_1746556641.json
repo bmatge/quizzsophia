@@ -1,0 +1,225 @@
+{
+  "titre": "Anglais - Présent Perfect - Octobre 2023",
+  "questions": [
+    {
+      "question": "Quelle est la structure de base du présent perfect?",
+      "options": [
+        "sujet + has/have + participe passé",
+        "sujet + had + base verbale",
+        "sujet + was/were + participe passé",
+        "sujet + will + base verbale"
+      ],
+      "correct": 0,
+      "explanation": "La structure de base du présent perfect est 'sujet + has/have + participe passé'."
+    },
+    {
+      "question": "Quel verbe doit-on utiliser avec 'I' au présent perfect?",
+      "options": [
+        "has",
+        "have",
+        "had",
+        "having"
+      ],
+      "correct": 1,
+      "explanation": "Avec 'I' au présent perfect, on utilise toujours 'have'."
+    },
+    {
+      "question": "Complétez la phrase: She ____ finished her homework.",
+      "options": [
+        "has",
+        "have",
+        "will",
+        "is"
+      ],
+      "correct": 0,
+      "explanation": "Avec 'She', on utilise 'has' pour former le présent perfect."
+    },
+    {
+      "question": "How long ____ you lived here?",
+      "options": [
+        "have",
+        "has",
+        "was",
+        "did"
+      ],
+      "correct": 0,
+      "explanation": "La question commence par 'How long' et est au présent perfect, donc on utilise 'have'."
+    },
+    {
+      "question": "Pourquoi utilise-t-on le présent perfect?",
+      "options": [
+        "Pour parler d'une action achevée qui a une pertinence actuelle.",
+        "Pour décrire une action habituelle dans le passé.",
+        "Pour raconter des événements historiques.",
+        "Pour parler de quelque chose qui se passera dans le futur."
+      ],
+      "correct": 0,
+      "explanation": "Le présent perfect est utilisé pour des actions passées ayant une connexion avec le présent."
+    },
+    {
+      "question": "Quelle phrase est au présent perfect?",
+      "options": [
+        "He has gone to the store.",
+        "He goes to the store every day.",
+        "He went to the store yesterday.",
+        "He will go to the store tomorrow."
+      ],
+      "correct": 0,
+      "explanation": "'He has gone to the store' est au présent perfect."
+    },
+    {
+      "question": "'Have you ___ the game?' Quelle forme est correcte?",
+      "options": [
+        "won",
+        "wins",
+        "winned",
+        "winning"
+      ],
+      "correct": 0,
+      "explanation": "'Won' est le participe passé correct du verbe 'win'."
+    },
+    {
+      "question": "Which of these verbs is irregular in the past participle form?",
+      "options": [
+        "go - gone",
+        "play - played",
+        "walk - walked",
+        "ask - asked"
+      ],
+      "correct": 0,
+      "explanation": "'Go' est un verbe irrégulier dont le participe passé est 'gone'."
+    },
+    {
+      "question": "Complétez: They ____ never seen such a beautiful place.",
+      "options": [
+        "has",
+        "have",
+        "had",
+        "are"
+      ],
+      "correct": 1,
+      "explanation": "Avec 'They', on utilise 'have' pour former le présent perfect."
+    },
+    {
+      "question": "Is the following sentence correct? 'She have eaten already.'",
+      "options": [
+        "No, it should be 'She has eaten already.'",
+        "Yes, it is correct.",
+        "No, it should be 'She will eat already.'",
+        "No, it should be 'She had eaten already.'"
+      ],
+      "correct": 0,
+      "explanation": "Avec 'She', on utilise 'has', donc c'est 'She has eaten already.'"
+    },
+    {
+      "question": "Quelle phrase est incorrecte?",
+      "options": [
+        "We have been there before.",
+        "He have gone to school.",
+        "They have finished.",
+        "I have seen that movie."
+      ],
+      "correct": 1,
+      "explanation": "'He have gone to school' est incorrect car on doit utiliser 'has' avec 'He'."
+    },
+    {
+      "question": "Complete the question: ___ they finished their work yet?",
+      "options": [
+        "Have",
+        "Has",
+        "Do",
+        "Are"
+      ],
+      "correct": 0,
+      "explanation": "Avec 'they', on utilise 'have' dans une question au présent perfect."
+    },
+    {
+      "question": "Choisissez le participe passé de 'see'.",
+      "options": [
+        "seen",
+        "saw",
+        "seened",
+        "seeing"
+      ],
+      "correct": 0,
+      "explanation": "Le participe passé de 'see' est 'seen'."
+    },
+    {
+      "question": "They ____ (not finish) their meal yet.",
+      "options": [
+        "haven't finished",
+        "hasn't finished",
+        "didn't finish",
+        "don't finish"
+      ],
+      "correct": 0,
+      "explanation": "La forme correcte est 'haven't finished' pour le présent perfect négatif."
+    },
+    {
+      "question": "Quel est le participe passé du verbe 'write'?",
+      "options": [
+        "written",
+        "writed",
+        "wrote",
+        "writing"
+      ],
+      "correct": 0,
+      "explanation": "Le participe passé du verbe 'write' est 'written'."
+    },
+    {
+      "question": "Why is the present perfect used here: 'I have lived here for five years'?",
+      "options": [
+        "It indicates an action that started in the past and continues now.",
+        "It describes a past action with no current relevance.",
+        "It is used for future predictions.",
+        "It's a hypothetical situation."
+      ],
+      "correct": 0,
+      "explanation": "Le présent perfect est utilisé pour une action débutée dans le passé et continuant dans le présent."
+    },
+    {
+      "question": "Quelle phrase utilise correctement un verbe irrégulier au présent perfect?",
+      "options": [
+        "She has took the book.",
+        "She has taked the book.",
+        "She has taken the book.",
+        "She has taking the book."
+      ],
+      "correct": 2,
+      "explanation": "Le participe passé irrégulier de 'take' est 'taken', donc c'est 'She has taken the book'."
+    },
+    {
+      "question": "Laquelle de ces phrases est au présent perfect?",
+      "options": [
+        "I have just eaten breakfast.",
+        "I eat breakfast every day.",
+        "I ate breakfast yesterday.",
+        "I will eat breakfast tomorrow."
+      ],
+      "correct": 0,
+      "explanation": "'I have just eaten breakfast' est au présent perfect."
+    },
+    {
+      "question": "Complete this sentence: We ___ never heard that song before.",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "will"
+      ],
+      "correct": 0,
+      "explanation": "Avec 'we', on utilise 'have' dans le présent perfect."
+    },
+    {
+      "question": "You ____ (be) to Paris three times.",
+      "options": [
+        "have been",
+        "has been",
+        "are",
+        "is"
+      ],
+      "correct": 0,
+      "explanation": "Avec 'you', on utilise 'have been' pour former le présent perfect."
+    }
+  ]
+}
