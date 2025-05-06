@@ -1,0 +1,227 @@
+```json
+{
+  "titre": "Histoire 4ème - Révolution française",
+  "questions": [
+    {
+      "question": "Quelle est la date de la rédaction des cahiers de doléances ?",
+      "options": [
+        "Février à mai 1789",
+        "Juillet à août 1789",
+        "Juin à juillet 1791",
+        "Mars à avril 1790"
+      ],
+      "correct": 0,
+      "explanation": "Les cahiers de doléances ont été rédigés entre février et mai 1789 pour préparer la réunion des États généraux."
+    },
+    {
+      "question": "Quel événement marque la naissance de l'Assemblée nationale constituante ?",
+      "options": [
+        "Ouverture des États généraux à Versailles",
+        "Serment du Jeu de Paume",
+        "Prise de la Bastille",
+        "Première constitution adoptée"
+      ],
+      "correct": 1,
+      "explanation": "Le Serment du Jeu de Paume du 20 juin 1789 marque la naissance de l'Assemblée nationale constituante."
+    },
+    {
+      "question": "Quel symbole révolutionnaire était un signe de liberté porté par les esclaves affranchis de l'Antiquité ?",
+      "options": [
+        "La cocarde tricolore",
+        "Marianne",
+        "Le bonnet phrygien",
+        "La guillotine"
+      ],
+      "correct": 2,
+      "explanation": "Le bonnet phrygien, coiffure rouge, est devenu un symbole de liberté durant la Révolution française."
+    },
+    {
+      "question": "Quel principal changement la première constitution de 1791 apporte-t-elle ?",
+      "options": [
+        "Le roi devient gouverneur",
+        "Le roi est désormais élu",
+        "La monarchie devient constitutionnelle",
+        "La République est proclamée"
+      ],
+      "correct": 2,
+      "explanation": "La première constitution adoptée en 1791 transforme la monarchie en une monarchie constitutionnelle."
+    },
+    {
+      "question": "Qui est l'auteur de la célèbre esquisse représentant le Serment du Jeu de Paume ?",
+      "options": [
+        "Jacques-Louis David",
+        "Eugène Delacroix",
+        "Jean-Auguste-Dominique Ingres",
+        "Théodore Géricault"
+      ],
+      "correct": 0,
+      "explanation": "L'esquisse du Serment du Jeu de Paume a été réalisée par Jacques-Louis David."
+    },
+    {
+      "question": "Quelle est la date de l'abolition de la monarchie en France ?",
+      "options": [
+        "1789",
+        "1791",
+        "1792",
+        "1795"
+      ],
+      "correct": 2,
+      "explanation": "La monarchie est abolie en 1792, marquant le début de la première République."
+    },
+    {
+      "question": "Quel symbole révolutionnaire représente la fin des privilèges ?",
+      "options": [
+        "Brisure des chaînes",
+        "L’œil de la Providence",
+        "L’Assemblée nationale",
+        "Le serpent qui se mord la queue"
+      ],
+      "correct": 0,
+      "explanation": "La brisure des chaînes symbolise la fin de l'oppression et des privilèges de l'Ancien Régime."
+    },
+    {
+      "question": "Quel symbole est souvent associé aux idées des Lumières ?",
+      "options": [
+        "Marianne",
+        "L’œil de la Providence",
+        "La cocarde tricolore",
+        "Le bonnet phrygien"
+      ],
+      "correct": 1,
+      "explanation": "L’œil de la Providence est un symbole des Lumières et des idées de justice."
+    },
+    {
+      "question": "Qu'est-ce qui déclenche la colère des révolutionnaires en 1791 ?",
+      "options": [
+        "La fuite du roi Louis XVI",
+        "L'ouverture des États généraux",
+        "La prise de la Bastille",
+        "La rédaction de la Constitution"
+      ],
+      "correct": 0,
+      "explanation": "La tentative de fuite de Louis XVI en 1791 provoque la colère des révolutionnaires."
+    },
+    {
+      "question": "Quel symbole exprime une société en crise lors de la Révolution française ?",
+      "options": [
+        "La guillotine",
+        "Le serpent qui se mord la queue",
+        "La cocarde tricolore",
+        "Marianne"
+      ],
+      "correct": 1,
+      "explanation": "Le serpent qui se mord la queue est une image utilisée pour représenter une société en crise."
+    },
+    {
+      "question": "Quel est le rôle du roi dans la monarchie constitutionnelle instaurée en 1791 ?",
+      "options": [
+        "Il règne sans gouverner",
+        "Il conserve le pouvoir exécutif",
+        "Il légifère avec l'Assemblée",
+        "Il est nommé par le peuple"
+      ],
+      "correct": 1,
+      "explanation": "Dans la monarchie constitutionnelle, le roi conserve le pouvoir exécutif mais partage le législatif avec l'Assemblée."
+    },
+    {
+      "question": "Quel événement est connu pour être le point de départ des guerres révolutionnaires ?",
+      "options": [
+        "La prise de la Bastille",
+        "L'abolition de la monarchie",
+        "La proclamation de la République",
+        "La fuite de Louis XVI"
+      ],
+      "correct": 2,
+      "explanation": "La proclamation de la République en 1792 marque le début des guerres révolutionnaires."
+    },
+    {
+      "question": "Quel symbole révolutionnaire est porté par un personnage allégorique de la République française ?",
+      "options": [
+        "La guillotine",
+        "La cocarde tricolore",
+        "Marianne",
+        "Le serpent qui se mord la queue"
+      ],
+      "correct": 2,
+      "explanation": "Marianne est la figure allégorique de la République française souvent représentée avec un bonnet phrygien."
+    },
+    {
+      "question": "Pourquoi les monarchies européennes s'inquiètent-elles de la Révolution française?",
+      "options": [
+        "Elles craignent la propagation des révoltes",
+        "Elles soutiennent les idées révolutionnaires",
+        "Elles veulent adopter la même constitution",
+        "Elles souhaitent intervenir militairement"
+      ],
+      "correct": 0,
+      "explanation": "Les monarchies européennes craignent que leurs propres peuples ne soient inspirés à renverser leurs systèmes."
+    },
+    {
+      "question": "Quel événement montre la détermination des députés du tiers état à réformer le système politique français ?",
+      "options": [
+        "Le Serment du Jeu de Paume",
+        "La prise des Tuileries",
+        "Les journées d'octobre",
+        "Le comité de Salut public"
+      ],
+      "correct": 0,
+      "explanation": "Le Serment du Jeu de Paume souligne la détermination des députés à ne pas se séparer avant d'avoir rédigé une constitution."
+    },
+    {
+      "question": "Quel symbole représente la République française et les idéaux révolutionnaires ?",
+      "options": [
+        "La Marianne",
+        "Le bonnet phrygien",
+        "La guillotine",
+        "La cocarde tricolore"
+      ],
+      "correct": 0,
+      "explanation": "La Marianne personnifie la République française et ses idéaux de liberté, d'égalité, et de fraternité."
+    },
+    {
+      "question": "Quel événement symbolise le début de la Révolution française ?",
+      "options": [
+        "La prise de la Bastille",
+        "La publication des cahiers de doléances",
+        "L'ouverture des États généraux",
+        "Le Serment du Jeu de Paume"
+      ],
+      "correct": 0,
+      "explanation": "La prise de la Bastille, le 14 juillet 1789, est souvent considérée comme le début de la Révolution française."
+    },
+    {
+      "question": "Quel était l'objectif des cahiers de doléances ?",
+      "options": [
+        "Proclamer la République",
+        "Exprimer les plaintes et besoins du peuple",
+        "Renverser la monarchie",
+        "Organiser des élections"
+      ],
+      "correct": 1,
+      "explanation": "Les cahiers de doléances permettaient aux Français d'exprimer leurs plaintes et souhaits pour préparer les États généraux."
+    },
+    {
+      "question": "Quelle était la principale demande des députés du tiers état aux États généraux ?",
+      "options": [
+        "La suppression de l'Assemblée nationale",
+        "Une représentation équitable et des réformes",
+        "Le maintien des privilèges",
+        "La monarchie absolue"
+      ],
+      "correct": 1,
+      "explanation": "Les députés du tiers état voulaient une représentation équitable et des réformes pour l'ensemble de la société française."
+    },
+    {
+      "question": "Quel événement marque la fin officielle de l'Ancien Régime en France ?",
+      "options": [
+        "L'adoption de la Déclaration des droits de l'homme",
+        "La publication des cahiers de doléances",
+        "La prise de la Bastille",
+        "La proclamation de la République"
+      ],
+      "correct": 3,
+      "explanation": "La proclamation de la République en 1792 signe la fin officielle de l'Ancien Régime en France."
+    }
+  ]
+}
+```
