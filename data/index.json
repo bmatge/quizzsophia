@@ -1,46 +1,30 @@
 [
   {
-    "titre": "Toine & Autres - 4 Mai 2025",
-    "fichier": "evaluation_maupassant.json"
-  },
-  {
-    "titre": "Thalès - 4 Mai 2025",
-    "fichier": "evaluation_thales.json"
-  },
-  {
     "titre": "Anglais - 4 Mai 2025",
     "fichier": "evaluation_anglais.json"
   },
   {
-    "titre": "Calcul littéral - 4 Mai 2025",
-    "fichier": "calcul_litteral.json"
+    "titre": "Calcul littéral et Thalès – Niveau 4e",
+    "fichier": "evaluation_calcul_litteral.json"
   },
   {
-    "titre": "Règle de trois - 4 mai 2025",
-    "fichier": "regle_de_trois.json"
+    "titre": "Toine - 4 mai - v2",
+    "fichier": "evaluation_maupassant.json"
   },
   {
-    "titre": "Calcul littéral et Thalès - 5 mai 2025",
-    "fichier": "quizz_1746470914.json"
-  },
-  {
-    "titre": "Réciproques et Thalès - 5 mai 2025",
+    "titre": "Les réciproques – Niveau 4e (avancé)",
     "fichier": "evaluation_reciproque.json"
+  },
+  {
+    "titre": "Utilisation de la règle de trois – Niveau 4e",
+    "fichier": "evaluation_regle_de_trois.json"
+  },
+  {
+    "titre": "Théorème de Thalès - 4 mai - v2",
+    "fichier": "evaluation_thales.json"
   },
   {
     "titre": "Théorème de Thalès et Proportionnalité - 2023",
     "fichier": "quizz_1746474446.json"
-  },
-  {
-    "titre": "Théorème de Thalès et sa réciproque - DATE",
-    "fichier": "quizz_1746475477.json"
-  },
-  {
-    "titre": "Alerte de Sécurité - Octobre 2023",
-    "fichier": "quizz_1746484439.json"
-  },
-  {
-    "titre": "Anglais - Présent Perfect - Octobre 2023",
-    "fichier": "quizz_1746556641.json"
   }
 ]
