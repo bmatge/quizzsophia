@@ -1,0 +1,225 @@
+{
+  "titre": "Première Guerre mondiale - Quiz CM2",
+  "questions": [
+    {
+      "question": "Quelle est la date de début de la Première Guerre mondiale ?",
+      "options": [
+        "28 juin 1914",
+        "3 août 1914",
+        "11 novembre 1918",
+        "28 juillet 1914"
+      ],
+      "correct": 3,
+      "explanation": "La Première Guerre mondiale a commencé le 28 juillet 1914 après l'assassinat de l'archiduc François-Ferdinand."
+    },
+    {
+      "question": "Quelles étaient les deux alliances principales pendant la Première Guerre mondiale ?",
+      "options": [
+        "L'Entente et le Pacte de Varsovie",
+        "L'Axe et les Alliés",
+        "La Triple Entente et la Triple Alliance",
+        "L'OTAN et le Pacte de Varsovie"
+      ],
+      "correct": 2,
+      "explanation": "Les deux principales alliances étaient la Triple Entente (France, Russie, Royaume-Uni) et la Triple Alliance (Allemagne, Autriche-Hongrie, Italie)."
+    },
+    {
+      "question": "Quelle bataille est connue pour s'être déroulée en 1916 et a été une des plus sanglantes ?",
+      "options": [
+        "Bataille de la Somme",
+        "Bataille de la Marne",
+        "Bataille de Verdun",
+        "Bataille des Ardennes"
+      ],
+      "correct": 2,
+      "explanation": "La bataille de Verdun a eu lieu en 1916 et est connue pour être l'une des plus longues et des plus sanglantes batailles de la Première Guerre mondiale."
+    },
+    {
+      "question": "Quel terme désigne le fait de vivre et de se battre dans des tranchées ?",
+      "options": [
+        "Guerre éclair",
+        "Guerre de mouvement",
+        "Guerre de tranchées",
+        "Guerre froide"
+      ],
+      "correct": 2,
+      "explanation": "La guerre de tranchées était typique de la Première Guerre mondiale, avec les soldats vivant et combattant dans les tranchées."
+    },
+    {
+      "question": "Qui étaient les 'Poilus' durant la Première Guerre mondiale ?",
+      "options": [
+        "Les soldats américains",
+        "Les soldats allemands",
+        "Les soldats français",
+        "Les soldats britanniques"
+      ],
+      "correct": 2,
+      "explanation": "Les 'Poilus' était le surnom donné aux soldats français durant la Première Guerre mondiale."
+    },
+    {
+      "question": "Quel événement a déclenché la Première Guerre mondiale ?",
+      "options": [
+        "L'assassinat de l'archiduc François-Ferdinand",
+        "Le traité de Versailles",
+        "La bataille de la Marne",
+        "Le débarquement de Normandie"
+      ],
+      "correct": 0,
+      "explanation": "L'assassinat de l'archiduc François-Ferdinand d'Autriche à Sarajevo en 1914 a déclenché la Première Guerre mondiale."
+    },
+    {
+      "question": "Quel pays n'était pas membre de la Triple Entente ?",
+      "options": [
+        "Royaume-Uni",
+        "Allemagne",
+        "France",
+        "Russie"
+      ],
+      "correct": 1,
+      "explanation": "L'Allemagne faisait partie de la Triple Alliance, non de la Triple Entente."
+    },
+    {
+      "question": "En quelle année les États-Unis sont-ils entrés en guerre ?",
+      "options": [
+        "1914",
+        "1915",
+        "1917",
+        "1918"
+      ],
+      "correct": 2,
+      "explanation": "Les États-Unis sont entrés dans la Première Guerre mondiale en 1917."
+    },
+    {
+      "question": "Comment se termine la Première Guerre mondiale ?",
+      "options": [
+        "Avec l'armistice du 11 novembre 1918",
+        "Avec la signature du traité de Tordesillas",
+        "Avec la bataille de la Somme",
+        "Avec l'assassinat de Hitler"
+      ],
+      "correct": 0,
+      "explanation": "La Première Guerre mondiale s'est terminée avec l'armistice signé le 11 novembre 1918."
+    },
+    {
+      "question": "Quel traité a mis officiellement fin à la Première Guerre mondiale ?",
+      "options": [
+        "Traité de Paris",
+        "Traité de Trianon",
+        "Traité de Versailles",
+        "Traité de Brest-Litovsk"
+      ],
+      "correct": 2,
+      "explanation": "Le Traité de Versailles, signé en 1919, a officiellement mis fin à la Première Guerre mondiale."
+    },
+    {
+      "question": "Quel était le surnom du général français Philippe Pétain ?",
+      "options": [
+        "Le Lion des Ardennes",
+        "Le Tigre",
+        "Le Vainqueur de Verdun",
+        "L'Aigle de Meaux"
+      ],
+      "correct": 2,
+      "explanation": "Philippe Pétain était surnommé le 'Vainqueur de Verdun' pour son rôle pendant cette bataille en 1916."
+    },
+    {
+      "question": "Quelle stratégie militaire consistait à essayer de percer les lignes ennemies par une force massive et rapide ?",
+      "options": [
+        "Guerre de position",
+        "Guerre d'usure",
+        "Guerre éclair",
+        "Guerre de tranchées"
+      ],
+      "correct": 2,
+      "explanation": "La 'guerre éclair', ou Blitzkrieg, était une stratégie militaire visant à percer rapidement les lignes ennemies."
+    },
+    {
+      "question": "Quelle était la vie principale des soldats dans les tranchées ?",
+      "options": [
+        "Luxueuse",
+        "Confortable",
+        "Rugueuse et dangereuse",
+        "Calme et paisible"
+      ],
+      "correct": 2,
+      "explanation": "La vie dans les tranchées était très difficile, avec des conditions dures, manque d'hygiène et dangers constants."
+    },
+    {
+      "question": "Quelle était la cause principale des révoltes dans les troupes françaises en 1917 ?",
+      "options": [
+        "Manque de munitions",
+        "Fatigue et conditions de vie",
+        "Manque de leadership",
+        "Problèmes de communication"
+      ],
+      "correct": 1,
+      "explanation": "Les mutineries de 1917 ont principalement été causées par la fatigue des soldats et les conditions de vie déplorables."
+    },
+    {
+      "question": "Comment appelait-on la zone de combat principale située entre les tranchées opposées ?",
+      "options": [
+        "La terre de personne",
+        "Le front",
+        "La tranchée avancée",
+        "Le refuge"
+      ],
+      "correct": 0,
+      "explanation": "La 'terre de personne' était la zone entre les tranchées ennemies, souvent dangereusement exposée."
+    },
+    {
+      "question": "Quel est le principal jour de commémoration de la Première Guerre mondiale en France ?",
+      "options": [
+        "8 mai",
+        "14 juillet",
+        "11 novembre",
+        "25 décembre"
+      ],
+      "correct": 2,
+      "explanation": "Le 11 novembre est célébré en France en mémoire de l'armistice signant la fin de la Première Guerre mondiale en 1918."
+    },
+    {
+      "question": "Quel rôle ont joué les femmes pendant la Première Guerre mondiale ?",
+      "options": [
+        "Elles se sont battues sur le front",
+        "Elles ont remplacé les hommes dans les usines",
+        "Elles étaient pilotes d'avion",
+        "Elles n'étaient pas impliquées"
+      ],
+      "correct": 1,
+      "explanation": "Les femmes ont pris en charge de nombreux emplois dans les usines pour remplacer les hommes partis en guerre."
+    },
+    {
+      "question": "Qui a rédigé le Traité de Versailles ?",
+      "options": [
+        "Principalement les Alliés",
+        "Les puissances centrales",
+        "Les pays neutres",
+        "La Société des Nations"
+      ],
+      "correct": 0,
+      "explanation": "Le Traité de Versailles a été principalement rédigé par les Alliés victorieux de la Première Guerre mondiale."
+    },
+    {
+      "question": "Quel était le nom du plan allemand initial pour envahir la France ?",
+      "options": [
+        "Plan Schlieffen",
+        "Plan Barbarossa",
+        "Opération Overlord",
+        "Plan Eagle"
+      ],
+      "correct": 0,
+      "explanation": "Le plan Schlieffen était le plan stratégique allemand pour une attaque rapide contre la France."
+    },
+    {
+      "question": "Quel événement a eu lieu le 11 novembre 1918 ?",
+      "options": [
+        "La bataille de Verdun",
+        "L'armistice de la Première Guerre mondiale",
+        "Le début de la Seconde Guerre mondiale",
+        "La signature de la Triple Alliance"
+      ],
+      "correct": 1,
+      "explanation": "Le 11 novembre 1918 marque l'armistice qui a mis fin aux combats de la Première Guerre mondiale."
+    }
+  ]
+}
