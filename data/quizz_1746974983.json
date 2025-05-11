@@ -1,0 +1,225 @@
+{
+  "titre": "Quiz de Probabilités - Niveau 4ème",
+  "questions": [
+    {
+      "question": "Qu'est-ce qu'une expérience aléatoire ?",
+      "options": [
+        "Une expérience dont le résultat est prévisible",
+        "Une expérience sans aucun résultat",
+        "Une expérience dont le résultat est dû uniquement au hasard",
+        "Une expérience avec un seul résultat"
+      ],
+      "correct": 2,
+      "explanation": "Une expérience aléatoire est une expérience dont le résultat est dû uniquement au hasard."
+    },
+    {
+      "question": "Dans un lancer de dé classique, combien d'issues y a-t-il ?",
+      "options": [
+        "6",
+        "3",
+        "2",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "Un dé a 6 faces donc il y a 6 issues possibles."
+    },
+    {
+      "question": "Qu'est-ce qu'une issue ?",
+      "options": [
+        "C'est un résultat probable",
+        "C'est une étape d'une expérience",
+        "C'est un résultat possible",
+        "C'est le calcul de probabilité"
+      ],
+      "correct": 2,
+      "explanation": "Une issue est un résultat possible d'une expérience aléatoire."
+    },
+    {
+      "question": "Que signifie l'événement A = « Obtenir un nombre pair » dans un lancer de dé ?",
+      "options": [
+        "Obtenir le nombre 1",
+        "Obtenir les nombres 2 ou 4",
+        "Obtenir les nombres 2, 4 ou 6",
+        "Ne rien obtenir"
+      ],
+      "correct": 2,
+      "explanation": "Dans un lancer de dé, obtenir un nombre pair signifie obtenir 2, 4 ou 6."
+    },
+    {
+      "question": "Quelle est la probabilité de l'événement A si P(A) = 2/5 ?",
+      "options": [
+        "0.2",
+        "0.4",
+        "0.6",
+        "0.8"
+      ],
+      "correct": 1,
+      "explanation": "La probabilité 2/5 correspond à 0.4."
+    },
+    {
+      "question": "Qu'est-ce qu'un événement ?",
+      "options": [
+        "Un résultat spécifique",
+        "Une liste de résultats possibles",
+        "Un ou plusieurs résultats",
+        "Une étape d'une expérience"
+      ],
+      "correct": 2,
+      "explanation": "Un événement est un ou plusieurs résultats possibles d'une expérience."
+    },
+    {
+      "question": "Quelle est la probabilité d'obtenir un nombre pair sur un tracé équilibré de 5 secteurs numérotés de 1 à 5 ?",
+      "options": [
+        "1/5",
+        "2/5",
+        "3/5",
+        "4/5"
+      ],
+      "correct": 1,
+      "explanation": "L'événement pair se réalise dans 2 cas sur les 5 : obtenir 2 ou 4, donc P(pair) = 2/5."
+    },
+    {
+      "question": "Comment sont appelées des issues dans lesquelles la probabilité est identique ?",
+      "options": [
+        "Incertes",
+        "Équiprobables",
+        "Inimaginables",
+        "Improbables"
+      ],
+      "correct": 1,
+      "explanation": "Des issues sont dites équiprobables quand toutes ont la même probabilité."
+    },
+    {
+      "question": "Quelle est la somme des probabilités de toutes les issues d'une expérience aléatoire ?",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "2"
+      ],
+      "correct": 1,
+      "explanation": "La somme des probabilités de toutes les issues possibles est toujours égale à 1."
+    },
+    {
+      "question": "Si une expérience a 5 issues équiprobables, quelle est la probabilité de chaque issue ?",
+      "options": [
+        "1/5",
+        "1/4",
+        "1/3",
+        "1/6"
+      ],
+      "correct": 0,
+      "explanation": "Si les issues sont équiprobables et qu'elles sont 5, la probabilité pour chaque issue est 1/5."
+    },
+    {
+      "question": "Dans une expérience avec 4 issues équiprobables, quelle est la probabilité que l'événement B se produise dans 1 des cas ?",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "1"
+      ],
+      "correct": 0,
+      "explanation": "Chaque issue a une probabilité de 1/4, donc cela s'applique à B."
+    },
+    {
+      "question": "Quelle est la probabilité totale de tous les événements possibles dans une expérience ?",
+      "options": [
+        "1",
+        "0",
+        "Variable",
+        "Illimitée"
+      ],
+      "correct": 0,
+      "explanation": "La probabilité totale de tous les événements possibles dans une expérience est égale à 1."
+    },
+    {
+      "question": "Si une roulette à 5 secteurs équilibrés a les secteurs 1, 2, 3, 4, 5, quelle est la probabilité de ne pas obtenir 3 ?",
+      "options": [
+        "1/5",
+        "2/5",
+        "3/5",
+        "4/5"
+      ],
+      "correct": 3,
+      "explanation": "La probabilité de ne pas obtenir 3 est la somme des probabilités des autres issues : 4/5."
+    },
+    {
+      "question": "Qu'appelle-t-on la somme des probabilités des issues favorables à un événement ?",
+      "options": [
+        "La probabilité de l'événement",
+        "La certitude de l'événement",
+        "L'impossibilité de l'événement",
+        "L'incertitude de l'événement"
+      ],
+      "correct": 0,
+      "explanation": "La somme des probabilités des issues favorables constitue la probabilité de l'événement."
+    },
+    {
+      "question": "Si on lance un dé, quelle est la probabilité d'obtenir un nombre supérieur à 6 ?",
+      "options": [
+        "0",
+        "1/6",
+        "1",
+        "Impossible à déterminer"
+      ],
+      "correct": 0,
+      "explanation": "Aucun nombre supérieur à 6 ne peut être obtenu sur un dé classique donc la probabilité est 0."
+    },
+    {
+      "question": "Dans une expérience avec 10 résultats équiprobables, quelle est la probabilité de chaque résultat ?",
+      "options": [
+        "1/10",
+        "1/5",
+        "1/2",
+        "10"
+      ],
+      "correct": 0,
+      "explanation": "Dans une expérience à 10 résultats équiprobables, la probabilité pour chaque résultat est 1/10."
+    },
+    {
+      "question": "Quelle affirmation est vraie à propos de la somme des probabilités des issues d'une expérience aléatoire ?",
+      "options": [
+        "Elle est supérieure à 1",
+        "Elle est égale à zéro",
+        "Elle est toujours égale à 1",
+        "Elle varie en fonction du nombre d'issues"
+      ],
+      "correct": 2,
+      "explanation": "La somme des probabilités des issues d'une expérience aléatoire est toujours égale à 1."
+    },
+    {
+      "question": "Dans une expérience aléatoire, qu'appelle-t-on un événement certain ?",
+      "options": [
+        "Un événement qui ne peut pas se produire",
+        "Un événement qui se produit avec une probabilité de 0",
+        "Un événement qui se produit avec une probabilité de 1",
+        "Un événement dont la probabilité est inconnue"
+      ],
+      "correct": 2,
+      "explanation": "Un événement certain est celui dont la probabilité est 1."
+    },
+    {
+      "question": "Si on a 7 couronnes indistinguables dans une boîte et qu'on en tire une au hasard, quelle est la probabilité de tirer une couronne particulière ?",
+      "options": [
+        "1/7",
+        "1/6",
+        "1",
+        "0"
+      ],
+      "correct": 0,
+      "explanation": "La probabilité de tirer une couronne particulière parmi 7 est 1/7."
+    },
+    {
+      "question": "Quelle est la probabilité d'un événement impossible ?",
+      "options": [
+        "1",
+        "1/2",
+        "0",
+        "Variable"
+      ],
+      "correct": 2,
+      "explanation": "La probabilité d'un événement impossible est 0."
+    }
+  ]
+}
