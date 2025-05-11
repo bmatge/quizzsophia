@@ -1,0 +1,225 @@
+{
+  "titre": "Quiz sur la Première Guerre mondiale - CM2",
+  "questions": [
+    {
+      "question": "Qu'est-ce qui a déclenché la Première Guerre mondiale ?",
+      "options": [
+        "L'assassinat de l'archiduc François-Ferdinand",
+        "La déclaration de guerre de la Russie à l'Allemagne",
+        "L'attaque allemande sur la Belgique",
+        "Le bombardement britannique sur l'Allemagne"
+      ],
+      "correct": 0,
+      "explanation": "L'attentat contre l'archiduc François-Ferdinand a servi de déclencheur pour les hostilités."
+    },
+    {
+      "question": "Quels pays composent la Triple Entente ?",
+      "options": [
+        "Allemagne, Autriche-Hongrie, Italie",
+        "France, Royaume-Uni, Russie",
+        "États-Unis, Canada, Australie",
+        "Italie, Russie, États-Unis"
+      ],
+      "correct": 1,
+      "explanation": "La Triple Entente était formée par la France, le Royaume-Uni et la Russie."
+    },
+    {
+      "question": "Quel événement a eu lieu le 4 août 1914 ?",
+      "options": [
+        "L'assassinat de François-Ferdinand",
+        "L'Italie rejoint la Triple Alliance",
+        "Le Royaume-Uni entre en guerre",
+        "L'armistice signé par l'Allemagne"
+      ],
+      "correct": 2,
+      "explanation": "Le 4 août 1914, le Royaume-Uni entre en guerre contre l'Allemagne."
+    },
+    {
+      "question": "Quelle bataille célèbre a eu lieu en 1916 ?",
+      "options": [
+        "La bataille de Marne",
+        "La bataille de Waterloo",
+        "La bataille de Verdun",
+        "La bataille de Hastings"
+      ],
+      "correct": 2,
+      "explanation": "La bataille de Verdun est l'une des batailles les plus célèbres de 1916."
+    },
+    {
+      "question": "Comment qualifie-t-on la vie des soldats dans les tranchées ?",
+      "options": [
+        "Facile et confortable",
+        "Dangereuse et difficile",
+        "Paix et sécurité",
+        "Prospérité et bonheur"
+      ],
+      "correct": 1,
+      "explanation": "La vie dans les tranchées était très difficile à cause des conditions brutales."
+    },
+    {
+      "question": "Quand l'armistice est-il signé ?",
+      "options": [
+        "28 juin 1914",
+        "3 août 1914",
+        "11 novembre 1918",
+        "28 juin 1919"
+      ],
+      "correct": 2,
+      "explanation": "L'armistice est signé le 11 novembre 1918, marquant la fin des combats."
+    },
+    {
+      "question": "Quelle est l'une des conséquences de la guerre ?",
+      "options": [
+        "La paix mondiale immédiate",
+        "Un bilan humain lourd",
+        "L'augmentation de la population",
+        "L'absence de désordre économique"
+      ],
+      "correct": 1,
+      "explanation": "La guerre a causé un nombre élevé de morts et de blessés."
+    },
+    {
+      "question": "Quel traité impose des sanctions à l'Allemagne après la guerre ?",
+      "options": [
+        "Le Traité de Paris",
+        "Le Traité de Londres",
+        "Le Traité de Versailles",
+        "Le Traité de Brest-Litovsk"
+      ],
+      "correct": 2,
+      "explanation": "Le Traité de Versailles impose des sanctions sévères à l'Allemagne."
+    },
+    {
+      "question": "Pourquoi peut-on dire que la guerre était totale ?",
+      "options": [
+        "Elle n'a impliqué que des soldats",
+        "Aucun civil n'a été touché",
+        "Toute la population et l'économie ont été mobilisées",
+        "Seules les batailles navales étaient importantes"
+      ],
+      "correct": 2,
+      "explanation": "Toute la population, y compris les femmes et les enfants, a été mobilisée pour l'effort de guerre."
+    },
+    {
+      "question": "Quel pays n'a PAS fait partie de la Triple Alliance ?",
+      "options": [
+        "Autriche-Hongrie",
+        "Italie",
+        "Royaume-Uni",
+        "Allemagne"
+      ],
+      "correct": 2,
+      "explanation": "Le Royaume-Uni était membre de la Triple Entente, pas de la Triple Alliance."
+    },
+    {
+      "question": "Quel est le rôle des colonies durant la guerre ?",
+      "options": [
+        "Aucun rôle",
+        "Fournir des soldats",
+        "Opposition organisée aux métropoles",
+        "Fermer leurs frontières"
+      ],
+      "correct": 1,
+      "explanation": "Les colonies ont fourni plus de 600 000 soldats pour l'effort de guerre."
+    },
+    {
+      "question": "Quelle est une des batailles qui n'appartient pas à la Première Guerre mondiale ?",
+      "options": [
+        "La bataille de Marne",
+        "La bataille de Somme",
+        "La bataille de Normandie",
+        "La bataille de Verdun"
+      ],
+      "correct": 2,
+      "explanation": "La bataille de Normandie a eu lieu pendant la Seconde Guerre mondiale."
+    },
+    {
+      "question": "Quel pays rejoint la Triple Alliance en cours de guerre ?",
+      "options": [
+        "États-Unis",
+        "Empire ottoman",
+        "Japon",
+        "Brésil"
+      ],
+      "correct": 1,
+      "explanation": "L'Empire ottoman rejoint la Triple Alliance au cours de la guerre."
+    },
+    {
+      "question": "Quel pays ne fait PAS partie de la Triple Entente ?",
+      "options": [
+        "France",
+        "Russie",
+        "Italie",
+        "Royaume-Uni"
+      ],
+      "correct": 2,
+      "explanation": "L'Italie était initialement un membre de la Triple Alliance."
+    },
+    {
+      "question": "Quelle région la France souhaitait-elle récupérer après la guerre ?",
+      "options": [
+        "La Bretagne",
+        "L'Alsace-Lorraine",
+        "Le Piémont",
+        "Le Pays basque"
+      ],
+      "correct": 1,
+      "explanation": "La France voulait récupérer l'Alsace-Lorraine après l'avoir perdue en 1870."
+    },
+    {
+      "question": "Comment la Première Guerre mondiale a-t-elle impacté l'économie ?",
+      "options": [
+        "Elle a renforcé l'économie",
+        "Elle a laissé l'économie inchangée",
+        "Elle a désorganisé l'économie",
+        "Elle a diminué les dettes publiques"
+      ],
+      "correct": 2,
+      "explanation": "La guerre a désorganisé l'économie, beaucoup de ressources ayant été mobilisées pour l'effort de guerre."
+    },
+    {
+      "question": "Qui étaient les « Poilus » ?",
+      "options": [
+        "Des chefs militaires",
+        "Des soldats français",
+        "Des civils britanniques",
+        "Des soldats allemands"
+      ],
+      "correct": 1,
+      "explanation": "Les « Poilus » étaient le surnom donné aux soldats français de la Première Guerre mondiale."
+    },
+    {
+      "question": "Quel est l'un des principaux objectifs de la propagande pendant la guerre ?",
+      "options": [
+        "Décourager l'ennemi",
+        "Mobiliser la main-d'œuvre civile",
+        "Encourager la désertion",
+        "Favoriser le commerce extérieur"
+      ],
+      "correct": 1,
+      "explanation": "La propagande était utilisée pour mobiliser et convaincre la population de soutenir l'effort de guerre."
+    },
+    {
+      "question": "Combien de temps a duré la Première Guerre mondiale ?",
+      "options": [
+        "2 ans",
+        "4 ans",
+        "6 ans",
+        "8 ans"
+      ],
+      "correct": 1,
+      "explanation": "La guerre a duré 4 ans, de 1914 à 1918."
+    },
+    {
+      "question": "Quel rôle ont joué les femmes pendant la guerre ?",
+      "options": [
+        "Elles n'ont pas été impliquées",
+        "Elles ont continué leurs tâches ménagères seulement",
+        "Elles ont remplacé les hommes dans les usines",
+        "Elles ont participé en tant que soldats"
+      ],
+      "correct": 2,
+      "explanation": "Les femmes ont remplacé les hommes dans les usines pendant leur absence au front."
+    }
+  ]
+}
