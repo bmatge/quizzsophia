@@ -1,45 +1,5 @@
 [
   {
-    "titre": "Anglais - 4 Mai 2025",
-    "fichier": "evaluation_anglais.json"
-  },
-  {
-    "titre": "Calcul littéral et Thalès – Niveau 4e",
-    "fichier": "evaluation_calcul_litteral.json"
-  },
-  {
-    "titre": "Toine - 4 mai - v2",
-    "fichier": "evaluation_maupassant.json"
-  },
-  {
-    "titre": "Les réciproques – Niveau 4e (avancé)",
-    "fichier": "evaluation_reciproque.json"
-  },
-  {
-    "titre": "Utilisation de la règle de trois – Niveau 4e",
-    "fichier": "evaluation_regle_de_trois.json"
-  },
-  {
-    "titre": "Théorème de Thalès - 4 mai - v2",
-    "fichier": "evaluation_thales.json"
-  },
-  {
-    "titre": "Quizz sur le Calcul Littéral - Niveau 4ème",
-    "fichier": "quizz_1746470914.json"
-  },
-  {
-    "titre": "Théorème de Thalès et Proportionnalité - 2023",
-    "fichier": "quizz_1746474446.json"
-  },
-  {
-    "titre": "Révolution française - Niveau 4ème",
-    "fichier": "quizz_1746558937.json"
-  },
-  {
-    "titre": "Histoire 4ème - Révolution Française - Octobre 2023",
-    "fichier": "quizz_1746882136.json"
-  },
-  {
     "titre": "Première Guerre mondiale - Quiz CM2",
     "fichier": "quizz_1746882674.json"
   }
