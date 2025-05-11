@@ -1,0 +1,225 @@
+{
+  "titre": "Quiz Physique Chimie N°2 - Transformations chimiques, combustion et solubilité",
+  "questions": [
+    {
+      "question": "Qu'est-ce qu'une transformation chimique ?",
+      "options": [
+        "Un changement de forme des molécules",
+        "La formation de nouveaux produits à partir de réactifs",
+        "La séparation de substances mélangées",
+        "L'évaporation de l'eau"
+      ],
+      "correct": 1,
+      "explanation": "Une transformation chimique implique que des réactifs sont consommés et des produits se forment."
+    },
+    {
+      "question": "Lors d'une transformation chimique, qu'arrive-t-il à la masse ?",
+      "options": [
+        "Elle augmente",
+        "Elle diminue",
+        "Elle reste constante",
+        "Elle varie aléatoirement"
+      ],
+      "correct": 2,
+      "explanation": "La loi de conservation de la masse stipule que la masse totale des réactifs est égale à celle des produits."
+    },
+    {
+      "question": "Quelle est la couleur généralement associée à l'oxygène dans un modèle moléculaire ?",
+      "options": [
+        "Blanche",
+        "Noire",
+        "Rouge",
+        "Bleue"
+      ],
+      "correct": 2,
+      "explanation": "Dans les modèles moléculaires, l'oxygène est généralement représenté par une boule rouge."
+    },
+    {
+      "question": "Quelle est la formule moléculaire de l'eau ?",
+      "options": [
+        "O₂",
+        "H₂O",
+        "CO₂",
+        "CH₄"
+      ],
+      "correct": 1,
+      "explanation": "La formule moléculaire de l'eau est H₂O, composée de 2 atomes d'hydrogène et 1 atome d'oxygène."
+    },
+    {
+      "question": "Pour qu'une combustion ait lieu, quel élément n'est pas nécessaire ?",
+      "options": [
+        "Combustible",
+        "Comburant",
+        "Lumière",
+        "Énergie d'activation"
+      ],
+      "correct": 2,
+      "explanation": "La combustion nécessite un combustible, un comburant (comme l'oxygène) et une énergie d'activation, mais pas de lumière."
+    },
+    {
+      "question": "Quel est le signe distinctif d'une combustion complète ?",
+      "options": [
+        "Flamme jaune",
+        "Production de monoxyde de carbone",
+        "Flamme bleue sans fumée",
+        "Formation de suie"
+      ],
+      "correct": 2,
+      "explanation": "Une combustion complète se caractérise par une flamme bleue sans fumée, produisant du dioxyde de carbone et de l'eau."
+    },
+    {
+      "question": "Que se passe-t-il lors d'une combustion incomplète ?",
+      "options": [
+        "Production de plus d'eau",
+        "Flamme sans couleur",
+        "Formation de monoxyde de carbone",
+        "Réduction de la température"
+      ],
+      "correct": 2,
+      "explanation": "Une combustion incomplète se produit avec un manque d'oxygène, ce qui produit du monoxyde de carbone."
+    },
+    {
+      "question": "Qu'est-ce qu'un soluté ?",
+      "options": [
+        "Le liquide qui dissout",
+        "La substance dissoute",
+        "Le mélange homogène",
+        "La partie insoluble"
+      ],
+      "correct": 1,
+      "explanation": "Le soluté est la substance qui est dissoute dans un solvant pour créer une solution."
+    },
+    {
+      "question": "Qu'est-ce qu'une solution saturée ?",
+      "options": [
+        "Une solution où le soluté est entièrement dissous",
+        "Une solution où aucun soluté n'est dissous",
+        "Une solution où plus aucun soluté ne peut être dissous",
+        "Une solution sans solvant"
+      ],
+      "correct": 2,
+      "explanation": "Une solution est saturée lorsque plus aucun soluté ne peut être dissous à une température donnée."
+    },
+    {
+      "question": "Quel est l'effet d'ajouter plus de sel à une solution déjà saturée ?",
+      "options": [
+        "Le sel se dissout complètement",
+        "Le solvant change de propriété",
+        "Des cristaux de sel se forment",
+        "La solubilité augmente"
+      ],
+      "correct": 2,
+      "explanation": "Dans une solution saturée, ajouter plus de soluté entraîne la formation de cristaux non dissous."
+    },
+    {
+      "question": "Quel gaz est généralement utilisé comme comburant lors de la combustion ?",
+      "options": [
+        "Hydrogène",
+        "Dioxygène",
+        "Dioxyde de carbone",
+        "Méthane"
+      ],
+      "correct": 1,
+      "explanation": "Le dioxygène (O₂) de l'air est généralement utilisé comme comburant lors des réactions de combustion."
+    },
+    {
+      "question": "Quelle est la composition atomique du méthane (CH₄) ?",
+      "options": [
+        "1 carbone + 4 hydrogènes",
+        "1 carbone + 2 oxygènes",
+        "2 carbones + 2 hydrogènes",
+        "2 oxygènes + 2 hydrogènes"
+      ],
+      "correct": 0,
+      "explanation": "Le méthane est composé d'un atome de carbone et de quatre atomes d'hydrogène."
+    },
+    {
+      "question": "Quel type de flamme indique une combustion incomplète ?",
+      "options": [
+        "Bleue",
+        "Verte",
+        "Jaune avec fumée",
+        "Rouge vif"
+      ],
+      "correct": 2,
+      "explanation": "Une flamme jaune avec fumée et suie est caractéristique d'une combustion incomplète."
+    },
+    {
+      "question": "Quelle substance toxique est produite par une combustion incomplète ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Eau",
+        "Monoxyde de carbone",
+        "Acide sulfurique"
+      ],
+      "correct": 2,
+      "explanation": "Le monoxyde de carbone (CO) est un gaz toxique produit lors d'une combustion incomplète."
+    },
+    {
+      "question": "Quel est le triangle du feu ?",
+      "options": [
+        "Combustible, comburant, eau",
+        "Combustible, comburant, énergie d'activation",
+        "Combustible, épice, chaleur",
+        "Combustible, bougie, eau"
+      ],
+      "correct": 1,
+      "explanation": "Le triangle du feu se compose d'un combustible, d'un comburant et d'une énergie d'activation."
+    },
+    {
+      "question": "Quelle méthode n'est pas efficace pour arrêter une combustion ?",
+      "options": [
+        "Retirer le comburant",
+        "Augmenter la chaleur",
+        "Couper l'arrivée du combustible",
+        "Couvrir le feu"
+      ],
+      "correct": 1,
+      "explanation": "Augmenter la chaleur ne met pas fin à une combustion, tandis que retirer l'un des éléments du triangle le fait."
+    },
+    {
+      "question": "Comment appelle-t-on une solution qui reste homogène jusqu'à saturation ?",
+      "options": [
+        "Solution miscible",
+        "Solution diluée",
+        "Solution concentrée",
+        "Solution saturée"
+      ],
+      "correct": 3,
+      "explanation": "Une solution saturée est celle où le soluté se dissout jusqu'à saturation, au-delà de laquelle il précipite."
+    },
+    {
+      "question": "Quel est le résultat de la combustion complète du butane ?",
+      "options": [
+        "CO + suie",
+        "CO₂ + H₂O",
+        "O₂ + CH₄",
+        "C₄H₁₀ + H₂"
+      ],
+      "correct": 1,
+      "explanation": "La combustion complète du butane produit du dioxyde de carbone (CO₂) et de l'eau (H₂O)."
+    },
+    {
+      "question": "Quel est le prototcollage pour déterminer la solubilité d'un sel ?",
+      "options": [
+        "Ajouter sel jusqu'à saturation dans un volume donné de solvant",
+        "Évaporer le solvant et peser le sel restant",
+        "Tester différents solvants",
+        "Mesurer la température du solvant"
+      ],
+      "correct": 0,
+      "explanation": "Pour déterminer la solubilité, on ajoute du sel jusqu'à saturation et observe à quel point il cesse de se dissoudre."
+    },
+    {
+      "question": "Quelle substance ne fait pas partie de la réaction de combustion complète ?",
+      "options": [
+        "Eau",
+        "Dioxyde de carbone",
+        "Suie",
+        "Chaleur"
+      ],
+      "correct": 2,
+      "explanation": "La suie n'est pas un produit de la combustion complète, elle résulte d'une incomplète."
+    }
+  ]
+}
