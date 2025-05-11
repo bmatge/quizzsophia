@@ -1,0 +1,236 @@
+{
+  "titre": "Evaluation Physique Chimie 4ème - Date",
+  "questions": [
+    {
+      "question": "Quels sont les trois éléments du triangle du feu?",
+      "options": [
+        "Combustible, comburant, étincelle",
+        "Combustible, comburant, énergie",
+        "Oxygène, hydrogène, chaleur",
+        "Air, flamme, carburant"
+      ],
+      "correct": 1,
+      "explanation": "Le triangle du feu est composé de combustible, comburant et énergie."
+    },
+    {
+      "question": "Comment peut-on arrêter une combustion?",
+      "options": [
+        "Augmenter la quantité de combustible",
+        "Réduire la chaleur",
+        "Supprimer un des trois éléments du triangle du feu",
+        "Ajouter plus de comburant"
+      ],
+      "correct": 2,
+      "explanation": "Pour arrêter une combustion, il suffit de supprimer un des éléments du triangle du feu."
+    },
+    {
+      "question": "Quels sont les produits de la combustion complète?",
+      "options": [
+        "CO₂ et H₂O",
+        "CO et H₂",
+        "C et H₂O",
+        "CO₂ et OH"
+      ],
+      "correct": 0,
+      "explanation": "La combustion complète produit CO₂ et H₂O."
+    },
+    {
+      "question": "Quel signe est typique d'une combustion incomplète?",
+      "options": [
+        "Flamme bleue, pas de résidu",
+        "Flamme jaune, dépôt noir",
+        "Pas de flamme, pas de dépôt",
+        "Flamme verte, dépôt blanc"
+      ],
+      "correct": 1,
+      "explanation": "La combustion incomplète se reconnaît à une flamme jaune et un dépôt noir."
+    },
+    {
+      "question": "Quel gaz toxique est produit lors de la combustion incomplète des hydrocarbures?",
+      "options": [
+        "Dioxygène (O₂)",
+        "Monoxyde de carbone (CO)",
+        "Dioxyde de carbone (CO₂)",
+        "Méthane (CH₄)"
+      ],
+      "correct": 1,
+      "explanation": "Le monoxyde de carbone (CO) est un gaz toxique produit lors de la combustion incomplète."
+    },
+    {
+      "question": "Quelle est l'équation de la combustion du méthane?",
+      "options": [
+        "CH₄ + O₂ → CO₂ + H₂",
+        "CH₄ + O₂ → CO + H₂O",
+        "CH₄ + 2O₂ → CO₂ + 2H₂O",
+        "CH₄ + ½O₂ → CO + H₂O"
+      ],
+      "correct": 2,
+      "explanation": "L'équation équilibrée de la combustion complète du méthane est CH₄ + 2O₂ → CO₂ + 2H₂O."
+    },
+    {
+      "question": "Quel terme désigne la substance capable de dissoudre un soluté?",
+      "options": [
+        "Solution",
+        "Soluté",
+        "Solvant",
+        "Saturé"
+      ],
+      "correct": 2,
+      "explanation": "Le solvant est la substance capable de dissoudre un soluté."
+    },
+    {
+      "question": "Quelle est la définition d'une solution saturée?",
+      "options": [
+        "Une solution ayant un soluté non dissous",
+        "Une solution contenant plus de solvant",
+        "Une solution où le soluté est complètement dissous",
+        "Une solution diluée avec de l'eau"
+      ],
+      "correct": 0,
+      "explanation": "Une solution saturée est celle où un soluté non dissous commence à se déposer."
+    },
+    {
+      "question": "Quelle masse maximale de sel peut-on dissoudre dans 100 mL d'eau?",
+      "options": [
+        "30-35 g",
+        "50-60 g",
+        "80-100 g",
+        "20-25 g"
+      ],
+      "correct": 0,
+      "explanation": "On peut dissoudre 30-35 g de sel dans 100 mL d'eau."
+    },
+    {
+      "question": "Quelle est l'unité de solubilité?",
+      "options": [
+        "g",
+        "kg",
+        "g/L",
+        "mL"
+      ],
+      "correct": 2,
+      "explanation": "L'unité de solubilité est le gramme par litre (g/L)."
+    },
+    {
+      "question": "Qu'est-ce qu'une transformation chimique?",
+      "options": [
+        "Un changement d’état physique",
+        "Une formation de nouveaux produits",
+        "Un mélange de substances",
+        "Un changement de phase"
+      ],
+      "correct": 1,
+      "explanation": "Une transformation chimique implique la formation de nouveaux produits."
+    },
+    {
+      "question": "Quels rôles jouent les réactifs dans une réaction chimique?",
+      "options": [
+        "Ils sont détruits",
+        "Ils disparaissent",
+        "Ils se transforment",
+        "Ils se multiplient"
+      ],
+      "correct": 2,
+      "explanation": "Les réactifs se transforment pour former les produits de la réaction."
+    },
+    {
+      "question": "Comment s'explique la conservation de la masse lors d'une transformation chimique?",
+      "options": [
+        "La masse des produits est supérieure à celle des réactifs",
+        "La masse des produits est inférieure à celle des réactifs",
+        "La masse des réactifs est égale à celle des produits",
+        "La masse est créée lors de la réaction"
+      ],
+      "correct": 2,
+      "explanation": "La masse des réactifs est égale à celle des produits, conformément au principe de conservation de la masse."
+    },
+    {
+      "question": "Quel symbole représente l'oxygène?",
+      "options": [
+        "O",
+        "Ox",
+        "Og",
+        "Oy"
+      ],
+      "correct": 0,
+      "explanation": "Le symbole de l'oxygène est O."
+    },
+    {
+      "question": "Le CO₂ est une molécule composée de quels atomes?",
+      "options": [
+        "Un atome de carbone, deux atomes d’oxygène",
+        "Deux atomes de carbone, un atome d’oxygène",
+        "Un atome d’oxygène, deux atomes de carbone",
+        "Deux atomes d’hydrogène, un atome de carbone"
+      ],
+      "correct": 0,
+      "explanation": "Le dioxyde de carbone (CO₂) est composé d'un atome de carbone et de deux atomes d’oxygène."
+    },
+    {
+      "question": "Associez la formule H₂O à sa représentation.",
+      "options": [
+        "Deux boules rouges pour l'oxygène, une boule bleue pour l'hydrogène",
+        "Une boule rouge pour l'oxygène, deux boules blanches pour l'hydrogène",
+        "Trois boules vertes pour l'oxygène",
+        "Deux boules noires pour l'hydrogène, une boule jaune pour l'oxygène"
+      ],
+      "correct": 1,
+      "explanation": "H₂O (eau) est représenté par une boule rouge pour l'oxygène et deux boules blanches pour l'hydrogène."
+    },
+    {
+      "question": "Quelle est la formule du méthane?",
+      "options": [
+        "CH₄",
+        "C₂H₄",
+        "C₄H₁₀",
+        "C₃H₆"
+      ],
+      "correct": 0,
+      "explanation": "La formule chimique du méthane est CH₄."
+    },
+    {
+      "question": "Lors d'un changement physique, quelle caractéristique est préservée?",
+      "options": [
+        "La forme moléculaire",
+        "La couleur",
+        "La composition chimique",
+        "Le volume"
+      ],
+      "correct": 2,
+      "explanation": "Lors d'un changement physique, la composition chimique est préservée."
+    },
+    {
+      "question": "Comment détecte-t-on une erreur dans un modèle moléculaire?",
+      "options": [
+        "Les couleurs des atomes sont interchangeables",
+        "Les tailles des atomes n'importent pas",
+        "Le nombre d'atomes ne correspond pas à la formule chimique",
+        "Les atomes ne se touchent pas"
+      ],
+      "correct": 2,
+      "explanation": "Une erreur dans un modèle moléculaire peut être détectée si le nombre d'atomes ne correspond pas à la formule chimique."
+    },
+    {
+      "question": "Quel rôle joue la chaleur dans une combustion?",
+      "options": [
+        "Elle catalyse la réaction",
+        "Elle sert de comburant",
+        "Elle fournit l'énergie nécessaire",
+        "Elle dégage de l'oxygène"
+      ],
+      "correct": 2,
+      "explanation": "La chaleur fournit l'énergie nécessaire pour initier et maintenir une combustion."
+    },
+    {
+      "question": "Comment appelle-t-on la substance dissoute dans une solution?",
+      "options": [
+        "Soluté",
+        "Solvant",
+        "Saturé",
+        "État dissous"
+      ],
+      "correct": 0,
+      "explanation": "La substance dissoute dans une solution est appelée soluté."
+    }
+  ]
+}
