@@ -1,0 +1,225 @@
+{
+  "titre": "Quiz Probabilités 4ème - 2023",
+  "questions": [
+    {
+      "question": "Qu'est-ce qu'un événement certain en probabilité?",
+      "options": [
+        "Un événement qui a une probabilité de 1.",
+        "Un événement qui ne peut jamais se produire.",
+        "Un événement qui a une probabilité de 0.5.",
+        "Un événement qui ne dépend pas du hasard."
+      ],
+      "correct": 0,
+      "explanation": "Un événement certain est celui qui se produira à coup sûr, donc avec une probabilité de 1."
+    },
+    {
+      "question": "Quelle est la probabilité d'obtenir un nombre pair en lançant un dé à six faces?",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correct": 2,
+      "explanation": "Il y a trois nombres pairs (2, 4, et 6) sur six faces, donc la probabilité est 3/6 ou 1/2."
+    },
+    {
+      "question": "Quelle est la somme des probabilités de tous les résultats possibles d'une expérience aléatoire?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "Dépend de l'expérience"
+      ],
+      "correct": 1,
+      "explanation": "La somme des probabilités de tous les résultats possibles dans une expérience aléatoire est toujours égale à 1."
+    },
+    {
+      "question": "Si P(A) = 0.3 et P(B) = 0.4, quelle est la probabilité que ni A ni B ne se produisent (sachant qu'ils sont indépendants)?",
+      "options": [
+        "0.12",
+        "0.3",
+        "0.42",
+        "0.7"
+      ],
+      "correct": 2,
+      "explanation": "La probabilité que ni A ni B ne se produisent est (1-P(A)) * (1-P(B)) = 0.7 * 0.6 = 0.42."
+    },
+    {
+      "question": "Quelle est la probabilité de tirer une carte rouge dans un jeu de cartes standard?",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/3",
+        "3/4"
+      ],
+      "correct": 0,
+      "explanation": "Il y a 26 cartes rouges dans un jeu de 52 cartes, donc la probabilité est 26/52 ou 1/2."
+    },
+    {
+      "question": "Quelle est la probabilité d’obtenir une pile en lançant une pièce de monnaie équilibrée?",
+      "options": [
+        "1",
+        "0.75",
+        "0.5",
+        "0.25"
+      ],
+      "correct": 2,
+      "explanation": "Pour une pièce équilibrée, la probabilité d'obtenir pile est de 0.5."
+    },
+    {
+      "question": "Lorsqu'on tire une carte au hasard d'un jeu de 52 cartes, quelle est la probabilité de tirer un roi?",
+      "options": [
+        "1/13",
+        "1/26",
+        "1/52",
+        "1/4"
+      ],
+      "correct": 0,
+      "explanation": "Il y a 4 rois dans un jeu de 52 cartes, donc la probabilité est 4/52, soit 1/13."
+    },
+    {
+      "question": "Si un sac contient 4 boules rouges et 6 boules bleues, quelle est la probabilité de tirer une boule rouge?",
+      "options": [
+        "2/5",
+        "1/2",
+        "2/3",
+        "1/4"
+      ],
+      "correct": 0,
+      "explanation": "La probabilité de tirer une boule rouge est 4/10, ce qui simplifie à 2/5."
+    },
+    {
+      "question": "Laquelle des propositions suivantes décrit une probabilité impossible?",
+      "options": [
+        "0.4",
+        "1",
+        "1/2",
+        "0"
+      ],
+      "correct": 3,
+      "explanation": "Une probabilité impossible est de 0, signifiant que l'événement ne peut jamais se produire."
+    },
+    {
+      "question": "Si deux événements sont mutuellement exclusifs, que peut-on dire de leur probabilité conjointe?",
+      "options": [
+        "Elle est égale à 1.",
+        "Elle est nulle.",
+        "Elle dépend des événements.",
+        "Elle est égale à la somme des probabilités des deux événements."
+      ],
+      "correct": 1,
+      "explanation": "Deux événements mutuellement exclusifs ne peuvent pas se produire en même temps, donc leur probabilité conjointe est nulle."
+    },
+    {
+      "question": "Si un dé à six faces est lancé, quelle est la probabilité d’obtenir un numéro supérieur à 4?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/6"
+      ],
+      "correct": 1,
+      "explanation": "Il y a deux nombres supérieurs à 4 (5 et 6), donc la probabilité est 2/6, soit 1/3."
+    },
+    {
+      "question": "La probabilité de réussir un lancer de basket est de 0.7. Quelle est la probabilité de manquer?",
+      "options": [
+        "0.7",
+        "0.5",
+        "0.3",
+        "1"
+      ],
+      "correct": 2,
+      "explanation": "La probabilité de manquer est complémentaire à celle de réussir: 1 - 0.7 = 0.3."
+    },
+    {
+      "question": "Dans un tirage au sort, quelle est la probabilité d’être choisi si 1 nom est tiré au hasard parmi 100?",
+      "options": [
+        "0.01",
+        "0.1",
+        "0.5",
+        "0.2"
+      ],
+      "correct": 0,
+      "explanation": "La probabilité d’être choisi est de 1/100, soit 0.01."
+    },
+    {
+      "question": "Dans une boîte, il y a 8 billets marqués de 1 à 8. Quelle est la probabilité de tirer un nombre impair?",
+      "options": [
+        "1/2",
+        "3/8",
+        "5/8",
+        "1/4"
+      ],
+      "correct": 0,
+      "explanation": "Il y a quatre nombres impairs (1, 3, 5, 7) sur huit, donc la probabilité est 4/8 ou 1/2."
+    },
+    {
+      "question": "Un sac contient 2 balles rouges, 3 balles vertes et 5 balles bleues. Quelle est la probabilité de tirer une balle verte?",
+      "options": [
+        "1/5",
+        "3/10",
+        "3/5",
+        "1/2"
+      ],
+      "correct": 1,
+      "explanation": "La probabilité de tirer une balle verte est 3/10."
+    },
+    {
+      "question": "Si un événement a une probabilité de 0,5, comment le qualifie-t-on?",
+      "options": [
+        "Événement certain",
+        "Événement impossible",
+        "Événement équipérobable",
+        "Événement indépendant"
+      ],
+      "correct": 2,
+      "explanation": "Un événement avec une probabilité de 0,5 est dit équiprobable car il a autant de chances de se produire que de ne pas se produire."
+    },
+    {
+      "question": "Combien de résultats favorables a-t-on en jetant un dé pour obtenir un multiple de 3?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "Les multiples de 3 sur un dé à six faces sont 3 et 6, donc 2 résultats favorables."
+    },
+    {
+      "question": "Lors du lancement de deux dés, quelle est la probabilité d'obtenir un double?",
+      "options": [
+        "1/6",
+        "1/12",
+        "1/36",
+        "1/3"
+      ],
+      "correct": 1,
+      "explanation": "Il y a 6 doubles possibles sur 36 combinaisons totales: 1/36, soit 1/6 après simplification."
+    },
+    {
+      "question": "Quelle est la probabilité que, en lançant un dé, le résultat soit inférieur ou égal à 3?",
+      "options": [
+        "1/3",
+        "1/2",
+        "1/4",
+        "2/3"
+      ],
+      "correct": 1,
+      "explanation": "Les résultats possibles inférieurs ou égaux à 3 sont 1, 2, et 3, donc 3/6 ou 1/2."
+    },
+    {
+      "question": "Dans un groupe de 30, il y a 18 filles. Quelle est la probabilité de choisir un garçon au hasard?",
+      "options": [
+        "1/2",
+        "2/3",
+        "1/3",
+        "3/5"
+      ],
+      "correct": 2,
+      "explanation": "Il y a 12 garçons dans le groupe, donc la probabilité de choisir un garçon est 12/30, soit 1/3 après simplification."
+    }
+  ]
+}
