@@ -1,0 +1,236 @@
+{
+  "titre": "Quiz Maths - Probabilités et Fractions",
+  "questions": [
+    {
+      "question": "Qu'est-ce qu'une fraction irréductible ?",
+      "options": [
+        "Une fraction avec un dénominateur de 1",
+        "Une fraction où numérateur et dénominateur sont les mêmes",
+        "Une fraction dont le numérateur et le dénominateur n'ont pas de diviseur commun autre que 1",
+        "Une fraction qui ne peut être convertie en décimale"
+      ],
+      "correct": 2,
+      "explanation": "Une fraction irréductible est celle dont le numérateur et le dénominateur n'ont pas de diviseur commun autre que 1."
+    },
+    {
+      "question": "Comment simplifier la fraction \\(\\frac{18}{24}\\) ?",
+      "options": [
+        "\\(\\frac{9}{12}\\)",
+        "\\(\\frac{3}{4}\\)",
+        "\\(\\frac{6}{8}\\)",
+        "\\(\\frac{7}{8}\\)"
+      ],
+      "correct": 1,
+      "explanation": "Divisez le numérateur et le dénominateur par leur PGCD (6) pour simplifier la fraction en \\(\\frac{3}{4}\\)."
+    },
+    {
+      "question": "Combien y a-t-il d'issues possibles quand on lance une pièce deux fois ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Il y a 4 issues : PP, PF, FP, FF."
+    },
+    {
+      "question": "Quelle est la probabilité de tirer un jeton rouge dans une boîte contenant 3 rouges, 4 bleus, et 5 verts ?",
+      "options": [
+        "\\(\\frac{1}{4}\\)",
+        "\\(\\frac{1}{3}\\)",
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{1}{6}\\)"
+      ],
+      "correct": 1,
+      "explanation": "Sur un total de 12 jetons, 3 sont rouges, donc la probabilité est \\(\\frac{3}{12} = \\frac{1}{4}\\)."
+    },
+    {
+      "question": "Quelle est l'expression correcte pour \\(\\frac{2}{3} + \\frac{1}{6}\\) ?",
+      "options": [
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{5}{6}\\)",
+        "\\(\\frac{2}{9}\\)",
+        "\\(\\frac{3}{6}\\)"
+      ],
+      "correct": 1,
+      "explanation": "Mettez au même dénominateur : \\(\\frac{4}{6} + \\frac{1}{6} = \\frac{5}{6}\\)."
+    },
+    {
+      "question": "Comment calcule-t-on \\(\\frac{5}{8} + \\frac{1}{4}\\) ?",
+      "options": [
+        "\\(\\frac{5}{12}\\)",
+        "\\(\\frac{7}{8}\\)",
+        "\\(\\frac{3}{8}\\)",
+        "\\(\\frac{6}{8}\\)"
+      ],
+      "correct": 1,
+      "explanation": "Convertissez \\(\\frac{1}{4}\\) en \\(\\frac{2}{8}\\), alors \\(\\frac{5}{8} + \\frac{2}{8} = \\frac{7}{8}\\)."
+    },
+    {
+      "question": "Quelle est la forme simplifiée de \\(\\frac{15}{12}\\) ?",
+      "options": [
+        "\\(\\frac{5}{4}\\)",
+        "\\(\\frac{5}{6}\\)",
+        "\\(\\frac{15}{24}\\)",
+        "\\(\\frac{12}{15}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Divisez le numérateur et le dénominateur par leur PGCD (3) pour obtenir \\(\\frac{5}{4}\\)."
+    },
+    {
+      "question": "Qu'est-ce qu'un événement certain ?",
+      "options": [
+        "Un résultat possible d'une expérience",
+        "Un ensemble de résultats possibles",
+        "Un événement qui ne se réalise jamais",
+        "Un événement qui se réalise à chaque expérience"
+      ],
+      "correct": 3,
+      "explanation": "Un événement certain est celui qui se réalise à chaque expérience."
+    },
+    {
+      "question": "Quelle est la probabilité d'obtenir un nombre pair sur un dé à six faces ?",
+      "options": [
+        "\\(\\frac{1}{6}\\)",
+        "\\(\\frac{1}{3}\\)",
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{2}{3}\\)"
+      ],
+      "correct": 2,
+      "explanation": "Un dé a 6 faces, et 3 d'entre elles affichent des nombres pairs, donc \\(\\frac{3}{6} = \\frac{1}{2}\\)."
+    },
+    {
+      "question": "Comment exprime-t-on \\(\\frac{3}{4}\\) en pourcentage ?",
+      "options": [
+        "30%",
+        "75%",
+        "60%",
+        "80%"
+      ],
+      "correct": 1,
+      "explanation": "Multipliez \\(\\frac{3}{4}\\) par 100 pour obtenir 75%."
+    },
+    {
+      "question": "Quelle est la probabilité d'obtenir un 4 en lançant un dé à six faces ?",
+      "options": [
+        "\\(\\frac{1}{6}\\)",
+        "\\(\\frac{1}{3}\\)",
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{1}{4}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Un dé a 6 faces, donc la probabilité d'obtenir un 4 est \\(\\frac{1}{6}\\)."
+    },
+    {
+      "question": "Quelle est la probabilité de ne pas obtenir un 6 sur un dé à six faces ?",
+      "options": [
+        "\\(\\frac{5}{6}\\)",
+        "\\(\\frac{1}{6}\\)",
+        "\\(\\frac{4}{6}\\)",
+        "\\(\\frac{1}{5}\\)"
+      ],
+      "correct": 0,
+      "explanation": "La probabilité que ce ne soit pas un 6 est \\(1 - \\frac{1}{6} = \\frac{5}{6}\\)."
+    },
+    {
+      "question": "Quelle est la probabilité d'obtenir \"pile\" au second lancer si le premier était \"face\" et les lancements sont indépendants ?",
+      "options": [
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{1}{4}\\)",
+        "\\(\\frac{1}{3}\\)",
+        "\\(\\frac{2}{3}\\)"
+      ],
+      "correct": 0,
+      "explanation": "La probabilité d'obtenir \"pile\" sur un lancer de pièce est \\(\\frac{1}{2}\\)."
+    },
+    {
+      "question": "Quelle est la fraction équivalente à \\(\\frac{50}{100}\\) ?",
+      "options": [
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{5}{10}\\)",
+        "\\(\\frac{2}{4}\\)",
+        "\\(\\frac{1}{3}\\)"
+      ],
+      "correct": 0,
+      "explanation": "\\(\\frac{50}{100}\\) simplifié est \\(\\frac{1}{2}\\)."
+    },
+    {
+      "question": "Comment écrire 0,25 en fraction ?",
+      "options": [
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{1}{4}\\)",
+        "\\(\\frac{1}{5}\\)",
+        "\\(\\frac{2}{5}\\)"
+      ],
+      "correct": 1,
+      "explanation": "0,25 est \\(\\frac{25}{100}\\) qui se simplifie en \\(\\frac{1}{4}\\)."
+    },
+    {
+      "question": "Quelle est la probabilité d'avoir au moins \"un 3\" en lançant un dé à six faces deux fois ?",
+      "options": [
+        "\\(\\frac{11}{36}\\)",
+        "\\(\\frac{3}{36}\\)",
+        "\\(\\frac{5}{8}\\)",
+        "\\(\\frac{1}{4}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Il y a 25 possibilités sur 36 qui incluent au moins un 3, soit \\(\\frac{11}{36}\\)."
+    },
+    {
+      "question": "Comment passe-t-on de \\(\\frac{3}{7}\\) à une écriture décimale ?",
+      "options": [
+        "0.42",
+        "0.43",
+        "0.428571...",
+        "0.48"
+      ],
+      "correct": 2,
+      "explanation": "\\(\\frac{3}{7}\\) exprimé en décimal est environ 0.428571..."
+    },
+    {
+      "question": "Quelle est l'opération inverse de la multiplication de fractions ?",
+      "options": [
+        "La soustraction",
+        "La division",
+        "L'addition",
+        "La simplification"
+      ],
+      "correct": 1,
+      "explanation": "L'inverse de la multiplication est la division."
+    },
+    {
+      "question": "Calculer : \\(\\frac{5}{6} \\times \\frac{2}{3}\\)",
+      "options": [
+        "\\(\\frac{10}{18}\\)",
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{10}{9}\\)",
+        "\\(\\frac{5}{9}\\)"
+      ],
+      "correct": 3,
+      "explanation": "Multipliez les numérateurs : \\(5 \\times 2 = 10\\) et les dénominateurs : \\(6 \\times 3 = 18\\), ce qui se simplifie en \\(\\frac{5}{9}\\)."
+    },
+    {
+      "question": "Qu'est-ce qu'un cas équiprobable ?",
+      "options": [
+        "Chaque issue a une chance égale d'arriver",
+        "Une seule issue peut survenir",
+        "Toutes les issues sont différentes",
+        "Une issue est plus probable que les autres"
+      ],
+      "correct": 0,
+      "explanation": "Dans des cas équiprobables, chaque issue a la même chance de se produire."
+    },
+    {
+      "question": "Quel est le lien entre pourcentage et probabilité ?",
+      "options": [
+        "Ils n'ont aucun lien",
+        "Un pourcentage est une fraction sur 100, ce qui est une forme de probabilité",
+        "Le pourcentage est toujours plus grand qu'une probabilité",
+        "La probabilité est une forme de pourcentage"
+      ],
+      "correct": 1,
+      "explanation": "Un pourcentage est une fraction sur 100 et donc une forme de probabilité."
+    }
+  ]
+}
