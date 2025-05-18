@@ -1,0 +1,225 @@
+{
+  "titre": "Quiz Werenoi - Octobre 2023",
+  "questions": [
+    {
+      "question": "Quel est le véritable nom de Werenoi ?",
+      "options": [
+        "Jérémy Bana Owona",
+        "Pierre Garnier",
+        "Damso",
+        "Pascal Obispo"
+      ],
+      "correct": 0,
+      "explanation": "Le véritable nom de Werenoi est Jérémy Bana Owona."
+    },
+    {
+      "question": "Où Werenoi a-t-il grandi ?",
+      "options": [
+        "Melun",
+        "Montreuil",
+        "Paris",
+        "Seine-et-Marne"
+      ],
+      "correct": 1,
+      "explanation": "Werenoi a grandi à Montreuil, en Seine-Saint-Denis."
+    },
+    {
+      "question": "Quel est le titre du premier single de Werenoi ?",
+      "options": [
+        "Guadalajara",
+        "Scarface",
+        "3 singes",
+        "Selfie"
+      ],
+      "correct": 0,
+      "explanation": "Le premier single de Werenoi est “Guadalajara”, sorti en février 2021."
+    },
+    {
+      "question": "Avec quel label Werenoi a-t-il signé en 2021 ?",
+      "options": [
+        "AllPoints France",
+        "PGP Records",
+        "AWA",
+        "Universal Music"
+      ],
+      "correct": 2,
+      "explanation": "Werenoi a signé avec le label AWA en 2021."
+    },
+    {
+      "question": "Quel album est devenu le plus vendu en France en 2023 ?",
+      "options": [
+        "Carré",
+        "Pyramide",
+        "Diamant noir",
+        "Telegram"
+      ],
+      "correct": 0,
+      "explanation": "L'album \"Carré\" de Werenoi est devenu le plus vendu en France en 2023."
+    },
+    {
+      "question": "Quel EP inclut le hit ‘3 singes’ avec Ninho ?",
+      "options": [
+        "Diamant noir",
+        "Telegram",
+        "Carré",
+        "Pyramide"
+      ],
+      "correct": 1,
+      "explanation": "L'EP \"Telegram\" inclut le hit ‘3 singes’ avec Ninho."
+    },
+    {
+      "question": "À quelle cérémonie Werenoi a-t-il été élu révélation masculine en 2023 ?",
+      "options": [
+        "Les Flammes",
+        "NRJ Music Awards",
+        "Victoires de la Musique",
+        "Grammy Awards"
+      ],
+      "correct": 0,
+      "explanation": "Werenoi a été élu révélation masculine à la cérémonie des Flammes en 2023."
+    },
+    {
+      "question": "Quel featuring de Werenoi est avec Lacrim ?",
+      "options": [
+        "La famine",
+        "Señor de los Gallos",
+        "Ciao",
+        "Chaleur"
+      ],
+      "correct": 1,
+      "explanation": "Le featuring de Werenoi avec Lacrim est \"Señor de los Gallos\"."
+    },
+    {
+      "question": "Quelle maladie a provoqué le décès de Werenoi ?",
+      "options": [
+        "Diabète",
+        "Insuffisance rénale",
+        "Hyperkaliémie",
+        "Cirrhose"
+      ],
+      "correct": 2,
+      "explanation": "Werenoi est décédé en raison d'une hyperkaliémie non régulée."
+    },
+    {
+      "question": "Quel est le surnom de Werenoi par certains fans ?",
+      "options": [
+        "Le roi du rap",
+        "Jul parisien",
+        "Maître du flow",
+        "L'enfant des rues"
+      ],
+      "correct": 1,
+      "explanation": "Werenoi est surnommé \"Jul parisien\" par certains fans."
+    },
+    {
+      "question": "Quelle plateforme retire les clips de Werenoi le jour de sa mort ?",
+      "options": [
+        "Vimeo",
+        "YouTube",
+        "Dailymotion",
+        "Spotify"
+      ],
+      "correct": 1,
+      "explanation": "Les clips de Werenoi sont retirés de YouTube le jour de sa mort."
+    },
+    {
+      "question": "Quel album comporte une extension nommée 'Pyramide 2' ?",
+      "options": [
+        "Diamant noir",
+        "Carre",
+        "Carré",
+        "Pyramide"
+      ],
+      "correct": 3,
+      "explanation": "L'album \"Pyramide\" comporte une extension nommée 'Pyramide 2'."
+    },
+    {
+      "question": "Werenoi a-t-il fondé un label personnel ?",
+      "options": [
+        "Oui, Capitol Music France",
+        "Non",
+        "Oui, PGP Records",
+        "Oui, AllPoints France"
+      ],
+      "correct": 2,
+      "explanation": "Werenoi a fondé un label personnel nommé PGP Records en 2020."
+    },
+    {
+      "question": "Werenoi était-il perçu comme un 'industry plant' ?",
+      "options": [
+        "Non",
+        "Oui, par tous",
+        "Oui, par certains",
+        "Non, pas du tout évoqué"
+      ],
+      "correct": 2,
+      "explanation": "Certains ont accusé Werenoi d'être un 'industry plant', un artiste fabriqué pour un succès rapide."
+    },
+    {
+      "question": "Quelle année Werenoi a-t-il rempli son premier Zénith de Paris ?",
+      "options": [
+        "2021",
+        "2023",
+        "2022",
+        "2024"
+      ],
+      "correct": 1,
+      "explanation": "Werenoi a rempli son premier Zénith de Paris en 2023."
+    },
+    {
+      "question": "Avec quel artiste Werenoi a collaboré sur le titre ‘Magot’ ?",
+      "options": [
+        "Gazo",
+        "SCH",
+        "Aya Nakamura",
+        "Damso"
+      ],
+      "correct": 1,
+      "explanation": "Werenoi a collaboré avec SCH sur le titre ‘Magot’."
+    },
+    {
+      "question": "Quel album Werenoi a-t-il sorti en avril 2025 ?",
+      "options": [
+        "Diamant noir",
+        "Carré",
+        "Pyramide 2",
+        "Telegram"
+      ],
+      "correct": 0,
+      "explanation": "Werenoi a sorti l'album \"Diamant noir\" en avril 2025."
+    },
+    {
+      "question": "Comment s'appelle le label dirigé par Kore avec lequel Werenoi a signé ?",
+      "options": [
+        "AllPoints France",
+        "Capitol Music France",
+        "PLR Music",
+        "AWA"
+      ],
+      "correct": 3,
+      "explanation": "Werenoi a signé avec le label AWA dirigé par Kore."
+    },
+    {
+      "question": "Quel titre a contribué à la bande originale du film 'En Passant Pécho' ?",
+      "options": [
+        "Guadalajara",
+        "Tucibi",
+        "Selfie",
+        "Solitaire"
+      ],
+      "correct": 1,
+      "explanation": "Le titre ‘Tucibi’ a contribué à la bande originale du film 'En Passant Pécho'."
+    },
+    {
+      "question": "Quel est le surnom donné aux fans de Werenoi ?",
+      "options": [
+        "La Team",
+        "Les Warriors",
+        "La League",
+        "Les Followers"
+      ],
+      "correct": 2,
+      "explanation": "Les fans de Werenoi sont surnommés 'La League'."
+    }
+  ]
+}
