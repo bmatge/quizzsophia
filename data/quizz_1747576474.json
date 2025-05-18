@@ -1,0 +1,225 @@
+{
+  "titre": "Quiz Maths - Sophia",
+  "questions": [
+    {
+      "question": "Quelle est la fraction irréductible de 18/24 ?",
+      "options": [
+        "3/4",
+        "9/12",
+        "6/8",
+        "1/2"
+      ],
+      "correct": 0,
+      "explanation": "La fraction 18/24 est simplifiée en 3/4 en divisant par le PGCD, qui est 6."
+    },
+    {
+      "question": "Pour additionner 2/5 et 3/10, quelle est la somme correcte ?",
+      "options": [
+        "7/10",
+        "1/2",
+        "11/15",
+        "5/8"
+      ],
+      "correct": 0,
+      "explanation": "2/5 + 3/10 = (2×2 + 3×1) / 10 = 7/10."
+    },
+    {
+      "question": "Comment obtient-on la probabilité d'un événement certain ?",
+      "options": [
+        "1",
+        "0",
+        "0.5",
+        "2"
+      ],
+      "correct": 0,
+      "explanation": "Un événement certain a une probabilité de 1."
+    },
+    {
+      "question": "Quelle est la probabilité d'obtenir un nombre pair en lançant un dé à 6 faces ?",
+      "options": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "correct": 0,
+      "explanation": "Il y a 3 nombres pairs (2, 4, 6) parmi 6, donc la probabilité est 3/6 = 1/2."
+    },
+    {
+      "question": "Que signifie diviser par une fraction ?",
+      "options": [
+        "Multiplier par son inverse",
+        "Diviser par son inverse",
+        "Ajouter son inverse",
+        "Soustraire son inverse"
+      ],
+      "correct": 0,
+      "explanation": "Diviser par une fraction revient à multiplier par son inverse."
+    },
+    {
+      "question": "Quelle est la somme de 1/3 et 1/6 ?",
+      "options": [
+        "1/2",
+        "2/3",
+        "1/9",
+        "3/6"
+      ],
+      "correct": 0,
+      "explanation": "1/3 + 1/6 = (2×1 + 1×1) / 6 = 1/2."
+    },
+    {
+      "question": "Quelle est la probabilité qu’un événement impossible se produise ?",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "Impossible à déterminer"
+      ],
+      "correct": 0,
+      "explanation": "Un événement impossible a une probabilité de 0."
+    },
+    {
+      "question": "Lorsqu'on lance un dé, quelle est la probabilité d’obtenir un 4 ?",
+      "options": [
+        "1/6",
+        "1/4",
+        "1/3",
+        "1/2"
+      ],
+      "correct": 0,
+      "explanation": "Il y a une chance sur six d'obtenir un 4, donc la probabilité est 1/6."
+    },
+    {
+      "question": "Pour multiplier 3/4 par 2/5, quelle est la valeur de la fraction obtenue ?",
+      "options": [
+        "3/10",
+        "1/2",
+        "1/5",
+        "5/20"
+      ],
+      "correct": 0,
+      "explanation": "3/4 × 2/5 = (3×2) / (4×5) = 6/20 = 3/10."
+    },
+    {
+      "question": "Comment représente-t-on un pourcentage sous forme de fraction ?",
+      "options": [
+        "Sur 100",
+        "Sur 10",
+        "Sous forme décimale",
+        "Aucune des réponses"
+      ],
+      "correct": 0,
+      "explanation": "Un pourcentage est une fraction sur 100."
+    },
+    {
+      "question": "Quel est l'inverse de 5/6 ?",
+      "options": [
+        "6/5",
+        "5/6",
+        "-5/6",
+        "1/5"
+      ],
+      "correct": 0,
+      "explanation": "L'inverse de 5/6 est 6/5."
+    },
+    {
+      "question": "Quelle est la fraction irréductible de 9/12 ?",
+      "options": [
+        "3/4",
+        "3/8",
+        "1/3",
+        "2/3"
+      ],
+      "correct": 0,
+      "explanation": "La fraction 9/12 simplifiée est 3/4, en divisant par 3."
+    },
+    {
+      "question": "Quelle est la probabilité complémentaire d’obtenir un 5 en lançant un dé ?",
+      "options": [
+        "5/6",
+        "1/6",
+        "3/6",
+        "4/6"
+      ],
+      "correct": 0,
+      "explanation": "La probabilité de ne pas obtenir 5 est 1 - 1/6 = 5/6."
+    },
+    {
+      "question": "Dans quelle situation utilise-t-on la règle d’addition des probabilités ?",
+      "options": [
+        "Pour deux événements incompatibles",
+        "Pour deux événements indépendants",
+        "Pour un événement certain",
+        "Pour un événement impossible"
+      ],
+      "correct": 0,
+      "explanation": "On utilise l’addition des probabilités pour des événements incompatibles."
+    },
+    {
+      "question": "Quelle est la fraction décimale équivalente à 0,75 ?",
+      "options": [
+        "3/4",
+        "1/4",
+        "7/10",
+        "2/3"
+      ],
+      "correct": 0,
+      "explanation": "0,75 est équivalent à la fraction décimale 75/100, qui se simplifie en 3/4."
+    },
+    {
+      "question": "Quelle est la probabilité d’obtenir une face paire en lançant un dé à six faces ?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "2/3"
+      ],
+      "correct": 0,
+      "explanation": "Avec trois nombres pairs sur six, la probabilité est 3/6 = 1/2."
+    },
+    {
+      "question": "Comment simplifie-t-on la fraction 15/20 ?",
+      "options": [
+        "3/4",
+        "1/2",
+        "2/3",
+        "1/4"
+      ],
+      "correct": 0,
+      "explanation": "15/20 simplifié est 3/4 (divisé par 5)."
+    },
+    {
+      "question": "Quelle est la probabilité de tirer un jeton bleu dans une boîte avec 3 rouges, 4 bleus, et 5 verts ?",
+      "options": [
+        "1/3",
+        "1/4",
+        "4/12",
+        "2/5"
+      ],
+      "correct": 0,
+      "explanation": "Avec 4 bleus sur 12 jetons, la probabilité est 4/12 = 1/3."
+    },
+    {
+      "question": "Quelle est la fraction obtenue en divisant 5/6 par 2/3 ?",
+      "options": [
+        "5/4",
+        "3/4",
+        "5/2",
+        "1"
+      ],
+      "correct": 0,
+      "explanation": "5/6 ÷ 2/3 est égal à 5/6 × 3/2 = 15/12 = 5/4."
+    },
+    {
+      "question": "Dans une expérience à probabilités égales, combien vaut la somme des probabilités de toutes les issues ?",
+      "options": [
+        "1",
+        "0",
+        "1/2",
+        "Dépend du nombre d’issues"
+      ],
+      "correct": 0,
+      "explanation": "La somme des probabilités de toutes les issues d'une expérience est égale à 1."
+    }
+  ]
+}
