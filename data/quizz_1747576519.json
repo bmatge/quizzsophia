@@ -1,0 +1,236 @@
+{
+  "titre": "Quiz Mathématiques - Probabilités et Fractions - Niveau 4ème",
+  "questions": [
+    {
+      "question": "Comment appelle-t-on la fraction où le numérateur et le dénominateur n'ont pas de diviseur commun autre que 1 ?",
+      "options": [
+        "Fraction propre",
+        "Fraction impropre",
+        "Fraction irréductible",
+        "Fraction équivalente"
+      ],
+      "correct": 2,
+      "explanation": "Une fraction est irréductible lorsque son numérateur et son dénominateur n'ont pas de diviseur commun autre que 1."
+    },
+    {
+      "question": "Quelle est la somme de \\(\\frac{3}{8} + \\frac{1}{4}\\) ?",
+      "options": [
+        "\\(\\frac{5}{8}\\)",
+        "\\(\\frac{7}{8}\\)",
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{6}{8}\\)"
+      ],
+      "correct": 1,
+      "explanation": "Il faut mettre les fractions au même dénominateur : \\(\\frac{3}{8} + \\frac{2}{8} = \\frac{5}{8}\\)."
+    },
+    {
+      "question": "Quelle est la probabilité d'obtenir un nombre pair en lançant un dé à six faces ?",
+      "options": [
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{1}{3}\\)",
+        "\\(\\frac{1}{6}\\)",
+        "\\(\\frac{2}{3}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Les nombres pairs possibles sont 2, 4, et 6, soit 3 sur 6 issues. La probabilité est \\(\\frac{3}{6} = \\frac{1}{2}\\)."
+    },
+    {
+      "question": "Qu'est-ce qu'une expérience aléatoire ?",
+      "options": [
+        "Une expérience avec des résultats prévisibles",
+        "Une expérience dont le résultat dépend de l'habileté",
+        "Une expérience dont on ne peut pas prévoir le résultat à l'avance",
+        "Une expérience qui se répète indéfiniment"
+      ],
+      "correct": 2,
+      "explanation": "Une expérience aléatoire est une expérience dont le résultat ne peut pas être prévu à l'avance, comme le lancer d'un dé."
+    },
+    {
+      "question": "Comment simplifier la fraction \\(\\frac{18}{24}\\) ?",
+      "options": [
+        "\\(\\frac{3}{4}\\)",
+        "\\(\\frac{2}{3}\\)",
+        "\\(\\frac{9}{12}\\)",
+        "\\(\\frac{3}{5}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Pour simplifier \\(\\frac{18}{24}\\), on divise le numérateur et le dénominateur par leur PGCD, qui est 6, soit \\(\\frac{3}{4}\\)."
+    },
+    {
+      "question": "Par quelle fraction doit-on multiplier \\(\\frac{3}{5}\\) pour obtenir 1 ?",
+      "options": [
+        "\\(\\frac{5}{3}\\)",
+        "\\(\\frac{3}{5}\\)",
+        "1",
+        "\\(\\frac{2}{3}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Pour obtenir 1, il faut multiplier une fraction par son inverse, donc \\(\\frac{3}{5} \\times \\frac{5}{3} = 1\\)."
+    },
+    {
+      "question": "Quelle est la probabilité de tirer un jeton bleu d'une boîte contenant 3 jetons rouges, 4 bleus, et 5 verts ?",
+      "options": [
+        "\\(\\frac{4}{12}\\)",
+        "\\(\\frac{1}{3}\\)",
+        "\\(\\frac{5}{12}\\)",
+        "\\(\\frac{1}{4}\\)"
+      ],
+      "correct": 1,
+      "explanation": "La boîte contient 3 + 4 + 5 = 12 jetons. La probabilité de tirer un jeton bleu est \\(\\frac{4}{12} = \\frac{1}{3}\\)."
+    },
+    {
+      "question": "Comment s'appelle l'ensemble de tous les résultats possibles d'une expérience aléatoire ?",
+      "options": [
+        "Événement",
+        "Issue",
+        "Espace échantillon",
+        "Probabilité"
+      ],
+      "correct": 2,
+      "explanation": "L'ensemble de tous les résultats possibles d'une expérience aléatoire s'appelle l'espace échantillon."
+    },
+    {
+      "question": "Que vaut \\(\\frac{5}{6} \\times \\frac{2}{9}\\) ?",
+      "options": [
+        "\\(\\frac{10}{54}\\)",
+        "\\(\\frac{5}{27}\\)",
+        "\\(\\frac{5}{18}\\)",
+        "\\(\\frac{10}{54}\\)"
+      ],
+      "correct": 2,
+      "explanation": "En multipliant les numérateurs et les dénominateurs, on obtient \\(\\frac{10}{54}\\), soit \\(\\frac{5}{27}\\) après simplification."
+    },
+    {
+      "question": "Si P(A) = \\(\\frac{1}{4}\\), quelle est la probabilité de \\(\\text{non }A\\) ?",
+      "options": [
+        "\\(\\frac{3}{4}\\)",
+        "\\(\\frac{1}{4}\\)",
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{2}{3}\\)"
+      ],
+      "correct": 0,
+      "explanation": "La probabilité de l'événement contraire est P(non A) = 1 - P(A) = \\(\\frac{3}{4}\\)."
+    },
+    {
+      "question": "Comment peut-on exprimer la fraction \\(\\frac{45}{100}\\) ?",
+      "options": [
+        "0.45",
+        "0.045",
+        "4.5",
+        "0.1"
+      ],
+      "correct": 0,
+      "explanation": "\\(\\frac{45}{100}\\) est la fraction décimale de 45 %, soit 0.45."
+    },
+    {
+      "question": "Quelle est la probabilité d'obtenir \"pile\" deux fois de suite en lançant une pièce deux fois ?",
+      "options": [
+        "\\(\\frac{1}{4}\\)",
+        "\\(\\frac{1}{2}\\)",
+        "\\(\\frac{1}{3}\\)",
+        "\\(\\frac{1}{8}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Chaque lancer a 2 issues possibles, donc 4 issues en tout: PP, PF, FP, FF. PP est l'unique réussite, soit \\(\\frac{1}{4}\\)."
+    },
+    {
+      "question": "Comment appelle-t-on deux événements qui ne peuvent pas se produire en même temps ?",
+      "options": [
+        "Événements compatibles",
+        "Événements indépendants",
+        "Événements incompatibles",
+        "Événements certitudes"
+      ],
+      "correct": 2,
+      "explanation": "Deux événements sont incompatibles s'ils ne peuvent pas se produire en même temps."
+    },
+    {
+      "question": "Quel schéma utilise-t-on pour lister toutes les issues des expériences successives ?",
+      "options": [
+        "Schéma circulaire",
+        "Schéma d'arbre",
+        "Diagramme en bâtons",
+        "Tableau de probabilités"
+      ],
+      "correct": 1,
+      "explanation": "Le schéma d'arbre est utilisé pour lister toutes les issues lors de plusieurs expériences successives."
+    },
+    {
+      "question": "Quelle est la somme des probabilités de toutes les issues d'une expérience aléatoire ?",
+      "options": [
+        "1",
+        "0",
+        "\\(\\frac{1}{2}\\)",
+        "Cela dépend de l'expérience"
+      ],
+      "correct": 0,
+      "explanation": "En probabilité, la somme des probabilités de toutes les issues doit toujours être égale à 1."
+    },
+    {
+      "question": "Comment s'écrit en fraction simplifiée la somme \\(\\frac{2}{3} + \\frac{1}{6}\\) ?",
+      "options": [
+        "\\(\\frac{5}{6}\\)",
+        "\\(\\frac{3}{6}\\)",
+        "\\(\\frac{3}{4}\\)",
+        "\\(\\frac{1}{2}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Pour additionner les fractions, mettez-les au même dénominateur: \\(\\frac{2}{3} = \\frac{4}{6}\\), donc \\(\\frac{4}{6} + \\frac{1}{6} = \\frac{5}{6}\\)."
+    },
+    {
+      "question": "Quelle est la probabilité que l'issue d'une expérience soit impossible ?",
+      "options": [
+        "0",
+        "1",
+        "Cela dépend de l'expérience",
+        "\\(\\frac{1}{2}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Un événement impossible a une probabilité de 0."
+    },
+    {
+      "question": "Si un dé est lancé, quelle est la probabilité d'obtenir un chiffre supérieur à 6 ?",
+      "options": [
+        "0",
+        "\\(\\frac{1}{6}\\)",
+        "1",
+        "\\(\\frac{1}{3}\\)"
+      ],
+      "correct": 0,
+      "explanation": "Obtenir un chiffre supérieur à 6 est impossible car un dé a 6 faces numérotées de 1 à 6. Donc, la probabilité est 0."
+    },
+    {
+      "question": "Quelle fraction représente 75 % ?",
+      "options": [
+        "\\(\\frac{3}{4}\\)",
+        "\\(\\frac{75}{10}\\)",
+        "\\(\\frac{7}{10}\\)",
+        "\\(\\frac{5}{4}\\)"
+      ],
+      "correct": 0,
+      "explanation": "75 % est la fraction \\(\\frac{75}{100}\\), qui se simplifie en \\(\\frac{3}{4}\\)."
+    },
+    {
+      "question": "Comment choisir le bon dénominateur pour ajouter \\(\\frac{3}{5}\\) et \\(\\frac{2}{3}\\) ?",
+      "options": [
+        "15",
+        "8",
+        "10",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "Le plus petit commun multiple des dénominateurs 5 et 3 est 15."
+    },
+    {
+      "question": "Quelle est la probabilité d'obtenir un 4 ou un 5 en lançant un dé ?",
+      "options": [
+        "\\(\\frac{1}{6}\\)",
+        "\\(\\frac{2}{6}\\)",
+        "\\(\\frac{1}{3}\\)",
+        "0"
+      ],
+      "correct": 2,
+      "explanation": "P(4 ou 5) = P(4) + P(5) = \\(\\frac{1}{6} + \\frac{1}{6} = \\frac{2}{6} = \\frac{1}{3}\\)."
+    }
+  ]
+}
