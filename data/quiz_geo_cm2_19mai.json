@@ -1,0 +1,225 @@
+{
+  "titre": "Gestion et recyclage des déchets - Mai 2025",
+  "questions": [
+    {
+      "question": "Qui prend en charge le ramassage des ordures ménagères en France ?",
+      "options": [
+        "Les collectivités",
+        "Les citoyens",
+        "Les écoles",
+        "Les hôpitaux"
+      ],
+      "correct": 0,
+      "explanation": "En France, ce sont les collectivités (État, mairies, entreprises privées) qui gèrent la collecte des déchets."
+    },
+    {
+      "question": "Que deviennent les déchets une fois collectés ?",
+      "options": [
+        "Ils sont jetés dans la nature",
+        "Ils sont triés et recyclés",
+        "Ils sont exportés",
+        "Ils sont tous incinérés"
+      ],
+      "correct": 1,
+      "explanation": "Les déchets collectés sont ensuite triés pour être recyclés ou valorisés."
+    },
+    {
+      "question": "Quels matériaux sont recyclables ?",
+      "options": [
+        "Papier, plastique, verre, aluminium",
+        "Bois, tissu, sable, cailloux",
+        "Eau, gaz, lumière, chaleur",
+        "Fer, béton, céramique, peinture"
+      ],
+      "correct": 0,
+      "explanation": "Les matériaux comme le papier, le plastique, le verre et l'aluminium peuvent être recyclés."
+    },
+    {
+      "question": "Que permet de produire la transformation des déchets végétaux ?",
+      "options": [
+        "Du plastique",
+        "Du compost",
+        "Du béton",
+        "Du métal"
+      ],
+      "correct": 1,
+      "explanation": "Les déchets végétaux sont transformés en compost, un engrais naturel."
+    },
+    {
+      "question": "Pourquoi est-il important de trier ses déchets ?",
+      "options": [
+        "Pour produire plus de déchets",
+        "Pour recycler et protéger l’environnement",
+        "Pour avoir plus de poubelles",
+        "Pour embêter les éboueurs"
+      ],
+      "correct": 1,
+      "explanation": "Le tri permet un meilleur recyclage et diminue la pollution."
+    },
+    {
+      "question": "Quels sont les trois grands types de déchets ?",
+      "options": [
+        "Liquide, solide, gazeux",
+        "Recyclable, non recyclable, organique",
+        "Plastique, métal, papier",
+        "Vert, bleu, jaune"
+      ],
+      "correct": 1,
+      "explanation": "Les déchets sont généralement classés en recyclables, non recyclables et organiques."
+    },
+    {
+      "question": "Que doit-on faire pour bien trier ?",
+      "options": [
+        "Tout jeter dans la même poubelle",
+        "Suivre les consignes locales",
+        "Demander à ses voisins",
+        "Brûler les déchets chez soi"
+      ],
+      "correct": 1,
+      "explanation": "Il faut suivre les consignes de tri locales, qui varient parfois selon les communes."
+    },
+    {
+      "question": "Où trouve-t-on souvent des bacs de tri ?",
+      "options": [
+        "Dans les hôpitaux",
+        "Dans les lieux publics et marchés",
+        "Dans les bois",
+        "Dans les restaurants"
+      ],
+      "correct": 1,
+      "explanation": "Les grands marchés et lieux publics sont souvent équipés de bacs de tri."
+    },
+    {
+      "question": "Quel est l'intérêt de trier les déchets ?",
+      "options": [
+        "Polluer moins et recycler plus",
+        "Avoir des poubelles pleines",
+        "Faire plaisir au maire",
+        "Gagner de l'argent"
+      ],
+      "correct": 0,
+      "explanation": "Le tri permet de diminuer la pollution et de réutiliser des ressources."
+    },
+    {
+      "question": "Quel type de déchets produit du compost ?",
+      "options": [
+        "Papier",
+        "Verre",
+        "Déchets végétaux",
+        "Aluminium"
+      ],
+      "correct": 2,
+      "explanation": "Les déchets végétaux comme les épluchures produisent du compost."
+    },
+    {
+      "question": "Quels objets reconnaît-on sur l’œuvre « Decal » ?",
+      "options": [
+        "Des livres et des fleurs",
+        "Des déchets comme des canettes et emballages",
+        "Des téléphones et des câbles",
+        "Des jouets et des peluches"
+      ],
+      "correct": 1,
+      "explanation": "L’œuvre est composée de déchets visibles comme des canettes, papiers, emballages, etc."
+    },
+    {
+      "question": "Où se situe Manhattan ?",
+      "options": [
+        "À Londres",
+        "En Australie",
+        "À New York, USA",
+        "En Afrique du Sud"
+      ],
+      "correct": 2,
+      "explanation": "Manhattan est un quartier de la ville de New York, aux États-Unis."
+    },
+    {
+      "question": "Comment les artistes ont-ils créé la silhouette de Manhattan dans l’œuvre ?",
+      "options": [
+        "Avec des briques",
+        "Avec des dessins",
+        "Avec des jeux d’ombre et de lumière",
+        "Avec un projecteur"
+      ],
+      "correct": 2,
+      "explanation": "Les artistes ont utilisé les ombres des déchets pour créer une silhouette sur le mur."
+    },
+    {
+      "question": "Que veulent montrer les artistes dans « Decal » ?",
+      "options": [
+        "La ville est propre",
+        "On peut créer de l’art avec des déchets",
+        "Les gratte-ciels sont dangereux",
+        "Le plastique est utile"
+      ],
+      "correct": 1,
+      "explanation": "Ils montrent que même des déchets peuvent servir à produire une œuvre artistique."
+    },
+    {
+      "question": "Que symbolise la lumière dans l’œuvre « Decal » ?",
+      "options": [
+        "L’électricité",
+        "La pollution",
+        "La mise en valeur de l’art",
+        "Le coucher du soleil"
+      ],
+      "correct": 3,
+      "explanation": "La lumière projette une silhouette qui rappelle un coucher de soleil sur Manhattan."
+    },
+    {
+      "question": "Quel est le rôle de l’ombre dans l’œuvre ?",
+      "options": [
+        "Elle rend invisible la ville",
+        "Elle crée une illusion de paysage urbain",
+        "Elle fait peur",
+        "Elle illumine les déchets"
+      ],
+      "correct": 1,
+      "explanation": "L’ombre crée l’illusion d’un paysage urbain à partir des déchets disposés."
+    },
+    {
+      "question": "Pourquoi l’œuvre s’appelle-t-elle « Decal » ?",
+      "options": [
+        "Parce qu’elle colle",
+        "Parce qu’elle montre une image projetée",
+        "Parce qu’elle est faite avec du carton",
+        "Parce qu’elle parle de voitures"
+      ],
+      "correct": 1,
+      "explanation": "Le titre fait référence à une image décalée/projetée par les jeux d’ombre."
+    },
+    {
+      "question": "Que peut-on apprendre de cette œuvre ?",
+      "options": [
+        "À dessiner des bâtiments",
+        "À mieux trier ses déchets",
+        "À voir l’art autrement",
+        "À fabriquer du plastique"
+      ],
+      "correct": 2,
+      "explanation": "L’œuvre invite à considérer les déchets comme matière artistique potentielle."
+    },
+    {
+      "question": "Pourquoi l’œuvre est-elle impressionnante ?",
+      "options": [
+        "Parce qu’elle est grande",
+        "Parce qu’on ne voit pas les déchets au premier regard",
+        "Parce qu’elle brille",
+        "Parce qu’elle est colorée"
+      ],
+      "correct": 1,
+      "explanation": "La silhouette urbaine est créée uniquement par les ombres de déchets, ce qui surprend le spectateur."
+    },
+    {
+      "question": "Quel est le message commun entre la leçon sur les déchets et l’œuvre « Decal » ?",
+      "options": [
+        "Les déchets ne servent à rien",
+        "Il faut tous les jeter",
+        "Les déchets peuvent avoir une seconde vie",
+        "Il faut construire des villes en déchets"
+      ],
+      "correct": 2,
+      "explanation": "Les deux montrent que les déchets peuvent être valorisés, recyclés ou transformés."
+    }
+  ]
+}
