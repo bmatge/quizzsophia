@@ -1,0 +1,225 @@
+{
+  "titre": "Figures de style dans la poésie française - Date",
+  "questions": [
+    {
+      "question": "Quelle est la définition de la métaphore ?",
+      "options": [
+        "Une comparaison sans outil de comparaison.",
+        "Une répétition d’un même son.",
+        "Une exagération d’une idée.",
+        "Une opposition de termes.",
+      ],
+      "correct": 0,
+      "explanation": "La métaphore est une comparaison implicite sans outil de comparaison."
+    },
+    {
+      "question": "Quel est l’effet principal d’une allitération ?",
+      "options": [
+        "Répéter un son de voyelle pour créer un effet mélodieux.",
+        "Répéter des mots pour insister sur une idée.",
+        "Répéter un son consonantique pour créer un effet harmonieux ou discordant.",
+        "Exprimer une idée contraire pour créer une ironie.",
+      ],
+      "correct": 2,
+      "explanation": "L'allitération consiste à répéter des sons consonantiques, créant une harmonie ou une dissonance."
+    },
+    {
+      "question": "Identifiez l’oxymore dans cette phrase : « Cette obscure clarté qui tombe des étoiles ». ",
+      "options": [
+        "obscure clarté",
+        "tombe des étoiles",
+        "qui clarté des",
+        "stars de l'obscurité",
+      ],
+      "correct": 0,
+      "explanation": "Un oxymore juxtapose deux termes contradictoires, ici : 'obscure clarté'."
+    },
+    {
+      "question": "Dans le vers « Il pleure dans mon cœur comme il pleut sur la ville », quelle figure de style est utilisée ?",
+      "options": [
+        "Métaphore",
+        "Comparaison",
+        "Personnification",
+        "Allégorie",
+      ],
+      "correct": 1,
+      "explanation": "C'est une comparaison, utilisant 'comme' pour établir un lien entre les deux actions."
+    },
+    {
+      "question": "Quelle est la différence principale entre une comparaison et une métaphore ?",
+      "options": [
+        "La métaphore n’utilise pas d’outil de comparaison.",
+        "La comparaison ne compare pas réellement.",
+        "La métaphore utilise un outil de comparaison.",
+        "Il n’y a pas de différence.",
+      ],
+      "correct": 0,
+      "explanation": "La métaphore compare implicitement sans utiliser de mots comme 'comme'."
+    },
+    {
+      "question": "Quel exemple correspond à une hyperbole ?",
+      "options": [
+        "Il est doux comme du miel.",
+        "Il a une montagne de devoirs.",
+        "Il pleure comme une fontaine.",
+        "Il chante un chant mélodieux.",
+      ],
+      "correct": 1,
+      "explanation": "L'hyperbole est une exagération, comme 'une montagne de devoirs'."
+    },
+    {
+      "question": "La personnification consiste à...",
+      "options": [
+        "Attribuer des traits humains à des objets ou des animaux.",
+        "Comparer deux idées sans outil de comparaison.",
+        "Exagérer une idée ou un trait.",
+        "Utiliser un mot pour un autre.",
+      ],
+      "correct": 0,
+      "explanation": "La personnification attribue des qualités humaines à des objets inanimés ou des animaux."
+    },
+    {
+      "question": "Repérez la métonymie dans : « J’ai bu un verre. »",
+      "options": [
+        "boire",
+        "verre",
+        "J’ai",
+        "un",
+      ],
+      "correct": 1,
+      "explanation": "La métonymie utilise 'verre' pour représenter le contenu qu’il contient."
+    },
+    {
+      "question": "Quel est l’effet principal d’une anaphore ?",
+      "options": [
+        "Répéter une consonne.",
+        "Répéter un mot ou une expression en début de phrase.",
+        "Opposer deux termes.",
+        "Utiliser des mots de même origine.",
+      ],
+      "correct": 1,
+      "explanation": "L'anaphore répète un mot ou une expression au début de phrases ou de vers pour insister."
+    },
+    {
+      "question": "« Le soleil s'endormait à l'horizon. » est un exemple de...",
+      "options": [
+        "Métaphore",
+        "Personnification",
+        "Antithèse",
+        "Allégorie",
+      ],
+      "correct": 1,
+      "explanation": "La personnification ici attribue des actions humaines au soleil."
+    },
+    {
+      "question": "Quel est l’effet de l'énumération ?",
+      "options": [
+        "Amplifier une description par une liste de détails.",
+        "Dériver des mots qui se ressemblent phonétiquement.",
+        "Utiliser une double négation pour exprimer une idée positive.",
+        "Exagérer pour souligner un point.",
+      ],
+      "correct": 0,
+      "explanation": "L'énumération liste des éléments pour enrichir une description."
+    },
+    {
+      "question": "Identifiez la figure de style : « Voilà une belle journée de pluie ! »",
+      "options": [
+        "Hyperbole",
+        "Litote",
+        "Ironie",
+        "Synecdoque",
+      ],
+      "correct": 2,
+      "explanation": "C’est de l'ironie, car la pluie est généralement perçue négativement."
+    },
+    {
+      "question": "Quelle figure de style est présente dans : « Cet homme n’est pas un Einstein. » pour dire qu'il n'est pas intelligent ?",
+      "options": [
+        "Antiphrase",
+        "Litote",
+        "Euphémisme",
+        "Hyperbole",
+      ],
+      "correct": 1,
+      "explanation": "La litote utilise la négation pour atténuer une idée, souvent en disant moins pour signifier plus."
+    },
+    {
+      "question": "Quelle est la figure de style qui accumule des synonymes ou des termes appartenant à la même idée ?",
+      "options": [
+        "Climax",
+        "Antithèse",
+        "Pléonasme",
+        "Accumulation",
+      ],
+      "correct": 3,
+      "explanation": "L'accumulation réunit des termes pour intensifier une même idée."
+    },
+    {
+      "question": "Quel exemple illustre une antithèse ?",
+      "options": [
+        "Il est d'une beauté inégalée.",
+        "Il navigue entre la joie et la tristesse.",
+        "Une mer de sable ondulait à l’horizon.",
+        "Un fou rire inextinguible.",
+      ],
+      "correct": 1,
+      "explanation": "L'antithèse oppose deux idées ou sentiments, comme joie et tristesse."
+    },
+    {
+      "question": "Quel type de figure de style joue sur le double sens des mots ?",
+      "options": [
+        "Oxymore",
+        "Allégorie",
+        "Paronomase",
+        "Calembour",
+      ],
+      "correct": 3,
+      "explanation": "Le calembour joue sur le double sens des mots, souvent pour un effet humoristique."
+    },
+    {
+      "question": "Dans quelle figure de style le tout est désigné par la partie ?",
+      "options": [
+        "Métaphore",
+        "Synecdoque",
+        "Ironie",
+        "Allitération",
+      ],
+      "correct": 1,
+      "explanation": "La synecdoque utilise une partie pour représenter le tout, et vice-versa."
+    },
+    {
+      "question": "Repérez la figure de style dans : « Les murs ont des oreilles. »",
+      "options": [
+        "Personnification",
+        "Paradoxe",
+        "Comparaison",
+        "Euphémisme",
+      ],
+      "correct": 0,
+      "explanation": "La personnification attribue des caractéristiques humaines à des objets, ici, les murs."
+    },
+    {
+      "question": "Quel est l’effet de l'ironie ?",
+      "options": [
+        "Ressentir une admiration.",
+        "Faire rire ou réfléchir par une contradiction apparente.",
+        "Créer une mélodie par répétition de sons.",
+        "Rendre les idées plus claires.",
+      ],
+      "correct": 1,
+      "explanation": "L'ironie vise à faire réfléchir ou sourire par opposition entre le sens apparent et le sens réel."
+    },
+    {
+      "question": "Quelle figure de style est utilisée dans : « Ses cheveux de jais couvraient ses épaules. » ?",
+      "options": [
+        "Euphémisme",
+        "Hyperbole",
+        "Métaphore",
+        "Allitération",
+      ],
+      "correct": 2,
+      "explanation": "La métaphore compare sans outil de comparaison, ici associant cheveux à une couleur."
+    }
+  ]
+}
