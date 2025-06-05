@@ -1,0 +1,225 @@
+{ 
+  "titre": "Quiz Géographie CM2 - Gestion, traitement et surveillance des déchets - DATE",
+  "questions": [
+    {
+      "question": "Quelle organisation prend en charge le ramassage des ordures ménagères en France ?",
+      "options": [
+        "Les collectivités locales",
+        "Les habitants",
+        "Les entreprises privées uniquement",
+        "La police"
+      ],
+      "correct": 0,
+      "explanation": "En France, ce sont les collectivités locales, comme les mairies, qui sont en charge du ramassage des ordures ménagères."
+    },
+    {
+      "question": "Quels matériaux sont envoyés en usine pour être recyclés ?",
+      "options": [
+        "Papier et verre",
+        "Métal et déchets organiques",
+        "Bois et textile",
+        "Céramique et béton"
+      ],
+      "correct": 0,
+      "explanation": "Le papier et le verre sont envoyés en usine pour être recyclés, selon le texte fourni."
+    },
+    {
+      "question": "Quel est le processus utilisé pour transformer les déchets végétaux ?",
+      "options": [
+        "Incinération",
+        "Compostage",
+        "Enfouissement",
+        "Plastification"
+      ],
+      "correct": 1,
+      "explanation": "Les déchets végétaux sont transformés par une compagnie pour produire du compost naturel."
+    },
+    {
+      "question": "Quels sont les types de déchets recyclables mentionnés ?",
+      "options": [
+        "Papier, plastique, métal, verre",
+        "Piles, médicaments, électronique",
+        "Bois, céramique, textile",
+        "Aliments, pierres, béton"
+      ],
+      "correct": 0,
+      "explanation": "Les déchets recyclables incluent le papier, le plastique, le métal et le verre."
+    },
+    {
+      "question": "Où doit-on trier les déchets pour améliorer le recyclage ?",
+      "options": [
+        "Dans les marchés",
+        "Uniquement à la maison",
+        "Dans la rue au hasard",
+        "Seulement au bureau"
+      ],
+      "correct": 0,
+      "explanation": "Le tri des déchets peut se faire dans des lieux comme les marchés qui mettent des bacs pour différents types de matériaux."
+    },
+    {
+      "question": "Pourquoi est-il important de trier les déchets ?",
+      "options": [
+        "Pour décorer les villes",
+        "Pour réduire la pollution et réutiliser les ressources",
+        "Pour gagner de l'argent",
+        "Pour augmenter la production de déchets"
+      ],
+      "correct": 1,
+      "explanation": "Trier les déchets est crucial pour diminuer la pollution et permettre la réutilisation des ressources."
+    },
+    {
+      "question": "Que doit faire un habitant pour participer au tri des déchets ?",
+      "options": [
+        "Suivre les consignes locales pour le tri",
+        "Ignorer les bacs de tri",
+        "Brûler tous les déchets",
+        "Ne rien faire"
+      ],
+      "correct": 0,
+      "explanation": "Les habitants doivent suivre les consignes locales pour tri et recyclage des déchets."
+    },
+    {
+      "question": "Quels déchets peuvent être compostés ?",
+      "options": [
+        "Déchets végétaux",
+        "Plastique",
+        "Verre",
+        "Métal"
+      ],
+      "correct": 0,
+      "explanation": "Les déchets végétaux peuvent être transformés en compost."
+    },
+    {
+      "question": "Quelle est une conséquence positive du tri des déchets ?",
+      "options": [
+        "Augmenter le coût du traitement des déchets",
+        "Protéger notre planète",
+        "Accélérer la pollution",
+        "Diminuer la réutilisation des ressources"
+      ],
+      "correct": 1,
+      "explanation": "Le tri des déchets est nécessaire pour protéger notre planète en réutilisant les ressources."
+    },
+    {
+      "question": "Quel est le rôle des entreprises privées dans la gestion des déchets ?",
+      "options": [
+        "S'occuper des déchets ménagers uniquement",
+        "Collaborer avec l'État et les collectivités locales",
+        "Ignorer les règlements",
+        "N’avoir aucun rôle"
+      ],
+      "correct": 1,
+      "explanation": "Les entreprises privées collaborent avec l'État et les collectivités dans la gestion des déchets."
+    },
+    {
+      "question": "Quels sont les types de déchets qui ne peuvent pas être recyclés ?",
+      "options": [
+        "Déchets organiques",
+        "Déchets non recyclables",
+        "Papier",
+        "Métal"
+      ],
+      "correct": 1,
+      "explanation": "Les déchets non recyclables ne peuvent pas être traités pour être réutilisés."
+    },
+    {
+      "question": "Quel type de déchets doit être trié dans les lieux publics comme les grands marchés ?",
+      "options": [
+        "Emballages, papiers",
+        "Déchets ménagers mélangés",
+        "Pierres",
+        "Aliments uniquement"
+      ],
+      "correct": 0,
+      "explanation": "Dans les lieux publics comme les marchés, on trie les emballages et les papiers."
+    },
+    {
+      "question": "Quel est un exemple d'une action indispensable pour protéger notre planète ?",
+      "options": [
+        "Augmenter la consommation de plastique",
+        "Accélérer le gaspillage",
+        "Faire le tri des déchets",
+        "Ignorer le recyclage"
+      ],
+      "correct": 2,
+      "explanation": "Faire le tri des déchets est une action indispensable pour protéger notre planète."
+    },
+    {
+      "question": "Que se passe-t-il avec les déchets récupérés à l'usine ?",
+      "options": [
+        "Ils sont brûlés",
+        "Ils sont transformés et réutilisés",
+        "Ils sont enterrés",
+        "Ils sont relâchés dans la nature"
+      ],
+      "correct": 1,
+      "explanation": "Les déchets sont transformés et réutilisés en usine pour minimiser leur impact écologique."
+    },
+    {
+      "question": "Quel matériau n'est pas recyclable ?",
+      "options": [
+        "Plastique",
+        "Verre",
+        "Papier",
+        "Céramique"
+      ],
+      "correct": 3,
+      "explanation": "La céramique n'est généralement pas recyclable via les filières de tri classiques."
+    },
+    {
+      "question": "À quoi sert le compost naturel produit à partir de déchets végétaux ?",
+      "options": [
+        "Fabrication de bouteilles",
+        "Amélioration des sols",
+        "Production d'énergie",
+        "Augmenter la pollution"
+      ],
+      "correct": 1,
+      "explanation": "Le compost naturel est utilisé pour améliorer les sols de manière écologique."
+    },
+    {
+      "question": "Que montre l'œuvre 'Decal' de Tim Noble & Sue Webster ?",
+      "options": [
+        "L'économie d'énergie",
+        "La beauté des déchets",
+        "Ce que l’on peut faire avec des déchets",
+        "La ville de Paris"
+      ],
+      "correct": 2,
+      "explanation": "L’œuvre montre ce que l’on peut faire de créatif avec des déchets."
+    },
+    {
+      "question": "Comment les déchets peuvent-ils contribuer à la production de compost ?",
+      "options": [
+        "En les brûlant",
+        "Grâce aux méthodes de compostage",
+        "En les empilant",
+        "En les laissant pourrir"
+      ],
+      "correct": 1,
+      "explanation": "Les déchets végétaux sont transformés grâce aux méthodes de compostage pour produire du compost."
+    },
+    {
+      "question": "Quelle est une bonne pratique pour trier les déchets à la maison ?",
+      "options": [
+        "Mélanger tous les déchets",
+        "Utiliser des poubelles de tri sélectif",
+        "Ne pas trier les déchets",
+        "Laisser les déchets à l'extérieur"
+      ],
+      "correct": 1,
+      "explanation": "Utiliser des poubelles de tri sélectif permet de séparer correctement les déchets pour le recyclage."
+    },
+    {
+      "question": "Quel est l'un des effets néfastes du non-recyclage ?",
+      "options": [
+        "Réduction des coûts de production",
+        "Augmentation de la pollution",
+        "Amélioration de l'environnement",
+        "Diminution des décharges"
+      ],
+      "correct": 1,
+      "explanation": "Ne pas recycler augmente la pollution par le biais de déchets qui auraient pu être réutilisés ou traités."
+    }
+  ]
+}
