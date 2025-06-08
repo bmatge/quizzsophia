@@ -1,0 +1,225 @@
+{
+  "titre": "La Vénus d’Ile de Prosper Merimée - Quiz",
+  "questions": [
+    {
+      "question": "Quel est le genre littéraire de 'La Vénus d'Ile'?",
+      "options": [
+        "Nouvelle fantastique",
+        "Roman historique",
+        "Poème épique",
+        "Essai philosophique"
+      ],
+      "correct": 0,
+      "explanation": "La Vénus d'Ile est une nouvelle fantastique écrite par Prosper Mérimée."
+    },
+    {
+      "question": "Dans quelle collection figure 'La Vénus d'Ile'?",
+      "options": [
+        "Les Contes de la Folie Méricourt",
+        "Lettres à une Inconnue",
+        "Mosaïque",
+        "Les Contes du lundi"
+      ],
+      "correct": 2,
+      "explanation": "La nouvelle 'La Vénus d'Ile' est incluse dans la collection 'Mosaïque' de Mérimée."
+    },
+    {
+      "question": "Qui est le personnage principal de 'La Vénus d'Ile'?",
+      "options": [
+        "Alphonse",
+        "Peyrehorade",
+        "Taulet",
+        "Venus"
+      ],
+      "correct": 1,
+      "explanation": "Peyrehorade est le personnage principal central à l'intrigue de la nouvelle."
+    },
+    {
+      "question": "Quel est le thème principal de 'La Vénus d'Ile'?",
+      "options": [
+        "La vengeance",
+        "L'amour romantique",
+        "Le mystère et le surnaturel",
+        "La guerre"
+      ],
+      "correct": 2,
+      "explanation": "Le mystère et le surnaturel sont des thèmes principaux de cette nouvelle."
+    },
+    {
+      "question": "Quel objet est central à l'intrigue de 'La Vénus d'Ile'?",
+      "options": [
+        "Une bague",
+        "Une statue",
+        "Un miroir",
+        "Un livre ancien"
+      ],
+      "correct": 1,
+      "explanation": "Une statue, celle de Vénus, est centrale à l'intrigue de l'histoire."
+    },
+    {
+      "question": "Que représente la statue de Vénus dans l'histoire?",
+      "options": [
+        "La beauté éternelle",
+        "La richesse et le pouvoir",
+        "Une malédiction mortelle",
+        "La sagesse antique"
+      ],
+      "correct": 2,
+      "explanation": "La statue de Vénus représente une malédiction mortelle dans l'histoire."
+    },
+    {
+      "question": "Quel événement déclenche le mystère dans 'La Vénus d'Ile'?",
+      "options": [
+        "Une déclaration d'amour",
+        "Un mariage arrangé",
+        "Un décès inexpliqué",
+        "La découverte de la statue"
+      ],
+      "correct": 3,
+      "explanation": "La découverte de la statue de Vénus déclenche le mystère de l'histoire."
+    },
+    {
+      "question": "Comment alerte-t-on de la malédiction associée à la statue?",
+      "options": [
+        "Un rêve prophétique",
+        "Une vieille légende",
+        "Un avertissement écrit",
+        "Un poème chanté"
+      ],
+      "correct": 1,
+      "explanation": "Une vieille légende est associée à la statue, avertissant de la malédiction."
+    },
+    {
+      "question": "Quelle est la réaction d'Alphonse face à la statue de Vénus?",
+      "options": [
+        "L'indifférence totale",
+        "La peur et la terreur",
+        "L'adoration et l'émerveillement",
+        "Le dégoût et le mépris"
+      ],
+      "correct": 2,
+      "explanation": "Alphonse montre de l'adoration et de l'émerveillement envers la statue."
+    },
+    {
+      "question": "Quel effet la statue a-t-elle sur les personnages masculins?",
+      "options": [
+        "Elle les rend riches",
+        "Elle les effraie",
+        "Elle provoque la convoitise",
+        "Elle les rend heureux"
+      ],
+      "correct": 2,
+      "explanation": "La statue provoque la convoitise chez les personnages masculins."
+    },
+    {
+      "question": "Comment se termine l'histoire de 'La Vénus d'Ile'?",
+      "options": [
+        "Alphonse épouse la femme de ses rêves",
+        "Peyrehorade meurt dans des circonstances mystérieuses",
+        "La statue est détruite",
+        "La malédiction est levée par un sort"
+      ],
+      "correct": 1,
+      "explanation": "L'histoire se termine par la mort mystérieuse de Peyrehorade."
+    },
+    {
+      "question": "Quelle est l'attitude de Mérimée envers les superstitions dans cette nouvelle?",
+      "options": [
+        "Ridicule",
+        "Sérieuse",
+        "Ambiguë",
+        "Indifférente"
+      ],
+      "correct": 2,
+      "explanation": "Mérimée adopte une attitude ambiguë envers les superstitions."
+    },
+    {
+      "question": "Quel rôle joue Taulet dans l'intrigue de 'La Vénus d'Ile'?",
+      "options": [
+        "Le narrateur principal",
+        "L'antagoniste principal",
+        "Un témoin passif",
+        "Le héros de l'histoire"
+      ],
+      "correct": 0,
+      "explanation": "Taulet est le narrateur principal de l'histoire."
+    },
+    {
+      "question": "Quel auteur a influencé le style de 'La Vénus d'Ile'?",
+      "options": [
+        "Victor Hugo",
+        "Edgar Allan Poe",
+        "Honoré de Balzac",
+        "Alexandre Dumas"
+      ],
+      "correct": 1,
+      "explanation": "Edgar Allan Poe a influencé le style de Mérimée dans cette nouvelle fantastique."
+    },
+    {
+      "question": "La Vénus d'Ile est surtout connue pour sa:",
+      "options": [
+        "Richesse descriptive",
+        "Simplicité narrative",
+        "Fin ouverte",
+        "Capacité à créer une atmosphère inquiétante"
+      ],
+      "correct": 3,
+      "explanation": "Elle est reconnue pour sa capacité à créer une atmosphère inquiétante."
+    },
+    {
+      "question": "Comment Prosper Mérimée utilise-t-il l'ironie dans 'La Vénus d'Ile'?",
+      "options": [
+        "Pour critiquer la société de son époque",
+        "Pour contraster le rationnel et le surnaturel",
+        "Pour ajouter de l'humour à l'histoire",
+        "Pour renforcer les croyances superstitieuses"
+      ],
+      "correct": 1,
+      "explanation": "L'ironie est utilisée pour contraster le rationnel et le surnaturel."
+    },
+    {
+      "question": "Quel élément du fantastique est présent dans 'La Vénus d'Ile'?",
+      "options": [
+        "Voyages temporels",
+        "Objets magiques",
+        "Revenants",
+        "Animaux parlants"
+      ],
+      "correct": 1,
+      "explanation": "La statue de Vénus en tant qu'objet magique est un élément du fantastique."
+    },
+    {
+      "question": "Dans quel cadre géographique se déroule l'histoire de 'La Vénus d'Ile'?",
+      "options": [
+        "Les montagnes des Pyrénées",
+        "Les plaines de Normandie",
+        "La ville de Paris",
+        "Une île méditerranéenne fictive"
+      ],
+      "correct": 3,
+      "explanation": "L'histoire se déroule sur une île méditerranéenne fictive."
+    },
+    {
+      "question": "Pourquoi peut-on dire que 'La Vénus d'Ile' a une structure en poupées russes?",
+      "options": [
+        "L'histoire inclut plusieurs narrateurs",
+        "Les récits se déploient dans un autre récit",
+        "Les personnages sont emboîtés comme des poupées",
+        "L'histoire a plusieurs fins"
+      ],
+      "correct": 1,
+      "explanation": "Elle a une structure en 'récits emboîtés' qui se déploient dans un autre récit."
+    },
+    {
+      "question": "Que symbolise la Vénus d'Ile dans la vie des personnages?",
+      "options": [
+        "La transformation personnelle",
+        "La fatalité inévitable",
+        "L'amour éternel",
+        "Le succès matériel"
+      ],
+      "correct": 1,
+      "explanation": "La Vénus d'Ile symbolise la fatalité inévitable dans la vie des personnages."
+    }
+  ]
+}
